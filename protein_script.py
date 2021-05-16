@@ -5,12 +5,8 @@ with open("file_names.txt") as file_name:
 
 for long_file_name in file_name_list:
     long_file_name = long_file_name.rstrip()
-    # long_file_name = input("File name: ")
     df = pd.read_csv("raw_data/" + long_file_name)
     file_name = long_file_name.split(" - ")[1].split(".")[0]
-
-    # with open("Name.txt") as name_column:
-    #     name_list = name_column.readlines()
 
     with open(f"processed_data/{file_name}.csv", "w") as f:
         f.write("Name, Total #hits, <0.001, Unique hits\n")
