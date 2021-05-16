@@ -1,0 +1,12 @@
+Copy of Phage NCBI tails complete.xlsx - Central Tail Fibre.csv
+Copy of Phage NCBI tails complete.xlsx - Dit-like Tail proteins.csv
+Copy of Phage NCBI tails complete.xlsx - Hub-like baseplate proteins.csv
+Copy of Phage NCBI tails complete.xlsx - Tail Assembly Chaperone.csv
+Copy of Phage NCBI tails complete.xlsx - Tail Completion protein.csv
+Copy of Phage NCBI tails complete.xlsx - Tail Terminator.csv
+Copy of Phage NCBI tails complete.xlsx - Tail Tip Lambda gpI.csv
+Copy of Phage NCBI tails complete.xlsx - Tail Tip Lambda gpK.csv
+Copy of Phage NCBI tails complete.xlsx - Tail Tip Lambda gpL.csv
+Copy of Phage NCBI tails complete.xlsx - Tail Tip Lambda gpM.csv
+Copy of Phage NCBI tails complete.xlsx - Tail Tube.csv
+Copy of Phage NCBI tails complete.xlsx - Tape Measure.csv

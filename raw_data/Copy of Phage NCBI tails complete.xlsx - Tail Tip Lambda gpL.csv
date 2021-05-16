@@ -1,0 +1,1733 @@
+Species ,Host ,GC ,Gstain ,Prot RefSeq,Hmm ID,Name ,E value ,Score ,Start,Stop ,Duplicate,DD,*
+Enterobacteria phage HK022,Escherichia coli,neg,NC_002166,NP_037678.1,Phage_tail_L,Phage_tail_L,0,309.9,24,249,1,0,1
+Enterobacteria phage HK022,Escherichia coli,neg,NC_002166,NP_037678.1,TIGR01600,TIGR01600,0,221,6,249,0,1,1
+Enterobacteria phage HK97,Escherichia coli,neg,NC_002167,NP_037712.1,Phage_tail_L,Phage_tail_L,0,320.5,24,250,1,0,1
+Enterobacteria phage HK97,Escherichia coli,neg,NC_002167,NP_037712.1,TIGR01600,TIGR01600,0,204.8,6,250,0,1,1
+Enterobacteria phage lambda,Escherichia coli,neg,NC_001416,NP_040597.1,Phage_tail_L,Phage_tail_L,0,324.5,29,230,1,0,1
+Enterobacteria phage lambda,Escherichia coli,neg,NC_001416,NP_040597.1,TIGR01600,TIGR01600,0,329.6,11,230,0,1,1
+Enterobacteria phage N15,Escherichia coli,neg,NC_001901,NP_046913.1,Phage_tail_L,Phage_tail_L,0,323.4,24,249,1,0,1
+Enterobacteria phage N15,Escherichia coli,neg,NC_001901,NP_046913.1,TIGR01600,TIGR01600,0,211.7,6,249,0,0,0
+Pseudomonas phage D3,Pseudomonas aeruginosa,neg,NC_002484,NP_061518.1,DUF1833,DUF1833,0,181.2,3,151,0,0,0
+Mycoplasma genitalium G37,0,0,NC_000908,NP_073128.1,Phage_BR0599,Phage_BR0599,2.1,16.9,4,34,0,1,1
+Pseudomonas aeruginosa PAO1,0,0,NC_002516,NP_249329.1,Phage_tail_L,Phage_tail_L,0,304.7,24,229,1,0,1
+Pseudomonas aeruginosa PAO1,0,0,NC_002516,NP_249329.1,TIGR01600,TIGR01600,0,255.2,6,229,0,1,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_286525.1,Phage_tail_L,Phage_tail_L,0,320,29,230,1,0,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_286525.1,TIGR01600,TIGR01600,0,325.3,11,230,0,1,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_286897.1,Phage_tail_L,Phage_tail_L,1.40E-45,163.9,29,134,1,0,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_286897.1,TIGR01600,TIGR01600,0,202.5,11,134,0,1,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_286898.1,Phage_tail_L,Phage_tail_L,4.50E-18,73.7,1,55,1,0,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_286898.1,TIGR01600,TIGR01600,3.30E-19,77.3,1,56,0,1,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_287303.1,Phage_tail_L,Phage_tail_L,0,319.4,29,230,1,0,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_287303.1,TIGR01600,TIGR01600,0,375.5,11,230,0,1,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_287391.1,Phage_tail_L,Phage_tail_L,2.50E-39,143.1,29,133,1,0,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_287391.1,TIGR01600,TIGR01600,0,180.2,11,130,0,1,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_287596.1,Phage_tail_L,Phage_tail_L,0,322.6,29,230,1,0,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_287596.1,TIGR01600,TIGR01600,0,383,11,230,0,1,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_287784.1,Phage_tail_L,Phage_tail_L,0,316.3,29,230,1,0,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_287784.1,TIGR01600,TIGR01600,0,365.2,11,230,0,1,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_287970.1,Phage_tail_L,Phage_tail_L,0,317.2,29,230,1,0,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_287970.1,TIGR01600,TIGR01600,0,370.8,11,230,0,1,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_288444.1,Phage_tail_L,Phage_tail_L,0,322.9,29,230,1,0,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_288444.1,TIGR01600,TIGR01600,0,378.8,11,230,0,1,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_288649.1,Phage_tail_L,Phage_tail_L,0,318.7,29,230,1,0,1
+Escherichia coli O157:H7 str. EDL933,0,0,NC_002655,NP_288649.1,TIGR01600,TIGR01600,0,371.5,11,230,0,1,1
+Xylella fastidiosa 9a5c,0,0,NC_002488,NP_297813.1,DUF2163,DUF2163,2.20E-33,123.8,1,171,1,0,1
+Xylella fastidiosa 9a5c,0,0,NC_002488,NP_297813.1,Phage_BR0599,Phage_BR0599,0.000000041,41.6,392,471,0,1,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_308866.1,Phage_tail_L,Phage_tail_L,0,322.8,29,230,1,0,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_308866.1,TIGR01600,TIGR01600,0,328.1,11,230,0,1,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_309143.1,Phage_tail_L,Phage_tail_L,0,316.3,29,230,1,0,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_309143.1,TIGR01600,TIGR01600,0,365.2,11,230,0,1,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_309582.1,Phage_tail_L,Phage_tail_L,0,319.4,29,230,1,0,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_309582.1,TIGR01600,TIGR01600,0,375.5,11,230,0,1,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_309672.1,Phage_tail_L,Phage_tail_L,0,324,29,230,1,0,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_309672.1,TIGR01600,TIGR01600,0,331,11,230,0,1,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_309832.1,Phage_tail_L,Phage_tail_L,2.50E-39,143.1,29,133,1,0,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_309832.1,TIGR01600,TIGR01600,0,180.2,11,130,0,1,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_310012.1,Phage_tail_L,Phage_tail_L,0,318.7,29,230,1,0,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_310012.1,TIGR01600,TIGR01600,0,371.5,11,230,0,1,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_310191.1,Phage_tail_L,Phage_tail_L,0,322.6,29,230,1,0,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_310191.1,TIGR01600,TIGR01600,0,383,11,230,0,1,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_310265.1,Phage_tail_L,Phage_tail_L,0,317.2,29,230,1,0,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_310265.1,TIGR01600,TIGR01600,0,370.8,11,230,0,1,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_310750.1,Phage_tail_L,Phage_tail_L,0,322.9,29,230,1,0,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_310750.1,TIGR01600,TIGR01600,0,378.8,11,230,0,1,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_310974.1,Phage_tail_L,Phage_tail_L,0,322.9,29,230,1,0,1
+Escherichia coli O157:H7 str. Sakai,0,0,NC_002695,NP_310974.1,TIGR01600,TIGR01600,0,378.8,11,230,0,1,1
+Rickettsia conorii str. Malish 7,0,0,NC_003103,NP_360405.1,Phage_BR0599,Phage_BR0599,0,59,1,51,1,0,1
+Rickettsia conorii str. Malish 7,0,0,NC_003103,NP_360405.1,TIGR02218,TIGR02218,0.0000000002,49,2,56,0,1,1
+Caulobacter crescentus CB15,0,0,NC_002696,NP_421572.1,DUF2163,DUF2163,0,168.4,2,157,1,1,1
+Caulobacter crescentus CB15,0,0,NC_002696,NP_421572.1,Phage_BR0599,Phage_BR0599,0.0000027,35.8,151,191,1,1,1
+Caulobacter crescentus CB15,0,0,NC_002696,NP_421572.1,TIGR02218,TIGR02218,0,254.5,17,160,1,0,1
+Caulobacter crescentus CB15,0,0,NC_002696,NP_421572.1,TIGR02218,TIGR02218,0,254.5,161,208,0,0,0
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,0,0,NC_003197,NP_459305.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,0,0,NC_003197,NP_459898.1,Phage_tail_L,Phage_tail_L,0,290,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,0,0,NC_003197,NP_459898.1,TIGR01600,TIGR01600,0,302.8,11,230,0,1,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,0,0,NC_003197,NP_460020.1,Phage_tail_L,Phage_tail_L,0,313.3,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,0,0,NC_003197,NP_460020.1,TIGR01600,TIGR01600,0,284.3,11,230,0,1,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,0,0,NC_003197,NP_461528.1,Phage_tail_L,Phage_tail_L,0,298.3,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,0,0,NC_003197,NP_461528.1,TIGR01600,TIGR01600,0,318.1,11,230,0,1,1
+Ralstonia solanacearum GMI1000,0,0,NC_003295,NP_519815.1,Phage_tail_L,Phage_tail_L,0,272.2,24,231,1,0,1
+Ralstonia solanacearum GMI1000,0,0,NC_003295,NP_519815.1,TIGR01600,TIGR01600,0,397.4,6,231,0,1,1
+Burkholderia phage phiE125,Burkholderia thailandensis,neg,NC_003309,NP_536374.1,Phage_tail_L,Phage_tail_L,0,251.1,24,226,1,0,1
+Burkholderia phage phiE125,Burkholderia thailandensis,neg,NC_003309,NP_536374.1,TIGR01600,TIGR01600,0,285.2,6,226,0,0,0
+Clostridium perfringens str. 13,0,0,NC_003366,NP_562140.1,LL_Fam1,LL_Fam1,1.7,16.3,6,189,0,1,1
+Fusobacterium nucleatum subsp. nucleatum ATCC 25586,0,0,NC_003454,NP_602904.1,TIGR02218,TIGR02218,0.38,18.6,73,134,1,1,1
+Fusobacterium nucleatum subsp. nucleatum ATCC 25586,0,0,NC_003454,NP_602904.1,TIGR02218,TIGR02218,0.38,18.6,178,235,1,1,1
+Fusobacterium nucleatum subsp. nucleatum ATCC 25586,0,0,NC_003454,NP_602904.1,TIGR02218,TIGR02218,0.38,18.6,218,287,1,0,1
+Fusobacterium nucleatum subsp. nucleatum ATCC 25586,0,0,NC_003454,NP_602904.1,TIGR02218,TIGR02218,0.38,18.6,276,333,0,1,1
+Yersinia pestis KIM10+,0,0,NC_004088,NP_669505.1,Phage_tail_L,Phage_tail_L,0,288.3,24,248,1,0,1
+Yersinia pestis KIM10+,0,0,NC_004088,NP_669505.1,TIGR01600,TIGR01600,0,219.1,6,248,0,1,1
+Shewanella oneidensis MR-1,0,0,NC_004347,NP_718518.1,Phage_tail_L,Phage_tail_L,0,257.3,23,240,1,0,1
+Shewanella oneidensis MR-1,0,0,NC_004347,NP_718518.1,TIGR01600,TIGR01600,0,205.1,5,240,0,0,0
+Pseudomonas putida KT2440,0,0,NC_002947,NP_743735.1,DUF1833,DUF1833,0,165.3,2,148,0,1,1
+Escherichia coli CFT073,0,0,NC_004431,NP_753371.1,Phage_tail_L,Phage_tail_L,0,321.4,29,230,1,0,1
+Escherichia coli CFT073,0,0,NC_004431,NP_753371.1,TIGR01600,TIGR01600,0,377.2,11,230,0,1,1
+Escherichia coli CFT073,0,0,NC_004431,NP_753495.1,Phage_tail_L,Phage_tail_L,0,321.1,29,230,1,0,1
+Escherichia coli CFT073,0,0,NC_004431,NP_753495.1,TIGR01600,TIGR01600,0,328,11,230,0,1,1
+Escherichia coli CFT073,0,0,NC_004431,NP_755040.1,Phage_tail_L,Phage_tail_L,0,324,29,230,1,0,1
+Escherichia coli CFT073,0,0,NC_004431,NP_755040.1,TIGR01600,TIGR01600,0,331.9,11,230,0,0,0
+Pseudomonas syringae pv. tomato str. DC3000,0,0,NC_004578,NP_791910.1,LL_Fam1,LL_Fam1,0,51.3,1,101,0,1,1
+Pseudomonas syringae pv. tomato str. DC3000,0,0,NC_004578,NP_793805.1,DUF2163,DUF2163,1.6,17,6,133,1,0,1
+Pseudomonas syringae pv. tomato str. DC3000,0,0,NC_004578,NP_793805.1,LL_Fam1,LL_Fam1,6.40E-30,112.3,4,199,0,0,0
+Salmonella enterica subsp. enterica serovar Typhi str. Ty2,0,0,NC_004631,NP_806267.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Shigella flexneri 2a str. 2457T,0,0,NC_004741,NP_836421.1,Phage_tail_L,Phage_tail_L,0,317,29,230,1,0,1
+Shigella flexneri 2a str. 2457T,0,0,NC_004741,NP_836421.1,TIGR01600,TIGR01600,0,328.9,11,230,0,0,0
+Xanthomonas phage Xp10,Xanthomonas oryzae,neg,NC_004902,NP_858967.1,DUF1833,DUF1833,7.50E-43,153.7,2,143,0,0,0
+Haemophilus ducreyi 35000HP,0,0,NC_002940,NP_872755.1,DUF2163,DUF2163,1.8,16.8,10,62,0,1,1
+Haemophilus ducreyi 35000HP,0,0,NC_002940,NP_872756.1,DUF2163,DUF2163,0.05,21.9,12,89,1,1,1
+Haemophilus ducreyi 35000HP,0,0,NC_002940,NP_872756.1,Phage_BR0599,Phage_BR0599,4.90E-21,83,118,195,1,0,1
+Haemophilus ducreyi 35000HP,0,0,NC_002940,NP_872756.1,TIGR02218,TIGR02218,1.40E-26,102,1,202,0,1,1
+Haemophilus ducreyi 35000HP,0,0,NC_002940,NP_873086.1,DUF2163,DUF2163,0.000000064,41,6,154,1,0,1
+Haemophilus ducreyi 35000HP,0,0,NC_002940,NP_873086.1,TIGR02218,TIGR02218,0.00000049,37.9,19,172,0,1,1
+Haemophilus ducreyi 35000HP,0,0,NC_002940,NP_873087.1,Phage_BR0599,Phage_BR0599,8.40E-23,88.7,7,85,1,0,1
+Haemophilus ducreyi 35000HP,0,0,NC_002940,NP_873087.1,TIGR02218,TIGR02218,1.00E-17,72.9,3,92,0,1,1
+Haemophilus ducreyi 35000HP,0,0,NC_002940,NP_873968.1,DUF2163,DUF2163,0.000000064,41,6,154,1,0,1
+Haemophilus ducreyi 35000HP,0,0,NC_002940,NP_873968.1,TIGR02218,TIGR02218,0.00000049,37.9,19,172,0,1,1
+Haemophilus ducreyi 35000HP,0,0,NC_002940,NP_873969.1,Phage_BR0599,Phage_BR0599,0,59.8,1,46,1,0,1
+Haemophilus ducreyi 35000HP,0,0,NC_002940,NP_873969.1,TIGR02218,TIGR02218,0.00000000035,48.2,1,53,0,0,0
+Prochlorococcus marinus subsp. marinus str. CCMP1375,0,0,NC_005042,NP_874429.1,Phage_BR0599,Phage_BR0599,6.3,15.4,10,78,0,0,0
+Yersinia phage PY54,Yersinia enterocolitica,neg,NC_005069,NP_892063.1,LL_Fam1,LL_Fam1,0,296.6,1,194,0,1,1
+Burkholderia phage BcepNazgul,Burkholderia cepacia,neg,NC_005091,NP_918979.1,DUF2163,DUF2163,0.0000000014,46.4,19,159,1,1,1
+Burkholderia phage BcepNazgul,Burkholderia cepacia,neg,NC_005091,NP_918979.1,Phage_BR0599,Phage_BR0599,2.40E-16,68,187,265,1,0,1
+Burkholderia phage BcepNazgul,Burkholderia cepacia,neg,NC_005091,NP_918979.1,TIGR02218,TIGR02218,1.40E-22,88.9,18,270,0,0,0
+Gloeobacter violaceus PCC 7421,0,0,NC_005125,NP_925853.1,DUF2163,DUF2163,8.7,14.6,64,161,0,1,1
+Pseudomonas phage D3112,Pseudomonas aeruginosa,neg,NC_005178,NP_938257.1,DUF2163,DUF2163,0.00000017,39.7,2,144,1,1,1
+Pseudomonas phage D3112,Pseudomonas aeruginosa,neg,NC_005178,NP_938257.1,Phage_BR0599,Phage_BR0599,3.90E-17,70.5,172,250,1,0,1
+Pseudomonas phage D3112,Pseudomonas aeruginosa,neg,NC_005178,NP_938257.1,TIGR02218,TIGR02218,0,327.1,3,257,0,1,1
+Burkholderia phage phi1026b,Burkholderia pseudomallei,neg,NC_005284,NP_945047.1,Phage_tail_L,Phage_tail_L,0,265.9,24,226,1,0,1
+Burkholderia phage phi1026b,Burkholderia pseudomallei,neg,NC_005284,NP_945047.1,TIGR01600,TIGR01600,0,303.6,6,226,0,0,0
+Lactobacillus johnsonii NCC 533,0,0,NC_005362,NP_965278.1,TIGR02218,TIGR02218,6.5,14.6,24,124,0,1,1
+Wolbachia endosymbiont of Drosophila melanogaster,Drosophila melanogaster,0,NC_002978,NP_966505.1,DUF2163,DUF2163,0,175.1,1,161,1,1,1
+Wolbachia endosymbiont of Drosophila melanogaster,Drosophila melanogaster,0,NC_002978,NP_966505.1,Phage_BR0599,Phage_BR0599,2.60E-21,83.9,189,266,1,0,1
+Wolbachia endosymbiont of Drosophila melanogaster,Drosophila melanogaster,0,NC_002978,NP_966505.1,TIGR02218,TIGR02218,0,352,20,268,0,0,0
+Treponema denticola ATCC 35405,0,0,NC_002967,NP_971071.1,DUF1833,DUF1833,1.5,16.4,5,111,0,0,0
+Methylibium petroleiphilum PM1,0,0,NC_008825,YP_001019731.1,LL_Fam1,LL_Fam1,0.37,18.5,16,140,0,1,1
+Actinobacillus pleuropneumoniae serovar 5b str. L20,0,0,NC_009053,YP_001053230.1,Phage_tail_L,Phage_tail_L,0,261,38,243,1,0,1
+Actinobacillus pleuropneumoniae serovar 5b str. L20,0,0,NC_009053,YP_001053230.1,TIGR01600,TIGR01600,0,244.7,12,243,0,0,0
+Salmonella phage SETP3,Salmonella enteritidis,neg,NC_009232,YP_001110801.1,DUF1833,DUF1833,6.03E-44,157.3,9,157,0,1,1
+Burkholderia phage phi644-2,Burkholderia pseudomallei,neg,NC_009235,YP_001111097.1,Phage_tail_L,Phage_tail_L,0,252.8,24,226,1,0,1
+Burkholderia phage phi644-2,Burkholderia pseudomallei,neg,NC_009235,YP_001111097.1,TIGR01600,TIGR01600,0,287.6,6,226,0,1,1
+Chlorobium phaeovibrioides DSM 265,0,0,NC_009337,YP_001129950.1,DUF2163,DUF2163,0.022,23,896,991,1,0,1
+Chlorobium phaeovibrioides DSM 265,0,0,NC_009337,YP_001129950.1,DUF2163,DUF2163,0.022,23,1258,1353,0,1,1
+Yersinia pestis Pestoides F,0,0,NC_009381,YP_001162380.1,Phage_tail_L,Phage_tail_L,0,288.3,24,248,1,0,1
+Yersinia pestis Pestoides F,0,0,NC_009381,YP_001162380.1,TIGR01600,TIGR01600,0,219.1,6,248,0,1,1
+Rhodobacter sphaeroides ATCC 17025,0,0,NC_009428,YP_001167293.1,DUF2163,DUF2163,0,223.4,1,161,1,1,1
+Rhodobacter sphaeroides ATCC 17025,0,0,NC_009428,YP_001167293.1,Phage_BR0599,Phage_BR0599,3.50E-25,96.3,192,275,1,0,1
+Rhodobacter sphaeroides ATCC 17025,0,0,NC_009428,YP_001167293.1,TIGR02218,TIGR02218,0,315.6,21,292,0,0,0
+Rhodobacter sphaeroides ATCC 17025,0,0,NC_009428,YP_001167519.1,LL_Fam1,LL_Fam1,0.0000022,35.5,30,204,0,0,0
+Rhodobacter sphaeroides ATCC 17025,0,0,NC_009428,YP_001168283.1,LL_Fam1,LL_Fam1,0.0000022,35.5,30,204,0,1,1
+Enterobacter sp. 638,0,0,NC_009436,YP_001176947.1,Phage_tail_L,Phage_tail_L,0,297.4,24,249,1,0,1
+Enterobacter sp. 638,0,0,NC_009436,YP_001176947.1,TIGR01600,TIGR01600,0,213.4,6,249,0,0,0
+Bradyrhizobium sp. ORS 278,0,0,NC_009445,YP_001205647.1,DUF1833,DUF1833,0.0000032,34.8,7,157,0,0,0
+Burkholderia phage BcepGomr,Burkholderia cepacia,neg,NC_009447,YP_001210240.1,DUF1833,DUF1833,8.10E-43,153.6,6,167,0,0,0
+Geobacter uraniireducens Rf4,0,0,NC_009483,YP_001229359.1,Phage_BR0599,Phage_BR0599,4.7,15.8,511,561,0,1,1
+Orientia tsutsugamushi str. Boryong,0,0,NC_009488,YP_001248478.1,DUF2163,DUF2163,0.0000000014,46.4,4,158,1,1,1
+Orientia tsutsugamushi str. Boryong,0,0,NC_009488,YP_001248478.1,Phage_BR0599,Phage_BR0599,0,64.5,185,267,1,0,1
+Orientia tsutsugamushi str. Boryong,0,0,NC_009488,YP_001248478.1,TIGR02218,TIGR02218,3.50E-23,90.9,25,268,0,1,1
+Clostridium botulinum A str. ATCC 3502,0,0,NC_009495,YP_001253863.1,LL_Fam1,LL_Fam1,6.2,14.5,119,184,1,0,1
+Clostridium botulinum A str. ATCC 3502,0,0,NC_009495,YP_001253863.1,LL_Fam1,LL_Fam1,6.2,14.5,169,298,0,0,0
+Pseudomonas putida F1,0,0,NC_009512,YP_001268675.1,DUF1833,DUF1833,1.40E-45,163.3,2,148,0,0,0
+Pseudomonas putida F1,0,0,NC_009512,YP_001269410.1,DUF1833,DUF1833,0,180.9,2,149,0,1,1
+Enterobacteria phage cdtI,Escherichia coli,neg,NC_009514,YP_001272528.1,Phage_tail_L,Phage_tail_L,0,322,29,230,1,0,1
+Enterobacteria phage cdtI,Escherichia coli,neg,NC_009514,YP_001272528.1,TIGR01600,TIGR01600,0,330.3,11,230,0,1,1
+Enterobacteria phage TLS,Shigella flexneri,neg,NC_009540,YP_001285537.1,Phage_tail_L,Phage_tail_L,2.80E-45,162.4,31,248,1,0,1
+Enterobacteria phage TLS,Shigella flexneri,neg,NC_009540,YP_001285537.1,TIGR01600,TIGR01600,1.30E-34,127.7,13,248,0,0,0
+Xanthomonas phage Xop411,Xanthomonas oryzae,neg,NC_009543,YP_001285689.1,DUF1833,DUF1833,8.90E-42,150.3,2,143,0,1,1
+Pseudomonas phage 73,Pseudomonas aeruginosa,neg,NC_007806,YP_001293431.1,DUF2163,DUF2163,0.00018,29.8,29,160,1,1,1
+Pseudomonas phage 73,Pseudomonas aeruginosa,neg,NC_007806,YP_001293431.1,Phage_BR0599,Phage_BR0599,0,52.5,188,265,1,0,1
+Pseudomonas phage 73,Pseudomonas aeruginosa,neg,NC_007806,YP_001293431.1,TIGR02218,TIGR02218,2.30E-16,68.5,24,272,0,1,1
+Pseudomonas phage M6,Pseudomonas aeruginosa,neg,NC_007809,YP_001294543.1,DUF2163,DUF2163,0,57.8,15,156,1,1,1
+Pseudomonas phage M6,Pseudomonas aeruginosa,neg,NC_007809,YP_001294543.1,Phage_BR0599,Phage_BR0599,4.20E-16,67.2,184,261,1,0,1
+Pseudomonas phage M6,Pseudomonas aeruginosa,neg,NC_007809,YP_001294543.1,TIGR02218,TIGR02218,7.60E-23,89.8,18,267,0,0,0
+Sinorhizobium medicae WSM419,0,0,NC_009636,YP_001327546.1,LL_Fam1,LL_Fam1,0.78,17.4,1,114,0,0,0
+Klebsiella pneumoniae subsp. pneumoniae MGH 78578,0,0,NC_009648,YP_001335093.1,DUF1833,DUF1833,1.40E-39,143.1,2,148,0,1,1
+Actinobacillus succinogenes 130Z,0,0,NC_009655,YP_001344546.1,Phage_tail_L,Phage_tail_L,0,265.1,38,243,1,0,1
+Actinobacillus succinogenes 130Z,0,0,NC_009655,YP_001344546.1,TIGR01600,TIGR01600,0,247.9,13,243,0,1,1
+Pseudomonas aeruginosa PA7,0,0,NC_009656,YP_001346177.1,Phage_tail_L,Phage_tail_L,0,300.1,24,229,1,0,1
+Pseudomonas aeruginosa PA7,0,0,NC_009656,YP_001346177.1,TIGR01600,TIGR01600,0,250.4,6,229,0,1,1
+Pseudomonas aeruginosa PA7,0,0,NC_009656,YP_001347786.1,Phage_tail_L,Phage_tail_L,0,237.1,24,246,1,0,1
+Pseudomonas aeruginosa PA7,0,0,NC_009656,YP_001347786.1,TIGR01600,TIGR01600,0,200.2,6,246,0,1,1
+Janthinobacterium sp. Marseille,0,0,NC_009659,YP_001354412.1,DUF2163,DUF2163,0.000039,32,6,150,1,1,1
+Janthinobacterium sp. Marseille,0,0,NC_009659,YP_001354412.1,Phage_BR0599,Phage_BR0599,0,59.3,173,250,1,0,1
+Janthinobacterium sp. Marseille,0,0,NC_009659,YP_001354412.1,TIGR02218,TIGR02218,0.0000000061,44.2,89,255,0,1,1
+Janthinobacterium sp. Marseille,0,0,NC_009659,YP_001354472.1,DUF2163,DUF2163,0.0000055,34.7,9,155,1,1,1
+Janthinobacterium sp. Marseille,0,0,NC_009659,YP_001354472.1,Phage_BR0599,Phage_BR0599,0,63.3,178,255,1,0,1
+Janthinobacterium sp. Marseille,0,0,NC_009659,YP_001354472.1,TIGR02218,TIGR02218,0.00000000072,47.2,101,260,0,1,1
+Clostridium botulinum A str. ATCC 19397,0,0,NC_009697,YP_001383698.1,LL_Fam1,LL_Fam1,6.2,14.5,119,184,1,0,1
+Clostridium botulinum A str. ATCC 19397,0,0,NC_009697,YP_001383698.1,LL_Fam1,LL_Fam1,6.2,14.5,169,298,0,1,1
+Clostridium botulinum A str. Hall,0,0,NC_009698,YP_001387246.1,LL_Fam1,LL_Fam1,6.2,14.5,119,184,1,0,1
+Clostridium botulinum A str. Hall,0,0,NC_009698,YP_001387246.1,LL_Fam1,LL_Fam1,6.2,14.5,169,298,0,1,1
+Campylobacter hominis ATCC BAA-381,0,0,NC_009714,YP_001405889.1,DUF2163,DUF2163,0.19,20,71,140,1,1,1
+Campylobacter hominis ATCC BAA-381,0,0,NC_009714,YP_001405889.1,Phage_BR0599,Phage_BR0599,1.60E-17,71.8,172,245,1,0,1
+Campylobacter hominis ATCC BAA-381,0,0,NC_009714,YP_001405889.1,TIGR02218,TIGR02218,4.80E-20,80.6,19,250,0,1,1
+Parvibaculum lavamentivorans DS-1,0,0,NC_009719,YP_001412197.1,DUF2163,DUF2163,0,219.3,1,163,1,1,1
+Parvibaculum lavamentivorans DS-1,0,0,NC_009719,YP_001412197.1,Phage_BR0599,Phage_BR0599,4.10E-29,108.9,192,272,1,0,1
+Parvibaculum lavamentivorans DS-1,0,0,NC_009719,YP_001412197.1,TIGR02218,TIGR02218,0,299.9,23,287,0,1,1
+Xanthobacter autotrophicus Py2,0,0,NC_009720,YP_001418056.1,DUF2163,DUF2163,0,200.5,1,163,1,1,1
+Xanthobacter autotrophicus Py2,0,0,NC_009720,YP_001418056.1,Phage_BR0599,Phage_BR0599,1.80E-25,97.3,194,277,1,0,1
+Xanthobacter autotrophicus Py2,0,0,NC_009720,YP_001418056.1,TIGR02218,TIGR02218,0,285.5,23,295,0,0,0
+Xanthobacter autotrophicus Py2,0,0,NC_009720,YP_001418602.1,DUF1833,DUF1833,0.78,17.4,7,157,0,0,0
+Roseiflexus castenholzii DSM 13941,0,0,NC_009767,YP_001431076.1,DUF2163,DUF2163,4.6,15.5,237,358,0,0,0
+Cronobacter sakazakii ATCC BAA-894,0,0,NC_009778,YP_001436480.1,TIGR02218,TIGR02218,0.73,17.7,342,414,0,1,1
+Cronobacter sakazakii ATCC BAA-894,0,0,NC_009778,YP_001437146.1,Phage_tail_L,Phage_tail_L,0,238.2,24,248,1,0,1
+Cronobacter sakazakii ATCC BAA-894,0,0,NC_009778,YP_001437146.1,TIGR01600,TIGR01600,0,197.9,6,248,0,1,1
+Cronobacter sakazakii ATCC BAA-894,0,0,NC_009778,YP_001439097.1,DUF1833,DUF1833,0.014,23,3,145,1,0,1
+Cronobacter sakazakii ATCC BAA-894,0,0,NC_009778,YP_001439097.1,DUF2163,DUF2163,3.6,15.8,38,148,0,1,1
+Enterobacteria phage BP-4795,Escherichia coli,neg,NC_004813,YP_001449306.1,Phage_tail_L,Phage_tail_L,0,320.5,29,230,1,0,1
+Enterobacteria phage BP-4795,Escherichia coli,neg,NC_004813,YP_001449306.1,TIGR01600,TIGR01600,0,375.4,11,230,0,0,0
+Citrobacter koseri ATCC BAA-895,0,0,NC_009792,YP_001453413.1,DUF1833,DUF1833,6.60E-36,131.2,5,150,0,1,1
+Pseudomonas phage MP22,Pseudomonas aeruginosa UCBPP-PA14,neg,NC_009818,YP_001469175.1,DUF2163,DUF2163,0.00000011,40.3,2,144,1,1,1
+Pseudomonas phage MP22,Pseudomonas aeruginosa UCBPP-PA14,neg,NC_009818,YP_001469175.1,Phage_BR0599,Phage_BR0599,3.70E-19,77,172,250,1,0,1
+Pseudomonas phage MP22,Pseudomonas aeruginosa UCBPP-PA14,neg,NC_009818,YP_001469175.1,TIGR02218,TIGR02218,0,315.3,3,257,0,0,0
+Rickettsia canadensis str. McKiel,0,0,NC_009879,YP_001492284.1,TIGR02218,TIGR02218,5.4,14.8,9,72,0,1,1
+Rickettsia akari str. Hartford,Homo sapiens,0,NC_009881,YP_001493531.1,DUF2163,DUF2163,0.000041,31.9,5,71,1,0,1
+Rickettsia akari str. Hartford,Homo sapiens,0,NC_009881,YP_001493531.1,TIGR02218,TIGR02218,0.018,22.9,22,110,0,1,1
+Rickettsia akari str. Hartford,Homo sapiens,0,NC_009881,YP_001493532.1,Phage_BR0599,Phage_BR0599,0,54.3,1,51,1,0,1
+Rickettsia akari str. Hartford,Homo sapiens,0,NC_009881,YP_001493532.1,TIGR02218,TIGR02218,0.0000000045,44.6,3,56,0,0,0
+Rickettsia rickettsii str.  Sheila Smith,0,0,NC_009882,YP_001494804.1,DUF2163,DUF2163,0.000093,30.8,4,86,0,1,1
+Rickettsia rickettsii str.  Sheila Smith,0,0,NC_009882,YP_001494805.1,Phage_BR0599,Phage_BR0599,0,63.1,1,51,1,0,1
+Rickettsia rickettsii str.  Sheila Smith,0,0,NC_009882,YP_001494805.1,TIGR02218,TIGR02218,0,53.4,2,56,0,1,1
+Rickettsia bellii OSU 85-389,Dermacentor variabilis adult female tick,0,NC_009883,YP_001496612.1,DUF2163,DUF2163,9.30E-23,89.3,1,151,1,1,1
+Rickettsia bellii OSU 85-389,Dermacentor variabilis adult female tick,0,NC_009883,YP_001496612.1,Phage_BR0599,Phage_BR0599,0,60.9,178,254,1,0,1
+Rickettsia bellii OSU 85-389,Dermacentor variabilis adult female tick,0,NC_009883,YP_001496612.1,TIGR02218,TIGR02218,4.90E-27,103.5,19,260,0,1,1
+Azorhizobium caulinodans ORS 571,0,0,NC_009937,YP_001524041.1,DUF2163,DUF2163,0,184.8,1,163,1,1,1
+Azorhizobium caulinodans ORS 571,0,0,NC_009937,YP_001524041.1,Phage_BR0599,Phage_BR0599,1.40E-24,94.4,192,275,1,0,1
+Azorhizobium caulinodans ORS 571,0,0,NC_009937,YP_001524041.1,TIGR02218,TIGR02218,0,270.2,23,293,0,1,1
+Dinoroseobacter shibae DFL 12,0,0,NC_009952,YP_001533502.1,DUF2163,DUF2163,0,219.4,1,163,1,1,1
+Dinoroseobacter shibae DFL 12,0,0,NC_009952,YP_001533502.1,Phage_BR0599,Phage_BR0599,3.70E-26,99.4,194,277,1,0,1
+Dinoroseobacter shibae DFL 12,0,0,NC_009952,YP_001533502.1,TIGR02218,TIGR02218,0,298,23,294,0,1,1
+Delftia acidovorans SPH-1,0,0,NC_010002,YP_001562673.1,DUF2163,DUF2163,3.60E-17,71.1,2,169,1,1,1
+Delftia acidovorans SPH-1,0,0,NC_010002,YP_001562673.1,Phage_BR0599,Phage_BR0599,1.60E-19,78.2,215,299,1,0,1
+Delftia acidovorans SPH-1,0,0,NC_010002,YP_001562673.1,TIGR02218,TIGR02218,6.50E-28,106.4,32,308,0,1,1
+Delftia acidovorans SPH-1,0,0,NC_010002,YP_001565098.1,DUF2163,DUF2163,5.60E-18,73.7,1,168,1,1,1
+Delftia acidovorans SPH-1,0,0,NC_010002,YP_001565098.1,Phage_BR0599,Phage_BR0599,1.50E-19,78.2,214,298,1,0,1
+Delftia acidovorans SPH-1,0,0,NC_010002,YP_001565098.1,TIGR02218,TIGR02218,6.60E-28,106.4,33,307,0,0,0
+"Salmonella enterica subsp. arizonae serovar 62:z4,z23:- str.",0,0,NC_010067,YP_001571701.1,DUF2163,DUF2163,1,17.6,32,110,0,0,0
+Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7,0,0,NC_010102,YP_001589488.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Pseudomonas phage YuA,Pseudomonas aeruginosa,neg,NC_010116,YP_001595896.1,DUF2163,DUF2163,0,60.9,15,156,1,1,1
+Pseudomonas phage YuA,Pseudomonas aeruginosa,neg,NC_010116,YP_001595896.1,Phage_BR0599,Phage_BR0599,2.30E-16,68.1,184,261,1,0,1
+Pseudomonas phage YuA,Pseudomonas aeruginosa,neg,NC_010116,YP_001595896.1,TIGR02218,TIGR02218,7.80E-25,96.3,18,267,0,1,1
+Yersinia pestis Angola,0,0,NC_010159,YP_001606809.1,Phage_tail_L,Phage_tail_L,0,288.3,24,248,1,0,1
+Yersinia pestis Angola,0,0,NC_010159,YP_001606809.1,TIGR01600,TIGR01600,0,219.1,6,248,0,1,1
+Methylobacterium extorquens PA1,0,0,NC_010172,YP_001638892.1,DUF2163,DUF2163,0,195.4,1,163,1,1,1
+Methylobacterium extorquens PA1,0,0,NC_010172,YP_001638892.1,Phage_BR0599,Phage_BR0599,4.20E-28,105.7,194,277,1,0,1
+Methylobacterium extorquens PA1,0,0,NC_010172,YP_001638892.1,TIGR02218,TIGR02218,0,301,23,295,0,0,0
+Methylobacterium extorquens PA1,0,0,NC_010172,YP_001640992.1,DUF1833,DUF1833,0.00011,29.8,133,236,0,0,0
+Rickettsia rickettsii str. Iowa,0,0,NC_010263,YP_001650065.1,DUF2163,DUF2163,0.000014,33.4,4,86,0,1,1
+Rickettsia rickettsii str. Iowa,0,0,NC_010263,YP_001650066.1,Phage_BR0599,Phage_BR0599,0,63.1,1,51,1,0,1
+Rickettsia rickettsii str. Iowa,0,0,NC_010263,YP_001650066.1,TIGR02218,TIGR02218,0,53.4,2,56,0,1,1
+Pseudomonas putida GB-1,0,0,NC_010322,YP_001669621.1,DUF2163,DUF2163,5.8,15.1,6,132,1,0,1
+Pseudomonas putida GB-1,0,0,NC_010322,YP_001669621.1,LL_Fam1,LL_Fam1,7.60E-27,102.3,4,199,0,1,1
+Caulobacter sp. K31,0,0,NC_010338,YP_001685121.1,Phage_tail_L,Phage_tail_L,0.0000013,36.3,21,167,1,0,1
+Caulobacter sp. K31,0,0,NC_010338,YP_001685121.1,TIGR01600,TIGR01600,0.0000004,37.8,10,167,0,1,1
+Caulobacter sp. K31,0,0,NC_010338,YP_001685526.1,DUF2163,DUF2163,0,179.6,1,163,1,1,1
+Caulobacter sp. K31,0,0,NC_010338,YP_001685526.1,Phage_BR0599,Phage_BR0599,0.000000098,40.4,166,199,1,1,1
+Caulobacter sp. K31,0,0,NC_010338,YP_001685526.1,TIGR02218,TIGR02218,0,215.3,23,171,1,0,1
+Caulobacter sp. K31,0,0,NC_010338,YP_001685526.1,TIGR02218,TIGR02218,0,215.3,168,216,0,0,0
+Acinetobacter baumannii SDF,0,0,NC_010400,YP_001706565.1,DUF1833,DUF1833,0.00000000065,46.8,6,146,0,0,0
+Acinetobacter baumannii SDF,0,0,NC_010400,YP_001707182.1,DUF1833,DUF1833,0.000000033,41.3,14,159,0,0,0
+Acinetobacter baumannii AYE,0,0,NC_010410,YP_001714500.1,DUF1833,DUF1833,0.00002,32.3,14,159,0,1,1
+Yersinia pseudotuberculosis YPIII,0,0,NC_010465,YP_001721823.1,Phage_tail_L,Phage_tail_L,0,292.8,24,248,1,0,1
+Yersinia pseudotuberculosis YPIII,0,0,NC_010465,YP_001721823.1,TIGR01600,TIGR01600,0,227.9,6,248,0,1,1
+Escherichia coli ATCC 8739,0,0,NC_010468,YP_001725073.1,Phage_tail_L,Phage_tail_L,0,324,29,230,1,0,1
+Escherichia coli ATCC 8739,0,0,NC_010468,YP_001725073.1,TIGR01600,TIGR01600,0,331,11,230,0,0,0
+Salmonella phage Vi II-E1,Salmonella enterica,neg,NC_010495,YP_001742073.1,DUF1833,DUF1833,0.0000046,34.3,3,144,0,1,1
+Escherichia coli SMS-3-5,0,0,NC_010498,YP_001743261.1,Phage_tail_L,Phage_tail_L,0,320.8,29,230,1,0,1
+Escherichia coli SMS-3-5,0,0,NC_010498,YP_001743261.1,TIGR01600,TIGR01600,0,332.1,11,230,0,0,0
+Pseudomonas putida W619,0,0,NC_010501,YP_001748225.1,LL_Fam1,LL_Fam1,5.00E-28,106.2,4,198,0,1,1
+Pseudomonas putida W619,0,0,NC_010501,YP_001750780.1,Phage_tail_L,Phage_tail_L,0,241.3,24,246,1,0,1
+Pseudomonas putida W619,0,0,NC_010501,YP_001750780.1,TIGR01600,TIGR01600,0,207.7,6,246,0,1,1
+Methylobacterium radiotolerans JCM 2831,0,0,NC_010505,YP_001757619.1,DUF2163,DUF2163,0,182.1,1,163,1,1,1
+Methylobacterium radiotolerans JCM 2831,0,0,NC_010505,YP_001757619.1,Phage_BR0599,Phage_BR0599,3.90E-28,105.8,192,271,1,0,1
+Methylobacterium radiotolerans JCM 2831,0,0,NC_010505,YP_001757619.1,TIGR02218,TIGR02218,0,286.7,23,289,0,1,1
+Methylobacterium sp. 4-46,0,0,NC_010511,YP_001772684.1,DUF2163,DUF2163,0,197.9,1,163,1,1,1
+Methylobacterium sp. 4-46,0,0,NC_010511,YP_001772684.1,Phage_BR0599,Phage_BR0599,1.80E-28,106.9,194,279,1,0,1
+Methylobacterium sp. 4-46,0,0,NC_010511,YP_001772684.1,TIGR02218,TIGR02218,0,289.7,23,296,0,1,1
+Clostridium botulinum A3 str. Loch Maree,0,0,NC_010520,YP_001786734.1,LL_Fam1,LL_Fam1,5,14.8,120,183,1,0,1
+Clostridium botulinum A3 str. Loch Maree,0,0,NC_010520,YP_001786734.1,LL_Fam1,LL_Fam1,5,14.8,170,299,0,0,0
+Leptothrix cholodnii SP-6,0,0,NC_010524,YP_001791264.1,LL_Fam1,LL_Fam1,0,65.5,1,187,0,0,0
+Opitutus terrae PB90-1,0,0,NC_010571,YP_001820312.1,LL_Fam1,LL_Fam1,0.000000017,42.4,8,193,0,1,1
+Beijerinckia indica subsp. indica ATCC 9039,0,0,NC_010581,YP_001833787.1,DUF2163,DUF2163,3.30E-24,94,1,181,1,1,1
+Beijerinckia indica subsp. indica ATCC 9039,0,0,NC_010581,YP_001833787.1,Phage_BR0599,Phage_BR0599,2.60E-20,80.7,206,285,1,0,1
+Beijerinckia indica subsp. indica ATCC 9039,0,0,NC_010581,YP_001833787.1,TIGR02218,TIGR02218,3.80E-29,110.4,29,288,0,0,0
+Enterobacteria phage EPS7,Escherichia coli,neg,NC_010583,YP_001837072.1,LL_Fam1,LL_Fam1,0,202.5,1,203,0,0,0
+Acinetobacter baumannii ACICU,0,0,NC_010611,YP_001845723.1,DUF1833,DUF1833,0.0000066,33.8,10,155,0,1,1
+Acinetobacter baumannii ACICU,0,0,NC_010611,YP_001847379.1,Phage_tail_L,Phage_tail_L,0,233.4,24,232,1,0,1
+Acinetobacter baumannii ACICU,0,0,NC_010611,YP_001847379.1,TIGR01600,TIGR01600,0,230.8,6,232,0,1,1
+Shigella boydii CDC 3083-94,0,0,NC_010658,YP_001879572.1,Phage_tail_L,Phage_tail_L,0,316.3,29,230,1,0,1
+Shigella boydii CDC 3083-94,0,0,NC_010658,YP_001879572.1,TIGR01600,TIGR01600,0,362.9,11,230,0,1,1
+Shigella boydii CDC 3083-94,0,0,NC_010658,YP_001879745.1,Phage_tail_L,Phage_tail_L,0,317.1,29,230,1,0,1
+Shigella boydii CDC 3083-94,0,0,NC_010658,YP_001879745.1,TIGR01600,TIGR01600,0,363.4,11,230,0,1,1
+Shigella boydii CDC 3083-94,0,0,NC_010658,YP_001880076.1,Phage_tail_L,Phage_tail_L,0,321.2,29,230,1,0,1
+Shigella boydii CDC 3083-94,0,0,NC_010658,YP_001880076.1,TIGR01600,TIGR01600,0,329.5,11,230,0,0,0
+Erwinia tasmaniensis Et1/99,0,0,NC_010694,YP_001907829.1,DUF2163,DUF2163,7.7,14.8,134,276,0,0,0
+Erwinia tasmaniensis Et1/99,0,0,NC_010694,YP_001909351.1,DUF1833,DUF1833,8.4,14,17,85,0,1,1
+Methylobacterium populi BJ001,0,0,NC_010725,YP_001924118.1,DUF2163,DUF2163,0,194.4,1,163,1,1,1
+Methylobacterium populi BJ001,0,0,NC_010725,YP_001924118.1,Phage_BR0599,Phage_BR0599,7.40E-27,101.7,194,277,1,0,1
+Methylobacterium populi BJ001,0,0,NC_010725,YP_001924118.1,TIGR02218,TIGR02218,0,294.5,23,295,0,0,0
+Methylobacterium populi BJ001,0,0,NC_010725,YP_001925363.1,DUF1833,DUF1833,4.60E-22,86.3,8,167,0,0,0
+Methylobacterium populi BJ001,0,0,NC_010725,YP_001926881.1,LL_Fam1,LL_Fam1,0.000000025,41.9,7,187,0,1,1
+Orientia tsutsugamushi str. Ikeda,0,0,NC_010793,YP_001937589.1,DUF2163,DUF2163,0.00000000074,47.3,1,155,1,1,1
+Orientia tsutsugamushi str. Ikeda,0,0,NC_010793,YP_001937589.1,Phage_BR0599,Phage_BR0599,0,62,182,264,1,0,1
+Orientia tsutsugamushi str. Ikeda,0,0,NC_010793,YP_001937589.1,TIGR02218,TIGR02218,7.10E-23,89.9,22,265,0,0,0
+Orientia tsutsugamushi str. Ikeda,0,0,NC_010793,YP_001937710.1,LL_Fam1,LL_Fam1,2.1,16.1,229,320,0,1,1
+Burkholderia multivorans ATCC 17616,0,0,NC_010805,YP_001949009.1,Phage_tail_L,Phage_tail_L,0,265,24,227,1,0,1
+Burkholderia multivorans ATCC 17616,0,0,NC_010805,YP_001949009.1,TIGR01600,TIGR01600,0,294.3,6,227,0,1,1
+Actinobacillus pleuropneumoniae serovar 7 str. AP76,0,0,NC_010939,YP_001968296.1,Phage_tail_L,Phage_tail_L,0,259.6,35,241,1,0,1
+Actinobacillus pleuropneumoniae serovar 7 str. AP76,0,0,NC_010939,YP_001968296.1,TIGR01600,TIGR01600,0,247.6,12,241,0,1,1
+Stenotrophomonas maltophilia K279a,0,0,NC_010943,YP_001971684.1,DUF2163,DUF2163,0.0000069,34.4,6,155,1,1,1
+Stenotrophomonas maltophilia K279a,0,0,NC_010943,YP_001971684.1,Phage_BR0599,Phage_BR0599,0,61.5,178,255,1,0,1
+Stenotrophomonas maltophilia K279a,0,0,NC_010943,YP_001971684.1,TIGR02218,TIGR02218,0.0000000001,50,103,260,0,1,1
+Wolbachia endosymbiont of Culex quinquefasciatus Pel,Culex quinquefasciatus Pel,0,NC_010981,YP_001975471.1,DUF2163,DUF2163,0,168.5,21,184,1,1,1
+Wolbachia endosymbiont of Culex quinquefasciatus Pel,Culex quinquefasciatus Pel,0,NC_010981,YP_001975471.1,Phage_BR0599,Phage_BR0599,4.10E-19,76.9,212,285,1,0,1
+Wolbachia endosymbiont of Culex quinquefasciatus Pel,Culex quinquefasciatus Pel,0,NC_010981,YP_001975471.1,TIGR02218,TIGR02218,0,307.1,43,285,0,1,1
+Rhodopseudomonas palustris TIE-1,0,0,NC_011004,YP_001991112.1,DUF2163,DUF2163,0,212.9,1,163,1,1,1
+Rhodopseudomonas palustris TIE-1,0,0,NC_011004,YP_001991112.1,Phage_BR0599,Phage_BR0599,6.20E-28,105.1,194,277,1,0,1
+Rhodopseudomonas palustris TIE-1,0,0,NC_011004,YP_001991112.1,TIGR02218,TIGR02218,0,307,23,293,0,0,0
+Rhodopseudomonas palustris TIE-1,0,0,NC_011004,YP_001992321.1,LL_Fam1,LL_Fam1,0.44,18.2,53,208,0,1,1
+Neisseria gonorrhoeae NCCP11945,0,0,NC_011035,YP_002002053.1,DUF2163,DUF2163,1.80E-34,127.4,1,174,1,1,1
+Neisseria gonorrhoeae NCCP11945,0,0,NC_011035,YP_002002053.1,Phage_BR0599,Phage_BR0599,4.70E-28,105.5,202,281,1,1,1
+Neisseria gonorrhoeae NCCP11945,0,0,NC_011035,YP_002002053.1,TIGR02218,TIGR02218,7.00E-36,132.5,24,284,1,0,1
+Neisseria gonorrhoeae NCCP11945,0,0,NC_011035,YP_002002053.1,LL_Fam1,LL_Fam1,0.87,17.3,1,187,0,0,0
+Salmonella enterica subsp. enterica serovar Newport str. SL254,0,0,NC_011080,YP_002039550.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Salmonella enterica subsp. enterica serovar Newport str. SL254,0,0,NC_011080,YP_002040246.1,Phage_tail_L,Phage_tail_L,0,313.3,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Newport str. SL254,0,0,NC_011080,YP_002040246.1,TIGR01600,TIGR01600,0,284.3,11,230,0,1,1
+Salmonella enterica subsp. enterica serovar Newport str. SL254,0,0,NC_011080,YP_002041856.1,Phage_tail_L,Phage_tail_L,0,298.3,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Newport str. SL254,0,0,NC_011080,YP_002041856.1,TIGR01600,TIGR01600,0,318.1,11,230,0,0,0
+Salmonella enterica subsp. enterica serovar Heidelberg str. SL476,0,0,NC_011083,YP_002044292.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Salmonella enterica subsp. enterica serovar Heidelberg str. SL476,0,0,NC_011083,YP_002045049.1,Phage_tail_L,Phage_tail_L,0,311.8,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Heidelberg str. SL476,0,0,NC_011083,YP_002045049.1,TIGR01600,TIGR01600,0,283,11,230,0,0,0
+Salmonella enterica subsp. enterica serovar Schwarzengrund str.,0,0,NC_011094,YP_002113333.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Salmonella enterica subsp. enterica serovar Schwarzengrund str.,0,0,NC_011094,YP_002113627.1,Phage_tail_L,Phage_tail_L,0,251.7,29,233,1,0,1
+Salmonella enterica subsp. enterica serovar Schwarzengrund str.,0,0,NC_011094,YP_002113627.1,TIGR01600,TIGR01600,0,231.4,11,233,0,1,1
+Salmonella enterica subsp. enterica serovar Schwarzengrund str.,0,0,NC_011094,YP_002113669.1,Phage_tail_L,Phage_tail_L,0,297.9,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Schwarzengrund str.,0,0,NC_011094,YP_002113669.1,TIGR01600,TIGR01600,0,318.8,11,230,0,0,0
+Rhizobium phage 16-3,0,neg,NC_011103,YP_002117579.1,LL_Fam1,LL_Fam1,1.8,16.2,3,189,0,0,0
+Geobacter bemidjiensis Bem,0,0,NC_011146,YP_002138407.1,DUF1833,DUF1833,8.8,13.9,3,65,0,0,0
+Salmonella enterica subsp. enterica serovar Paratyphi A str.,0,0,NC_011147,YP_002143132.1,DUF2163,DUF2163,1.8,16.8,37,111,0,0,0
+Salmonella enterica subsp. enterica serovar Agona str. SL483,0,0,NC_011149,YP_002145290.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Proteus mirabilis HI4320,0,0,NC_010554,YP_002150295.1,Phage_tail_L,Phage_tail_L,0,254,24,246,1,0,1
+Proteus mirabilis HI4320,0,0,NC_010554,YP_002150295.1,TIGR01600,TIGR01600,0,204.4,6,246,0,0,0
+Proteus mirabilis HI4320,0,0,NC_010554,YP_002150695.1,LL_Fam1,LL_Fam1,0,180.5,1,193,0,0,0
+Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853,0,0,NC_011205,YP_002214263.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853,0,0,NC_011205,YP_002215256.1,Phage_tail_L,Phage_tail_L,0,311.8,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853,0,0,NC_011205,YP_002215256.1,TIGR01600,TIGR01600,0,283,11,230,0,0,0
+Salmonella enterica subsp. enterica serovar Gallinarum str. 287/91,0,0,NC_011274,YP_002225432.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Salmonella enterica subsp. enterica serovar Gallinarum str. 287/91,0,0,NC_011274,YP_002226264.1,Phage_tail_L,Phage_tail_L,0,311.8,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Gallinarum str. 287/91,0,0,NC_011274,YP_002226264.1,TIGR01600,TIGR01600,0,283,11,230,0,0,0
+Klebsiella pneumoniae 342,0,0,NC_011283,YP_002239151.1,DUF2163,DUF2163,1.1,17.6,18,112,0,1,1
+Klebsiella pneumoniae 342,0,0,NC_011283,YP_002239184.1,Phage_tail_L,Phage_tail_L,0,266.2,24,247,1,0,1
+Klebsiella pneumoniae 342,0,0,NC_011283,YP_002239184.1,TIGR01600,TIGR01600,0,217.4,6,247,0,0,0
+Salmonella enterica subsp. enterica serovar Enteritidis str.,0,0,NC_011294,YP_002242443.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Salmonella enterica subsp. enterica serovar Enteritidis str.,0,0,NC_011294,YP_002243273.1,Phage_tail_L,Phage_tail_L,0,311.8,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Enteritidis str.,0,0,NC_011294,YP_002243273.1,TIGR01600,TIGR01600,0,283,11,230,0,1,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002269432.1,Phage_tail_L,Phage_tail_L,0,322.8,29,230,1,0,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002269432.1,TIGR01600,TIGR01600,0,328.1,11,230,0,1,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002269690.1,Phage_tail_L,Phage_tail_L,0,322.6,29,230,1,0,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002269690.1,TIGR01600,TIGR01600,0,383,11,230,0,1,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002270013.1,Phage_tail_L,Phage_tail_L,0,319.4,29,230,1,0,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002270013.1,TIGR01600,TIGR01600,0,375.5,11,230,0,1,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002270089.1,Phage_tail_L,Phage_tail_L,0,324,29,230,1,0,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002270089.1,TIGR01600,TIGR01600,0,331,11,230,0,1,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002270234.1,Phage_tail_L,Phage_tail_L,0,322.6,29,230,1,0,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002270234.1,TIGR01600,TIGR01600,0,383,11,230,0,1,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002270299.1,Phage_tail_L,Phage_tail_L,0,321.7,29,230,1,0,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002270299.1,TIGR01600,TIGR01600,0,377.9,11,230,0,1,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002270555.1,Phage_tail_L,Phage_tail_L,0,319.7,29,230,1,0,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002270555.1,TIGR01600,TIGR01600,0,371.4,11,230,0,1,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002270608.1,Phage_tail_L,Phage_tail_L,2.30E-39,143.2,29,133,1,0,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002270608.1,TIGR01600,TIGR01600,0,179.3,11,130,0,1,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002271100.1,Phage_tail_L,Phage_tail_L,0,322.6,29,230,1,0,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002271100.1,TIGR01600,TIGR01600,0,383,11,230,0,1,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002271418.1,Phage_tail_L,Phage_tail_L,0,322.9,29,230,1,0,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002271418.1,TIGR01600,TIGR01600,0,378.8,11,230,0,1,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002271478.1,Phage_tail_L,Phage_tail_L,0,321.7,29,230,1,0,1
+Escherichia coli O157:H7 str. EC4115,0,0,NC_011353,YP_002271478.1,TIGR01600,TIGR01600,0,377.9,11,230,0,0,0
+Pseudomonas phage PAJU2,Pseudomonas aeruginosa,neg,NC_011373,YP_002284354.1,DUF1833,DUF1833,0,166.2,2,150,0,1,1
+Oligotropha carboxidovorans OM5,0,0,NC_011386,YP_002287843.1,DUF2163,DUF2163,0,191.2,1,164,1,1,1
+Oligotropha carboxidovorans OM5,0,0,NC_011386,YP_002287843.1,Phage_BR0599,Phage_BR0599,2.10E-27,103.5,191,270,1,0,1
+Oligotropha carboxidovorans OM5,0,0,NC_011386,YP_002287843.1,TIGR02218,TIGR02218,0,261,23,279,0,1,1
+Oligotropha carboxidovorans OM5,0,0,NC_011386,YP_002289566.1,DUF2163,DUF2163,0,202.4,1,163,1,1,1
+Oligotropha carboxidovorans OM5,0,0,NC_011386,YP_002289566.1,Phage_BR0599,Phage_BR0599,7.60E-28,104.8,194,277,1,0,1
+Oligotropha carboxidovorans OM5,0,0,NC_011386,YP_002289566.1,TIGR02218,TIGR02218,0,299.5,23,294,0,1,1
+Escherichia coli SE11,0,0,NC_011415,YP_002291884.1,Phage_tail_L,Phage_tail_L,0,324.5,29,230,1,0,1
+Escherichia coli SE11,0,0,NC_011415,YP_002291884.1,TIGR01600,TIGR01600,0,329.6,11,230,0,1,1
+Escherichia coli SE11,0,0,NC_011415,YP_002292725.1,Phage_tail_L,Phage_tail_L,0,317.7,29,230,1,0,1
+Escherichia coli SE11,0,0,NC_011415,YP_002292725.1,TIGR01600,TIGR01600,0,327.9,11,230,0,1,1
+Escherichia coli SE11,0,0,NC_011415,YP_002292922.1,Phage_tail_L,Phage_tail_L,0,324.1,29,230,1,0,1
+Escherichia coli SE11,0,0,NC_011415,YP_002292922.1,TIGR01600,TIGR01600,0,329.3,11,230,0,1,1
+Escherichia coli SE11,0,0,NC_011415,YP_002293326.1,Phage_tail_L,Phage_tail_L,0,322.7,29,230,1,0,1
+Escherichia coli SE11,0,0,NC_011415,YP_002293326.1,TIGR01600,TIGR01600,0,330,11,230,0,0,0
+Rhodospirillum centenum SW,0,0,NC_011420,YP_002296349.1,LL_Fam1,LL_Fam1,0,65.3,1,188,0,0,0
+Acinetobacter baumannii AB0057,0,0,NC_011586,YP_002320016.1,DUF1833,DUF1833,0.000018,32.4,10,155,0,0,0
+Acinetobacter baumannii AB0057,0,0,NC_011586,YP_002320514.1,DUF1833,DUF1833,0.000015,32.7,10,156,0,1,1
+Escherichia coli O127:H6 str. E2348/69,0,0,NC_011601,YP_002328280.1,Phage_tail_L,Phage_tail_L,0,317.4,29,230,1,0,1
+Escherichia coli O127:H6 str. E2348/69,0,0,NC_011601,YP_002328280.1,TIGR01600,TIGR01600,0,325.2,11,230,0,1,1
+Escherichia coli O127:H6 str. E2348/69,0,0,NC_011601,YP_002328595.1,Phage_tail_L,Phage_tail_L,0,322,29,230,1,0,1
+Escherichia coli O127:H6 str. E2348/69,0,0,NC_011601,YP_002328595.1,TIGR01600,TIGR01600,0,330.3,11,230,0,1,1
+Escherichia coli O127:H6 str. E2348/69,0,0,NC_011601,YP_002328973.1,Phage_tail_L,Phage_tail_L,0,320.5,29,230,1,0,1
+Escherichia coli O127:H6 str. E2348/69,0,0,NC_011601,YP_002328973.1,TIGR01600,TIGR01600,0,368,11,230,0,1,1
+Pseudomonas phage MP38,Pseudomonas aeruginosa PA14,neg,NC_011611,YP_002332358.1,DUF2163,DUF2163,0.00000022,39.3,2,144,1,1,1
+Pseudomonas phage MP38,Pseudomonas aeruginosa PA14,neg,NC_011611,YP_002332358.1,Phage_BR0599,Phage_BR0599,3.90E-17,70.5,172,250,1,0,1
+Pseudomonas phage MP38,Pseudomonas aeruginosa PA14,neg,NC_011611,YP_002332358.1,TIGR02218,TIGR02218,0,322.3,3,257,0,1,1
+Pseudomonas phage MP29,Pseudomonas aeruginosa PA14,neg,NC_011613,YP_002332471.1,DUF2163,DUF2163,0.00000024,39.2,2,144,1,1,1
+Pseudomonas phage MP29,Pseudomonas aeruginosa PA14,neg,NC_011613,YP_002332471.1,Phage_BR0599,Phage_BR0599,2.60E-17,71.1,172,250,1,0,1
+Pseudomonas phage MP29,Pseudomonas aeruginosa PA14,neg,NC_011613,YP_002332471.1,TIGR02218,TIGR02218,0,325.5,3,257,0,1,1
+Yersinia pestis CO92,0,0,NC_003143,YP_002347100.1,Phage_tail_L,Phage_tail_L,0,288.3,24,248,1,0,1
+Yersinia pestis CO92,0,0,NC_003143,YP_002347100.1,TIGR01600,TIGR01600,0,219.1,6,248,0,1,1
+Shewanella baltica OS223,0,0,NC_011663,YP_002358493.1,Phage_tail_L,Phage_tail_L,0,249.8,23,240,1,0,1
+Shewanella baltica OS223,0,0,NC_011663,YP_002358493.1,TIGR01600,TIGR01600,0,203.9,5,240,0,1,1
+Methylocella silvestris BL2,0,0,NC_011666,YP_002363328.1,DUF2163,DUF2163,1.90E-24,94.8,1,181,1,1,1
+Methylocella silvestris BL2,0,0,NC_011666,YP_002363328.1,Phage_BR0599,Phage_BR0599,2.00E-22,87.5,206,285,1,0,1
+Methylocella silvestris BL2,0,0,NC_011666,YP_002363328.1,TIGR02218,TIGR02218,1.20E-29,112,29,287,0,1,1
+Escherichia fergusonii ATCC 35469,0,0,NC_011740,YP_002385458.1,Phage_tail_L,Phage_tail_L,0,319.4,29,230,1,0,1
+Escherichia fergusonii ATCC 35469,0,0,NC_011740,YP_002385458.1,TIGR01600,TIGR01600,0,326.9,11,230,0,1,1
+Escherichia coli IAI1,0,0,NC_011741,YP_002386260.1,Phage_tail_L,Phage_tail_L,0,324.5,29,230,1,0,1
+Escherichia coli IAI1,0,0,NC_011741,YP_002386260.1,TIGR01600,TIGR01600,0,329.6,11,230,0,1,1
+Escherichia coli S88,0,0,NC_011742,YP_002390406.1,Phage_tail_L,Phage_tail_L,0,319.5,29,230,1,0,1
+Escherichia coli S88,0,0,NC_011742,YP_002390406.1,TIGR01600,TIGR01600,0,364.9,11,230,0,1,1
+Escherichia coli S88,0,0,NC_011742,YP_002390985.1,Phage_tail_L,Phage_tail_L,0,321.1,29,230,1,0,1
+Escherichia coli S88,0,0,NC_011742,YP_002390985.1,TIGR01600,TIGR01600,0,328,11,230,0,1,1
+Escherichia coli S88,0,0,NC_011742,YP_002391144.1,Phage_tail_L,Phage_tail_L,0,321.2,29,230,1,0,1
+Escherichia coli S88,0,0,NC_011742,YP_002391144.1,TIGR01600,TIGR01600,0,329.5,11,230,0,1,1
+Escherichia coli S88,0,0,NC_011742,YP_002394506.1,Phage_tail_L,Phage_tail_L,0,319,29,230,1,0,1
+Escherichia coli S88,0,0,NC_011742,YP_002394506.1,TIGR01600,TIGR01600,0,327.6,11,230,0,1,1
+Escherichia coli ED1a,0,0,NC_011745,YP_002397074.1,Phage_tail_L,Phage_tail_L,0,319.3,29,230,1,0,1
+Escherichia coli ED1a,0,0,NC_011745,YP_002397074.1,TIGR01600,TIGR01600,0,366.1,11,230,0,1,1
+Escherichia coli ED1a,0,0,NC_011745,YP_002397455.1,Phage_tail_L,Phage_tail_L,0,318.6,31,232,1,0,1
+Escherichia coli ED1a,0,0,NC_011745,YP_002397455.1,TIGR01600,TIGR01600,0,365.3,13,232,0,1,1
+Escherichia coli ED1a,0,0,NC_011745,YP_002397658.1,Phage_tail_L,Phage_tail_L,0,318,47,248,1,0,1
+Escherichia coli ED1a,0,0,NC_011745,YP_002397658.1,TIGR01600,TIGR01600,0,364.6,29,248,0,1,1
+Escherichia coli ED1a,0,0,NC_011745,YP_002398028.1,Phage_tail_L,Phage_tail_L,0,316.6,29,230,1,0,1
+Escherichia coli ED1a,0,0,NC_011745,YP_002398028.1,TIGR01600,TIGR01600,0,362.1,11,230,0,1,1
+Escherichia coli ED1a,0,0,NC_011745,YP_002398415.1,Phage_tail_L,Phage_tail_L,0,318,47,248,1,0,1
+Escherichia coli ED1a,0,0,NC_011745,YP_002398415.1,TIGR01600,TIGR01600,0,364.6,29,248,0,1,1
+Escherichia coli 55989,0,0,NC_011748,YP_002401903.1,Phage_tail_L,Phage_tail_L,0,322.2,29,230,1,0,1
+Escherichia coli 55989,0,0,NC_011748,YP_002401903.1,TIGR01600,TIGR01600,0,328.9,11,230,0,1,1
+Escherichia coli 55989,0,0,NC_011748,YP_002402165.1,Phage_tail_L,Phage_tail_L,0,324,29,230,1,0,1
+Escherichia coli 55989,0,0,NC_011748,YP_002402165.1,TIGR01600,TIGR01600,0,329.3,11,230,0,1,1
+Escherichia coli 55989,0,0,NC_011748,YP_002402486.1,Phage_tail_L,Phage_tail_L,0,321.4,29,230,1,0,1
+Escherichia coli 55989,0,0,NC_011748,YP_002402486.1,TIGR01600,TIGR01600,0,368.1,11,230,0,1,1
+Escherichia coli 55989,0,0,NC_011748,YP_002402764.1,Phage_tail_L,Phage_tail_L,0,322,29,230,1,0,1
+Escherichia coli 55989,0,0,NC_011748,YP_002402764.1,TIGR01600,TIGR01600,0,330.3,11,230,0,1,1
+Escherichia coli IAI39,0,0,NC_011750,YP_002406556.1,Phage_tail_L,Phage_tail_L,0,324.6,29,230,1,0,1
+Escherichia coli IAI39,0,0,NC_011750,YP_002406556.1,TIGR01600,TIGR01600,0,332.6,11,230,0,1,1
+Escherichia coli IAI39,0,0,NC_011750,YP_002406901.1,Phage_tail_L,Phage_tail_L,0,314.3,29,230,1,0,1
+Escherichia coli IAI39,0,0,NC_011750,YP_002406901.1,TIGR01600,TIGR01600,0,360.2,11,230,0,1,1
+Escherichia coli IAI39,0,0,NC_011750,YP_002407837.1,Phage_tail_L,Phage_tail_L,0,321.4,29,230,1,0,1
+Escherichia coli IAI39,0,0,NC_011750,YP_002407837.1,TIGR01600,TIGR01600,0,377.2,11,230,0,1,1
+Escherichia coli IAI39,0,0,NC_011750,YP_002410739.1,Phage_tail_L,Phage_tail_L,0,321.3,29,230,1,0,1
+Escherichia coli IAI39,0,0,NC_011750,YP_002410739.1,TIGR01600,TIGR01600,0,329.7,11,230,0,1,1
+Escherichia coli UMN026,0,0,NC_011751,YP_002411391.1,Phage_tail_L,Phage_tail_L,0,319.9,29,230,1,0,1
+Escherichia coli UMN026,0,0,NC_011751,YP_002411391.1,TIGR01600,TIGR01600,0,328.5,11,230,0,1,1
+Escherichia coli UMN026,0,0,NC_011751,YP_002412108.1,Phage_tail_L,Phage_tail_L,0,318.7,29,230,1,0,1
+Escherichia coli UMN026,0,0,NC_011751,YP_002412108.1,TIGR01600,TIGR01600,0,365.3,11,230,0,1,1
+Escherichia coli UMN026,0,0,NC_011751,YP_002412180.1,Phage_tail_L,Phage_tail_L,0,319.6,29,230,1,0,1
+Escherichia coli UMN026,0,0,NC_011751,YP_002412180.1,TIGR01600,TIGR01600,0,327.2,11,230,0,1,1
+Escherichia coli UMN026,0,0,NC_011751,YP_002412554.1,Phage_tail_L,Phage_tail_L,0,322,29,230,1,0,1
+Escherichia coli UMN026,0,0,NC_011751,YP_002412554.1,TIGR01600,TIGR01600,0,330.3,11,230,0,0,0
+Methylobacterium extorquens CM4,0,0,NC_011757,YP_002419161.1,DUF1833,DUF1833,0,50.8,6,166,0,0,0
+Methylobacterium extorquens CM4,0,0,NC_011757,YP_002420377.1,DUF1833,DUF1833,0.0000000014,45.7,5,166,0,1,1
+Methylobacterium extorquens CM4,0,0,NC_011757,YP_002420485.1,DUF2163,DUF2163,0,195.8,1,163,1,1,1
+Methylobacterium extorquens CM4,0,0,NC_011757,YP_002420485.1,Phage_BR0599,Phage_BR0599,1.30E-27,104.1,116,163,1,1,1
+Methylobacterium extorquens CM4,0,0,NC_011757,YP_002420485.1,Phage_BR0599,Phage_BR0599,1.30E-27,104.1,194,277,1,0,1
+Methylobacterium extorquens CM4,0,0,NC_011757,YP_002420485.1,TIGR02218,TIGR02218,0,298.2,23,295,0,1,1
+Desulfovibrio vulgaris str.  Miyazaki F,0,0,NC_011769,YP_002436057.1,Phage_tail_L,Phage_tail_L,0.27,18.9,223,285,1,0,1
+Desulfovibrio vulgaris str.  Miyazaki F,0,0,NC_011769,YP_002436057.1,TIGR01600,TIGR01600,0.55,17.7,222,285,0,1,1
+Pseudomonas aeruginosa LESB58,0,0,NC_011770,YP_002439195.1,DUF2163,DUF2163,0.00000091,37.3,2,144,1,1,1
+Pseudomonas aeruginosa LESB58,0,0,NC_011770,YP_002439195.1,Phage_BR0599,Phage_BR0599,4.00E-17,70.5,172,250,1,0,1
+Pseudomonas aeruginosa LESB58,0,0,NC_011770,YP_002439195.1,TIGR02218,TIGR02218,0,318.8,3,257,0,0,0
+Pseudomonas aeruginosa LESB58,0,0,NC_011770,YP_002440157.1,DUF1833,DUF1833,0,180.1,3,151,0,1,1
+Haemophilus parasuis SH0165,swine,0,NC_011852,YP_002475039.1,Phage_tail_L,Phage_tail_L,0,268.1,37,243,1,0,1
+Haemophilus parasuis SH0165,swine,0,NC_011852,YP_002475039.1,TIGR01600,TIGR01600,0,254.1,12,243,0,1,1
+Haemophilus parasuis SH0165,swine,0,NC_011852,YP_002475193.1,Phage_tail_L,Phage_tail_L,0,265.9,37,243,1,0,1
+Haemophilus parasuis SH0165,swine,0,NC_011852,YP_002475193.1,TIGR01600,TIGR01600,0,252.3,12,243,0,1,1
+Anaeromyxobacter dehalogenans 2CP-1,0,0,NC_011891,YP_002491724.1,DUF2163,DUF2163,9.40E-17,69.8,1,173,1,1,1
+Anaeromyxobacter dehalogenans 2CP-1,0,0,NC_011891,YP_002491724.1,Phage_BR0599,Phage_BR0599,0.00000000013,49.6,202,285,1,0,1
+Anaeromyxobacter dehalogenans 2CP-1,0,0,NC_011891,YP_002491724.1,TIGR02218,TIGR02218,0,58.6,27,287,0,1,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002497300.1,DUF2163,DUF2163,0,203.2,1,163,1,1,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002497300.1,Phage_BR0599,Phage_BR0599,9.90E-28,104.5,194,277,1,0,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002497300.1,TIGR02218,TIGR02218,0,295.6,23,294,0,1,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002497867.1,DUF2163,DUF2163,0,203.7,1,163,1,1,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002497867.1,Phage_BR0599,Phage_BR0599,3.00E-28,106.1,194,277,1,0,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002497867.1,TIGR02218,TIGR02218,0,297.1,23,294,0,1,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002498743.1,Phage_tail_L,Phage_tail_L,5.20E-41,148.6,31,241,1,0,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002498743.1,TIGR01600,TIGR01600,4.40E-41,148.8,11,241,0,1,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002499082.1,Phage_tail_L,Phage_tail_L,8.20E-42,151.2,31,241,1,0,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002499082.1,TIGR01600,TIGR01600,5.20E-42,151.8,11,241,0,1,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002499242.1,Phage_tail_L,Phage_tail_L,4.60E-41,148.8,31,241,1,0,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002499242.1,TIGR01600,TIGR01600,2.80E-40,146.2,11,241,0,1,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002499473.1,DUF2163,DUF2163,0,204,1,163,1,1,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002499473.1,Phage_BR0599,Phage_BR0599,1.70E-29,110.1,194,277,1,0,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002499473.1,TIGR02218,TIGR02218,0,301.6,23,294,0,1,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002500199.1,Phage_tail_L,Phage_tail_L,6.60E-41,148.2,31,241,1,0,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002500199.1,TIGR01600,TIGR01600,3.60E-41,149.1,11,241,0,1,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002500885.1,Phage_tail_L,Phage_tail_L,5.40E-42,151.8,31,241,1,0,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002500885.1,TIGR01600,TIGR01600,9.70E-42,151,11,241,0,1,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002501335.1,Phage_tail_L,Phage_tail_L,2.70E-40,146.3,31,241,1,0,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002501335.1,TIGR01600,TIGR01600,2.80E-40,146.2,11,241,0,1,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002501644.1,DUF2163,DUF2163,0,203.2,1,163,1,1,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002501644.1,Phage_BR0599,Phage_BR0599,9.90E-28,104.5,194,277,1,0,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002501644.1,TIGR02218,TIGR02218,0,295.6,23,294,0,1,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002502065.1,Phage_tail_L,Phage_tail_L,1.10E-40,147.5,31,241,1,0,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002502065.1,TIGR01600,TIGR01600,3.60E-40,145.8,11,241,0,1,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002502356.1,DUF2163,DUF2163,0,201.8,1,163,1,1,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002502356.1,Phage_BR0599,Phage_BR0599,1.00E-27,104.5,194,277,1,0,1
+Methylobacterium nodulans ORS 2060,0,0,NC_011894,YP_002502356.1,TIGR02218,TIGR02218,0,293.2,23,294,0,1,1
+Caulobacter crescentus NA1000,0,0,NC_011916,YP_002518237.1,DUF2163,DUF2163,0,168.4,2,157,1,1,1
+Caulobacter crescentus NA1000,0,0,NC_011916,YP_002518237.1,Phage_BR0599,Phage_BR0599,0.0000027,35.8,151,191,1,1,1
+Caulobacter crescentus NA1000,0,0,NC_011916,YP_002518237.1,TIGR02218,TIGR02218,0,254.5,17,160,1,0,1
+Caulobacter crescentus NA1000,0,0,NC_011916,YP_002518237.1,TIGR02218,TIGR02218,0,254.5,161,208,0,0,0
+Geobacter daltonii FRC-32,0,0,NC_011979,YP_002536045.1,DUF2163,DUF2163,10,14.4,1,53,0,1,1
+Escherichia coli LF82,0,0,NC_011993,YP_002556072.1,Phage_tail_L,Phage_tail_L,0,323.8,29,230,1,0,1
+Escherichia coli LF82,0,0,NC_011993,YP_002556072.1,TIGR01600,TIGR01600,0,329.8,11,230,0,1,1
+Escherichia coli LF82,0,0,NC_011993,YP_002556429.1,Phage_tail_L,Phage_tail_L,0,320.8,29,230,1,0,1
+Escherichia coli LF82,0,0,NC_011993,YP_002556429.1,TIGR01600,TIGR01600,0,330.4,11,230,0,1,1
+Macrococcus caseolyticus JCSC5402,0,0,NC_011999,YP_002560233.1,LL_Fam1,LL_Fam1,3.3,15.4,1,73,1,0,1
+Macrococcus caseolyticus JCSC5402,0,0,NC_011999,YP_002560233.1,LL_Fam1,LL_Fam1,3.3,15.4,70,211,0,1,1
+Anaplasma marginale str. Florida,cattle,0,NC_012026,YP_002563422.1,DUF2163,DUF2163,3.50E-37,136.2,1,161,1,1,1
+Anaplasma marginale str. Florida,cattle,0,NC_012026,YP_002563422.1,Phage_BR0599,Phage_BR0599,1.70E-24,94.1,189,268,1,0,1
+Anaplasma marginale str. Florida,cattle,0,NC_012026,YP_002563422.1,TIGR02218,TIGR02218,0,187.9,25,275,0,0,0
+Salmonella enterica subsp. enterica serovar Paratyphi C strain,0,0,NC_012125,YP_002635946.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Salmonella enterica subsp. enterica serovar Paratyphi C strain,0,0,NC_012125,YP_002638246.1,Phage_tail_L,Phage_tail_L,0,313.3,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Paratyphi C strain,0,0,NC_012125,YP_002638246.1,TIGR01600,TIGR01600,0,284.3,11,230,0,1,1
+Enterobacteria phage SSL-2009a,Escherichia coli,neg,NC_012223,YP_002720063.1,Phage_tail_L,Phage_tail_L,7.80E-38,138.2,33,260,1,0,1
+Enterobacteria phage SSL-2009a,Escherichia coli,neg,NC_012223,YP_002720063.1,TIGR01600,TIGR01600,4.50E-26,99.7,48,260,0,1,1
+Brachyspira hyodysenteriae WA1,0,0,NC_012225,YP_002721797.1,LL_Fam1,LL_Fam1,0.14,19.9,4,86,1,0,1
+Brachyspira hyodysenteriae WA1,0,0,NC_012225,YP_002721797.1,LL_Fam1,LL_Fam1,0.14,19.9,141,257,0,1,1
+Wolbachia sp. wRi,Drosophila simulans Riverside,0,NC_012416,YP_002727271.1,DUF2163,DUF2163,0,171,1,161,1,1,1
+Wolbachia sp. wRi,Drosophila simulans Riverside,0,NC_012416,YP_002727271.1,Phage_BR0599,Phage_BR0599,2.60E-21,83.9,189,266,1,0,1
+Wolbachia sp. wRi,Drosophila simulans Riverside,0,NC_012416,YP_002727271.1,TIGR02218,TIGR02218,0,347.1,20,268,0,0,0
+Laribacter hongkongensis HLHK9,0,0,NC_012559,YP_002795752.1,DUF1833,DUF1833,4.20E-38,138.3,8,149,0,1,1
+Clostridium botulinum A2 str. Kyoto,0,0,NC_012563,YP_002803716.1,LL_Fam1,LL_Fam1,6.2,14.5,119,184,1,0,1
+Clostridium botulinum A2 str. Kyoto,0,0,NC_012563,YP_002803716.1,LL_Fam1,LL_Fam1,6.2,14.5,169,298,0,0,0
+Rickettsia africae ESF-5,Amblyomma variegatum (cattle tick),0,NC_012633,YP_002845277.1,DUF2163,DUF2163,0.00005,31.6,4,89,0,1,1
+Rickettsia africae ESF-5,Amblyomma variegatum (cattle tick),0,NC_012633,YP_002845278.1,Phage_BR0599,Phage_BR0599,0,59,1,51,1,0,1
+Rickettsia africae ESF-5,Amblyomma variegatum (cattle tick),0,NC_012633,YP_002845278.1,TIGR02218,TIGR02218,0.0000000002,49,2,56,0,1,1
+Clostridium botulinum Ba4 str. 657,0,0,NC_012658,YP_002862252.1,LL_Fam1,LL_Fam1,4.5,15,121,180,1,0,1
+Clostridium botulinum Ba4 str. 657,0,0,NC_012658,YP_002862252.1,LL_Fam1,LL_Fam1,4.5,15,169,298,0,1,1
+Pseudomonas fluorescens SBW25,0,0,NC_012660,YP_002872463.1,Phage_tail_L,Phage_tail_L,0,261.1,24,247,1,0,1
+Pseudomonas fluorescens SBW25,0,0,NC_012660,YP_002872463.1,TIGR01600,TIGR01600,0,227.3,6,247,0,0,0
+Rickettsia peacockii str. Rustic,0,0,NC_012730,YP_002916082.1,DUF2163,DUF2163,0.0000081,34.2,4,89,0,0,0
+Xanthomonas phage phiL7,Xanthomonas campestris pv. campestris,neg,NC_012742,YP_002922632.1,DUF1833,DUF1833,8.90E-35,127.5,2,143,0,1,1
+Escherichia coli BW2952,0,0,NC_012759,YP_002928930.1,Phage_tail_L,Phage_tail_L,0,324.5,29,230,1,0,1
+Escherichia coli BW2952,0,0,NC_012759,YP_002928930.1,TIGR01600,TIGR01600,0,329.6,11,230,0,1,1
+Methylobacterium extorquens AM1,0,0,NC_012808,YP_002962448.1,DUF2163,DUF2163,0,193.2,1,163,1,1,1
+Methylobacterium extorquens AM1,0,0,NC_012808,YP_002962448.1,Phage_BR0599,Phage_BR0599,3.00E-27,103,194,277,1,0,1
+Methylobacterium extorquens AM1,0,0,NC_012808,YP_002962448.1,TIGR02218,TIGR02218,0,298.7,23,295,0,1,1
+Escherichia coli BL21(DE3),0,0,NC_012892,YP_002998587.1,Phage_tail_L,Phage_tail_L,0,324.5,29,230,1,0,1
+Escherichia coli BL21(DE3),0,0,NC_012892,YP_002998587.1,TIGR01600,TIGR01600,0,329.6,11,230,0,1,1
+Aggregatibacter aphrophilus NJ8700,0,0,NC_012913,YP_003007010.1,Phage_tail_L,Phage_tail_L,0,263.9,38,242,1,0,1
+Aggregatibacter aphrophilus NJ8700,0,0,NC_012913,YP_003007010.1,TIGR01600,TIGR01600,0,254.1,12,242,0,0,0
+Aggregatibacter aphrophilus NJ8700,0,0,NC_012913,YP_003007735.1,LL_Fam1,LL_Fam1,9.4,13.9,3,99,0,0,0
+Pectobacterium carotovorum subsp. carotovorum PC1,0,0,NC_012917,YP_003019576.1,Phage_tail_L,Phage_tail_L,5,14.7,54,138,0,0,0
+Geobacter sp. M21,0,0,NC_012918,YP_003022416.1,DUF1833,DUF1833,8.8,13.9,3,65,0,1,1
+Escherichia coli  BL21-Gold(DE3)pLysS AG,0,0,NC_012947,YP_003037061.1,Phage_tail_L,Phage_tail_L,0,324.5,29,230,1,0,1
+Escherichia coli  BL21-Gold(DE3)pLysS AG,0,0,NC_012947,YP_003037061.1,TIGR01600,TIGR01600,0,329.6,11,230,0,1,1
+Escherichia coli BL21(DE3),0,0,NC_012971,YP_003053404.1,Phage_tail_L,Phage_tail_L,0,324.5,29,230,1,0,1
+Escherichia coli BL21(DE3),0,0,NC_012971,YP_003053404.1,TIGR01600,TIGR01600,0,329.6,11,230,0,1,1
+Hirschia baltica ATCC 49814,0,0,NC_012982,YP_003059654.1,DUF2163,DUF2163,6.20E-37,135.4,1,163,1,1,1
+Hirschia baltica ATCC 49814,0,0,NC_012982,YP_003059654.1,Phage_BR0599,Phage_BR0599,0.00000000049,47.8,164,200,1,1,1
+Hirschia baltica ATCC 49814,0,0,NC_012982,YP_003059654.1,TIGR02218,TIGR02218,0,169.6,23,171,1,0,1
+Hirschia baltica ATCC 49814,0,0,NC_012982,YP_003059654.1,TIGR02218,TIGR02218,0,169.6,165,217,0,1,1
+Methylobacterium extorquens DM4,0,0,NC_012988,YP_003067631.1,DUF2163,DUF2163,0,197.1,1,163,1,1,1
+Methylobacterium extorquens DM4,0,0,NC_012988,YP_003067631.1,Phage_BR0599,Phage_BR0599,4.10E-28,105.7,194,277,1,0,1
+Methylobacterium extorquens DM4,0,0,NC_012988,YP_003067631.1,TIGR02218,TIGR02218,0,303.5,23,295,0,1,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003076793.1,Phage_tail_L,Phage_tail_L,0,322.8,29,230,1,0,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003076793.1,TIGR01600,TIGR01600,0,328.1,11,230,0,1,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003077056.1,Phage_tail_L,Phage_tail_L,0,322.6,29,230,1,0,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003077056.1,TIGR01600,TIGR01600,0,383,11,230,0,1,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003077390.1,Phage_tail_L,Phage_tail_L,0,319.4,29,230,1,0,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003077390.1,TIGR01600,TIGR01600,0,375.5,11,230,0,1,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003077467.1,Phage_tail_L,Phage_tail_L,0,324,29,230,1,0,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003077467.1,TIGR01600,TIGR01600,0,331,11,230,0,1,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003077606.1,Phage_tail_L,Phage_tail_L,0,322.6,29,230,1,0,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003077606.1,TIGR01600,TIGR01600,0,383,11,230,0,1,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003077671.1,Phage_tail_L,Phage_tail_L,0,321.7,29,230,1,0,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003077671.1,TIGR01600,TIGR01600,0,377.9,11,230,0,1,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003077938.1,Phage_tail_L,Phage_tail_L,0,319.7,29,230,1,0,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003077938.1,TIGR01600,TIGR01600,0,371.4,11,230,0,1,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003077988.1,Phage_tail_L,Phage_tail_L,2.30E-39,143.2,29,133,1,0,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003077988.1,TIGR01600,TIGR01600,0,179.3,11,130,0,1,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003078473.1,Phage_tail_L,Phage_tail_L,0,322.6,29,230,1,0,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003078473.1,TIGR01600,TIGR01600,0,383,11,230,0,1,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003078801.1,Phage_tail_L,Phage_tail_L,0,322.9,29,230,1,0,1
+Escherichia coli O157:H7 str. TW14359,0,0,NC_013008,YP_003078801.1,TIGR01600,TIGR01600,0,378.8,11,230,0,1,1
+Neisseria meningitidis alpha14,0,0,NC_013016,YP_003083008.1,Phage_BR0599,Phage_BR0599,7,15.2,205,238,1,1,1
+Neisseria meningitidis alpha14,0,0,NC_013016,YP_003083008.1,Phage_tail_L,Phage_tail_L,0,300.7,34,238,1,0,1
+Neisseria meningitidis alpha14,0,0,NC_013016,YP_003083008.1,TIGR01600,TIGR01600,0,267.5,15,238,0,1,1
+Burkholderia phage KS9,Burkholderia pyrrocinia strain LMG 21824,neg,NC_013055,YP_003090192.1,Phage_tail_L,Phage_tail_L,0,260.2,24,227,1,0,1
+Burkholderia phage KS9,Burkholderia pyrrocinia strain LMG 21824,neg,NC_013055,YP_003090192.1,TIGR01600,TIGR01600,0,285.2,6,227,0,0,0
+Desulfomicrobium baculatum DSM 4028,0,0,NC_013173,YP_003157335.1,Phage_BR0599,Phage_BR0599,4,16,38,115,0,0,0
+Cronobacter turicensis z3032,0,0,NC_013282,YP_003209552.1,DUF1833,DUF1833,0.1,20.2,3,145,0,1,1
+Cronobacter turicensis z3032,0,0,NC_013282,YP_003210122.1,Phage_tail_L,Phage_tail_L,0,240.2,24,248,1,0,1
+Cronobacter turicensis z3032,0,0,NC_013282,YP_003210122.1,TIGR01600,TIGR01600,0,198.3,6,248,0,1,1
+Escherichia coli O103:H2 str. 12009,0,0,NC_013353,YP_003220553.1,Phage_tail_L,Phage_tail_L,0,324.1,29,230,1,0,1
+Escherichia coli O103:H2 str. 12009,0,0,NC_013353,YP_003220553.1,TIGR01600,TIGR01600,0,329.3,11,230,0,1,1
+Escherichia coli O103:H2 str. 12009,0,0,NC_013353,YP_003220782.1,Phage_tail_L,Phage_tail_L,0,323.5,29,230,1,0,1
+Escherichia coli O103:H2 str. 12009,0,0,NC_013353,YP_003220782.1,TIGR01600,TIGR01600,0,364.3,11,230,0,1,1
+Escherichia coli O103:H2 str. 12009,0,0,NC_013353,YP_003221192.1,Phage_tail_L,Phage_tail_L,0,322.8,29,230,1,0,1
+Escherichia coli O103:H2 str. 12009,0,0,NC_013353,YP_003221192.1,TIGR01600,TIGR01600,0,379.1,11,230,0,1,1
+Escherichia coli O103:H2 str. 12009,0,0,NC_013353,YP_003221373.1,Phage_tail_L,Phage_tail_L,0,320.4,29,230,1,0,1
+Escherichia coli O103:H2 str. 12009,0,0,NC_013353,YP_003221373.1,TIGR01600,TIGR01600,0,375.9,11,230,0,1,1
+Escherichia coli O103:H2 str. 12009,0,0,NC_013353,YP_003222001.1,Phage_tail_L,Phage_tail_L,0,321.9,29,230,1,0,1
+Escherichia coli O103:H2 str. 12009,0,0,NC_013353,YP_003222001.1,TIGR01600,TIGR01600,0,330.7,11,230,0,1,1
+Escherichia coli O103:H2 str. 12009,0,0,NC_013353,YP_003222158.1,Phage_tail_L,Phage_tail_L,0,322.8,29,230,1,0,1
+Escherichia coli O103:H2 str. 12009,0,0,NC_013353,YP_003222158.1,TIGR01600,TIGR01600,0,379.1,11,230,0,1,1
+Escherichia coli O103:H2 str. 12009,0,0,NC_013353,YP_003222225.1,Phage_tail_L,Phage_tail_L,0,322.8,29,230,1,0,1
+Escherichia coli O103:H2 str. 12009,0,0,NC_013353,YP_003222225.1,TIGR01600,TIGR01600,0,379.1,11,230,0,1,1
+Escherichia coli O103:H2 str. 12009,0,0,NC_013353,YP_003222296.1,Phage_tail_L,Phage_tail_L,0,322.8,29,230,1,0,1
+Escherichia coli O103:H2 str. 12009,0,0,NC_013353,YP_003222296.1,TIGR01600,TIGR01600,0,379.1,11,230,0,1,1
+Escherichia coli O103:H2 str. 12009,0,0,NC_013353,YP_003225034.1,Phage_tail_L,Phage_tail_L,0,322.8,29,230,1,0,1
+Escherichia coli O103:H2 str. 12009,0,0,NC_013353,YP_003225034.1,TIGR01600,TIGR01600,0,379.1,11,230,0,1,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003227693.1,Phage_tail_L,Phage_tail_L,0,318.9,29,230,1,0,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003227693.1,TIGR01600,TIGR01600,0,326.3,11,230,0,1,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003227941.1,Phage_tail_L,Phage_tail_L,0,321.8,29,230,1,0,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003227941.1,TIGR01600,TIGR01600,0,377.9,11,230,0,1,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003228211.1,Phage_tail_L,Phage_tail_L,0,323.8,29,230,1,0,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003228211.1,TIGR01600,TIGR01600,0,380.1,11,230,0,1,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003228282.1,Phage_tail_L,Phage_tail_L,0,323,29,230,1,0,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003228282.1,TIGR01600,TIGR01600,0,377.9,11,230,0,1,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003228555.1,Phage_tail_L,Phage_tail_L,0,323,29,230,1,0,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003228555.1,TIGR01600,TIGR01600,0,371.3,11,230,0,1,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003228668.1,Phage_tail_L,Phage_tail_L,0,321.4,29,230,1,0,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003228668.1,TIGR01600,TIGR01600,0,370.5,11,230,0,1,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003228987.1,Phage_tail_L,Phage_tail_L,0,321.8,29,230,1,0,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003228987.1,TIGR01600,TIGR01600,0,377.9,11,230,0,1,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003229162.1,Phage_tail_L,Phage_tail_L,0,319,29,230,1,0,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003229162.1,TIGR01600,TIGR01600,0,327.6,11,230,0,1,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003229220.1,Phage_tail_L,Phage_tail_L,0,322.8,29,230,1,0,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003229220.1,TIGR01600,TIGR01600,0,379.1,11,230,0,1,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003229601.1,Phage_tail_L,Phage_tail_L,0,322.8,29,230,1,0,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003229601.1,TIGR01600,TIGR01600,0,379.1,11,230,0,1,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003230112.1,Phage_tail_L,Phage_tail_L,0,324.3,29,230,1,0,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003230112.1,TIGR01600,TIGR01600,0,331.3,11,230,0,1,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003230609.1,Phage_tail_L,Phage_tail_L,0,322.7,29,230,1,0,1
+Escherichia coli O26:H11 str. 11368,0,0,NC_013361,YP_003230609.1,TIGR01600,TIGR01600,0,377.5,11,230,0,1,1
+Escherichia coli O111:H- str. 11128,0,0,NC_013364,YP_003233330.1,Phage_tail_L,Phage_tail_L,1.50E-27,104.6,29,109,1,0,1
+Escherichia coli O111:H- str. 11128,0,0,NC_013364,YP_003233330.1,TIGR01600,TIGR01600,8.80E-38,138,11,111,0,1,1
+Escherichia coli O111:H- str. 11128,0,0,NC_013364,YP_003233331.1,Phage_tail_L,Phage_tail_L,0,199.4,1,128,1,0,1
+Escherichia coli O111:H- str. 11128,0,0,NC_013364,YP_003233331.1,TIGR01600,TIGR01600,0,221.7,1,128,0,1,1
+Escherichia coli O111:H- str. 11128,0,0,NC_013364,YP_003233943.1,Phage_tail_L,Phage_tail_L,0,318.9,29,230,1,0,1
+Escherichia coli O111:H- str. 11128,0,0,NC_013364,YP_003233943.1,TIGR01600,TIGR01600,0,375.6,11,230,0,1,1
+Escherichia coli O111:H- str. 11128,0,0,NC_013364,YP_003234219.1,Phage_tail_L,Phage_tail_L,0,318.9,29,230,1,0,1
+Escherichia coli O111:H- str. 11128,0,0,NC_013364,YP_003234219.1,TIGR01600,TIGR01600,0,375.6,11,230,0,1,1
+Escherichia coli O111:H- str. 11128,0,0,NC_013364,YP_003234437.1,Phage_tail_L,Phage_tail_L,0,320.7,29,230,1,0,1
+Escherichia coli O111:H- str. 11128,0,0,NC_013364,YP_003234437.1,TIGR01600,TIGR01600,0,375.6,11,230,0,1,1
+Escherichia coli O111:H- str. 11128,0,0,NC_013364,YP_003234815.1,Phage_tail_L,Phage_tail_L,0,315.1,29,230,1,0,1
+Escherichia coli O111:H- str. 11128,0,0,NC_013364,YP_003234815.1,TIGR01600,TIGR01600,0,365.4,11,230,0,1,1
+Escherichia coli O111:H- str. 11128,0,0,NC_013364,YP_003234974.1,Phage_tail_L,Phage_tail_L,0,324.1,29,230,1,0,1
+Escherichia coli O111:H- str. 11128,0,0,NC_013364,YP_003234974.1,TIGR01600,TIGR01600,0,379.5,11,230,0,1,1
+Escherichia coli O111:H- str. 11128,0,0,NC_013364,YP_003235710.1,Phage_tail_L,Phage_tail_L,0,324.1,29,230,1,0,1
+Escherichia coli O111:H- str. 11128,0,0,NC_013364,YP_003235710.1,TIGR01600,TIGR01600,0,379.5,11,230,0,1,1
+Escherichia coli O111:H- str. 11128,0,0,NC_013364,YP_003237199.1,Phage_tail_L,Phage_tail_L,0,317.2,29,230,1,0,1
+Escherichia coli O111:H- str. 11128,0,0,NC_013364,YP_003237199.1,TIGR01600,TIGR01600,0,367.8,11,230,0,1,1
+Aggregatibacter actinomycetemcomitans D11S-1,0,0,NC_013416,YP_003256739.1,DUF2163,DUF2163,0.000000087,40.6,12,155,1,1,1
+Aggregatibacter actinomycetemcomitans D11S-1,0,0,NC_013416,YP_003256739.1,Phage_BR0599,Phage_BR0599,1.20E-20,81.8,184,261,1,0,1
+Aggregatibacter actinomycetemcomitans D11S-1,0,0,NC_013416,YP_003256739.1,TIGR02218,TIGR02218,5.50E-31,116.4,19,268,0,1,1
+Comamonas testosteroni CNB-2,0,0,NC_013446,YP_003279600.1,DUF2163,DUF2163,2.20E-27,104.3,1,180,1,1,1
+Comamonas testosteroni CNB-2,0,0,NC_013446,YP_003279600.1,Phage_BR0599,Phage_BR0599,1.30E-19,78.5,207,288,1,0,1
+Comamonas testosteroni CNB-2,0,0,NC_013446,YP_003279600.1,TIGR02218,TIGR02218,5.50E-38,139.4,23,293,0,0,0
+Lactobacillus johnsonii FI9785,0,0,NC_013504,YP_003292932.1,TIGR02218,TIGR02218,6.5,14.6,24,124,0,1,1
+Edwardsiella tarda EIB202,0,0,NC_013508,YP_003296522.1,Phage_tail_L,Phage_tail_L,0,259.9,29,230,1,0,1
+Edwardsiella tarda EIB202,0,0,NC_013508,YP_003296522.1,TIGR01600,TIGR01600,0,267.5,12,230,0,1,1
+Anaplasma centrale str. Israel,0,0,NC_013532,YP_003328731.1,DUF2163,DUF2163,3.50E-37,136.2,1,161,1,1,1
+Anaplasma centrale str. Israel,0,0,NC_013532,YP_003328731.1,Phage_BR0599,Phage_BR0599,1.70E-24,94.1,189,268,1,0,1
+Anaplasma centrale str. Israel,0,0,NC_013532,YP_003328731.1,TIGR02218,TIGR02218,0,187.9,25,275,0,1,1
+Sodalis phage SO-1,Sodalis glossinidius,neg,NC_013600,YP_003344954.1,Phage_tail_L,Phage_tail_L,8.80E-38,138,33,260,1,0,1
+Sodalis phage SO-1,Sodalis glossinidius,neg,NC_013600,YP_003344954.1,TIGR01600,TIGR01600,5.70E-26,99.4,48,260,0,1,1
+Escherichia coli SE15,0,0,NC_013654,YP_003349074.1,Phage_tail_L,Phage_tail_L,0,323.5,29,230,1,0,1
+Escherichia coli SE15,0,0,NC_013654,YP_003349074.1,TIGR01600,TIGR01600,0,330.6,11,230,0,1,1
+Xanthomonas albilineans GPE PC73,0,0,NC_013722,YP_003374760.1,DUF2163,DUF2163,0.000000024,42.4,21,158,1,1,1
+Xanthomonas albilineans GPE PC73,0,0,NC_013722,YP_003374760.1,Phage_BR0599,Phage_BR0599,0,54.1,187,267,1,0,1
+Xanthomonas albilineans GPE PC73,0,0,NC_013722,YP_003374760.1,TIGR02218,TIGR02218,4.20E-29,110.3,18,273,0,0,0
+Streptococcus gallolyticus UCN34,0,0,NC_013798,YP_003430903.1,TIGR01600,TIGR01600,3.4,15.1,39,116,0,0,0
+Klebsiella variicola At-22,0,0,NC_013850,YP_003438750.1,DUF1833,DUF1833,0.11,20.1,3,142,0,0,0
+Klebsiella variicola At-22,0,0,NC_013850,YP_003439049.1,DUF1833,DUF1833,2.40E-39,142.4,2,148,0,0,0
+Klebsiella variicola At-22,0,0,NC_013850,YP_003440114.1,DUF2163,DUF2163,0.89,17.8,13,112,0,1,1
+Xenorhabdus bovienii SS-2004,0,0,NC_013892,YP_003466602.1,Phage_tail_L,Phage_tail_L,0,281.1,23,247,1,0,1
+Xenorhabdus bovienii SS-2004,0,0,NC_013892,YP_003466602.1,TIGR01600,TIGR01600,0,215.4,5,247,0,1,1
+Xenorhabdus bovienii SS-2004,0,0,NC_013892,YP_003467158.1,Phage_tail_L,Phage_tail_L,0,256.7,29,233,1,0,1
+Xenorhabdus bovienii SS-2004,0,0,NC_013892,YP_003467158.1,TIGR01600,TIGR01600,0,255.2,11,233,0,1,1
+Xenorhabdus bovienii SS-2004,0,0,NC_013892,YP_003467198.1,Phage_tail_L,Phage_tail_L,0,265.2,24,243,1,0,1
+Xenorhabdus bovienii SS-2004,0,0,NC_013892,YP_003467198.1,TIGR01600,TIGR01600,0,211.2,6,243,0,1,1
+Xenorhabdus bovienii SS-2004,0,0,NC_013892,YP_003467955.1,Phage_tail_L,Phage_tail_L,0,281.1,23,247,1,0,1
+Xenorhabdus bovienii SS-2004,0,0,NC_013892,YP_003467955.1,TIGR01600,TIGR01600,0,215.4,5,247,0,1,1
+Xenorhabdus bovienii SS-2004,0,0,NC_013892,YP_003469027.1,Phage_tail_L,Phage_tail_L,2.20E-23,91,1,78,1,0,1
+Xenorhabdus bovienii SS-2004,0,0,NC_013892,YP_003469027.1,TIGR01600,TIGR01600,1.60E-16,68.5,1,78,0,1,1
+Xenorhabdus bovienii SS-2004,0,0,NC_013892,YP_003469817.1,Phage_tail_L,Phage_tail_L,0,270.3,24,244,1,0,1
+Xenorhabdus bovienii SS-2004,0,0,NC_013892,YP_003469817.1,TIGR01600,TIGR01600,0,208.3,6,244,0,1,1
+Escherichia coli O55:H7 str. CB9615,homo sapiens,0,NC_013941,YP_003497960.1,Phage_tail_L,Phage_tail_L,0,321.2,29,230,1,0,1
+Escherichia coli O55:H7 str. CB9615,homo sapiens,0,NC_013941,YP_003497960.1,TIGR01600,TIGR01600,0,328.6,11,230,0,1,1
+Escherichia coli O55:H7 str. CB9615,homo sapiens,0,NC_013941,YP_003498315.1,Phage_tail_L,Phage_tail_L,0,318.7,29,230,1,0,1
+Escherichia coli O55:H7 str. CB9615,homo sapiens,0,NC_013941,YP_003498315.1,TIGR01600,TIGR01600,0,328.2,11,230,0,1,1
+Escherichia coli O55:H7 str. CB9615,homo sapiens,0,NC_013941,YP_003498575.1,Phage_tail_L,Phage_tail_L,0,320.9,29,230,1,0,1
+Escherichia coli O55:H7 str. CB9615,homo sapiens,0,NC_013941,YP_003498575.1,TIGR01600,TIGR01600,0,326.4,11,230,0,1,1
+Escherichia coli O55:H7 str. CB9615,homo sapiens,0,NC_013941,YP_003499147.1,Phage_tail_L,Phage_tail_L,0,323.2,29,230,1,0,1
+Escherichia coli O55:H7 str. CB9615,homo sapiens,0,NC_013941,YP_003499147.1,TIGR01600,TIGR01600,0,378.3,11,230,0,1,1
+Escherichia coli O55:H7 str. CB9615,homo sapiens,0,NC_013941,YP_003499304.1,Phage_tail_L,Phage_tail_L,0,321,29,230,1,0,1
+Escherichia coli O55:H7 str. CB9615,homo sapiens,0,NC_013941,YP_003499304.1,TIGR01600,TIGR01600,0,376.4,11,230,0,1,1
+Escherichia coli O55:H7 str. CB9615,homo sapiens,0,NC_013941,YP_003499478.1,Phage_tail_L,Phage_tail_L,0,324,29,230,1,0,1
+Escherichia coli O55:H7 str. CB9615,homo sapiens,0,NC_013941,YP_003499478.1,TIGR01600,TIGR01600,0,331,11,230,0,1,1
+Escherichia coli O55:H7 str. CB9615,homo sapiens,0,NC_013941,YP_003499979.1,Phage_tail_L,Phage_tail_L,0,322.8,29,230,1,0,1
+Escherichia coli O55:H7 str. CB9615,homo sapiens,0,NC_013941,YP_003499979.1,TIGR01600,TIGR01600,0,379.1,11,230,0,1,1
+Escherichia coli O55:H7 str. CB9615,homo sapiens,0,NC_013941,YP_003500721.1,Phage_tail_L,Phage_tail_L,0,322.8,29,230,1,0,1
+Escherichia coli O55:H7 str. CB9615,homo sapiens,0,NC_013941,YP_003500721.1,TIGR01600,TIGR01600,0,379.1,11,230,0,1,1
+Escherichia coli O55:H7 str. CB9615,homo sapiens,0,NC_013941,YP_003502619.1,Phage_tail_L,Phage_tail_L,0,324.1,29,230,1,0,1
+Escherichia coli O55:H7 str. CB9615,homo sapiens,0,NC_013941,YP_003502619.1,TIGR01600,TIGR01600,0,332.8,11,230,0,1,1
+Meiothermus ruber DSM 1279,0,0,NC_013946,YP_003507763.1,TIGR02218,TIGR02218,2.4,16,6,56,1,0,1
+Meiothermus ruber DSM 1279,0,0,NC_013946,YP_003507763.1,TIGR02218,TIGR02218,2.4,16,25,131,0,1,1
+Sphingobium japonicum UT26S,0,0,NC_014006,YP_003544682.1,DUF2163,DUF2163,6.00E-40,145.2,3,159,1,1,1
+Sphingobium japonicum UT26S,0,0,NC_014006,YP_003544682.1,Phage_BR0599,Phage_BR0599,2.90E-19,77.3,184,263,1,0,1
+Sphingobium japonicum UT26S,0,0,NC_014006,YP_003544682.1,TIGR02218,TIGR02218,0,210.7,18,272,0,0,0
+Coraliomargarita akajimensis DSM 45221,0,0,NC_014008,YP_003547515.1,LL_Fam1,LL_Fam1,1.7,16.3,47,124,0,1,1
+Candidatus Puniceispirillum marinum IMCC1322,0,0,NC_014010,YP_003552589.1,Phage_tail_L,Phage_tail_L,3.30E-24,93.7,43,249,1,0,1
+Candidatus Puniceispirillum marinum IMCC1322,0,0,NC_014010,YP_003552589.1,TIGR01600,TIGR01600,8.70E-29,108.6,26,249,0,1,1
+Yersinia pestis Z176003,0,0,NC_014029,YP_003567886.1,Phage_tail_L,Phage_tail_L,0,288.3,24,248,1,0,1
+Yersinia pestis Z176003,0,0,NC_014029,YP_003567886.1,TIGR01600,TIGR01600,0,219.1,6,248,0,1,1
+Rhodobacter capsulatus SB 1003,0,0,NC_014034,YP_003577094.1,DUF2163,DUF2163,0,202.3,1,163,1,1,1
+Rhodobacter capsulatus SB 1003,0,0,NC_014034,YP_003577094.1,Phage_BR0599,Phage_BR0599,1.10E-28,107.6,195,278,1,0,1
+Rhodobacter capsulatus SB 1003,0,0,NC_014034,YP_003577094.1,TIGR02218,TIGR02218,0,300.4,23,295,0,1,1
+Rhodobacter capsulatus SB 1003,0,0,NC_014034,YP_003577136.1,DUF1833,DUF1833,0.028,22.1,9,57,1,0,1
+Rhodobacter capsulatus SB 1003,0,0,NC_014034,YP_003577136.1,DUF1833,DUF1833,0.028,22.1,74,165,0,1,1
+Rhodobacter capsulatus SB 1003,0,0,NC_014034,YP_003577848.1,DUF2163,DUF2163,0,208.2,1,162,1,1,1
+Rhodobacter capsulatus SB 1003,0,0,NC_014034,YP_003577848.1,Phage_BR0599,Phage_BR0599,1.70E-26,100.5,193,277,1,0,1
+Rhodobacter capsulatus SB 1003,0,0,NC_014034,YP_003577848.1,TIGR02218,TIGR02218,0,297.6,22,294,0,0,0
+Rhodobacter capsulatus SB 1003,0,0,NC_014034,YP_003579043.1,DUF1833,DUF1833,1.10E-33,124,9,165,0,1,1
+Caulobacter segnis ATCC 21756,0,0,NC_014100,YP_003592122.1,DUF2163,DUF2163,2.90E-43,155.9,3,157,1,1,1
+Caulobacter segnis ATCC 21756,0,0,NC_014100,YP_003592122.1,Phage_BR0599,Phage_BR0599,0.0000017,36.4,143,193,1,1,1
+Caulobacter segnis ATCC 21756,0,0,NC_014100,YP_003592122.1,TIGR02218,TIGR02218,0,233,17,163,1,0,1
+Caulobacter segnis ATCC 21756,0,0,NC_014100,YP_003592122.1,TIGR02218,TIGR02218,0,233,161,210,0,1,1
+Caulobacter segnis ATCC 21756,0,0,NC_014100,YP_003592432.1,DUF2163,DUF2163,2.1,16.6,61,152,1,0,1
+Caulobacter segnis ATCC 21756,0,0,NC_014100,YP_003592432.1,DUF2163,DUF2163,2.1,16.6,172,247,0,1,1
+Enterobacter cloacae subsp. cloacae ATCC 13047,0,0,NC_014121,YP_003611853.1,DUF1833,DUF1833,0.33,18.6,3,145,1,0,1
+Enterobacter cloacae subsp. cloacae ATCC 13047,0,0,NC_014121,YP_003611853.1,DUF2163,DUF2163,8.8,14.6,40,148,0,1,1
+Enterobacter cloacae subsp. cloacae ATCC 13047,0,0,NC_014121,YP_003612219.1,Phage_tail_L,Phage_tail_L,0,316.8,24,249,1,0,1
+Enterobacter cloacae subsp. cloacae ATCC 13047,0,0,NC_014121,YP_003612219.1,TIGR01600,TIGR01600,0,211.8,6,249,0,0,0
+Enterobacter cloacae subsp. cloacae ATCC 13047,0,0,NC_014121,YP_003613668.1,DUF1833,DUF1833,0.42,18.2,4,144,0,1,1
+Thiomonas sp. 3As,0,0,NC_014145,YP_003624451.1,Phage_tail_L,Phage_tail_L,0,214.3,24,229,1,0,1
+Thiomonas sp. 3As,0,0,NC_014145,YP_003624451.1,TIGR01600,TIGR01600,0,263.1,6,229,0,1,1
+Moraxella catarrhalis RH4,0,0,NC_014147,YP_003627122.1,Phage_tail_L,Phage_tail_L,1.00E-41,150.9,24,222,1,0,1
+Moraxella catarrhalis RH4,0,0,NC_014147,YP_003627122.1,TIGR01600,TIGR01600,1.10E-37,137.7,6,222,0,0,0
+Arcobacter nitrofigilis DSM 7299,Spartina alterniflora,0,NC_014166,YP_003656114.1,LL_Fam1,LL_Fam1,6.5,14.4,38,145,0,0,0
+Desulfurivibrio alkaliphilus AHT2,0,0,NC_014216,YP_003689521.1,DUF2163,DUF2163,5.2,15.3,226,335,0,0,0
+Starkeya novella DSM 506,0,0,NC_014217,YP_003691982.1,LL_Fam1,LL_Fam1,0.0000097,33.4,3,198,0,1,1
+Starkeya novella DSM 506,0,0,NC_014217,YP_003692666.1,DUF2163,DUF2163,0,182.3,1,163,1,1,1
+Starkeya novella DSM 506,0,0,NC_014217,YP_003692666.1,Phage_BR0599,Phage_BR0599,1.40E-28,107.2,194,276,1,0,1
+Starkeya novella DSM 506,0,0,NC_014217,YP_003692666.1,TIGR02218,TIGR02218,0,282.4,23,287,0,1,1
+Acinetobacter oleivorans DR1,0,0,NC_014259,YP_003733246.1,DUF2163,DUF2163,5.90E-30,112.7,1,176,1,1,1
+Acinetobacter oleivorans DR1,0,0,NC_014259,YP_003733246.1,Phage_BR0599,Phage_BR0599,2.90E-23,90.1,203,282,1,0,1
+Acinetobacter oleivorans DR1,0,0,NC_014259,YP_003733246.1,TIGR02218,TIGR02218,9.70E-26,99.2,23,284,0,1,1
+Ralstonia solanacearum CFBP2957,0,0,NC_014307,YP_003746136.1,Phage_tail_L,Phage_tail_L,0,268.8,24,231,1,0,1
+Ralstonia solanacearum CFBP2957,0,0,NC_014307,YP_003746136.1,TIGR01600,TIGR01600,0,372.9,6,231,0,1,1
+Hyphomicrobium denitrificans ATCC 51888,0,0,NC_014313,YP_003755256.1,DUF2163,DUF2163,0,217.8,1,163,1,1,1
+Hyphomicrobium denitrificans ATCC 51888,0,0,NC_014313,YP_003755256.1,Phage_BR0599,Phage_BR0599,6.60E-25,95.4,194,277,1,0,1
+Hyphomicrobium denitrificans ATCC 51888,0,0,NC_014313,YP_003755256.1,TIGR02218,TIGR02218,0,307.8,23,286,0,0,0
+Leuconostoc gasicomitatum LMG 18811,0,0,NC_014319,YP_003773216.1,LL_Fam1,LL_Fam1,4.4,15,93,224,0,1,1
+Candidatus Nitrospira defluvii,0,0,NC_014355,YP_003795829.1,DUF2163,DUF2163,0.000046,31.7,9,155,1,1,1
+Candidatus Nitrospira defluvii,0,0,NC_014355,YP_003795829.1,Phage_BR0599,Phage_BR0599,0,60.8,178,255,1,0,1
+Candidatus Nitrospira defluvii,0,0,NC_014355,YP_003795829.1,TIGR02218,TIGR02218,0,51.5,100,260,0,0,0
+Candidatus Nitrospira defluvii,0,0,NC_014355,YP_003796549.1,DUF1833,DUF1833,8.8,13.9,106,213,0,0,0
+Brevundimonas subvibrioides ATCC 15264,0,0,NC_014375,YP_003817006.1,LL_Fam1,LL_Fam1,0.27,19,1,191,0,1,1
+Brevundimonas subvibrioides ATCC 15264,0,0,NC_014375,YP_003818205.1,DUF2163,DUF2163,0,184.8,1,163,1,1,1
+Brevundimonas subvibrioides ATCC 15264,0,0,NC_014375,YP_003818205.1,Phage_BR0599,Phage_BR0599,0.0000017,36.5,165,196,1,1,1
+Brevundimonas subvibrioides ATCC 15264,0,0,NC_014375,YP_003818205.1,TIGR02218,TIGR02218,0,217.4,23,166,1,0,1
+Brevundimonas subvibrioides ATCC 15264,0,0,NC_014375,YP_003818205.1,TIGR02218,TIGR02218,0,217.4,164,213,0,0,0
+Brevundimonas subvibrioides ATCC 15264,0,0,NC_014375,YP_003818327.1,LL_Fam1,LL_Fam1,0.00028,28.7,19,195,0,0,0
+Clostridium saccharolyticum WM1,0,0,NC_014376,YP_003822357.1,TIGR02218,TIGR02218,5.4,14.8,128,363,0,0,0
+Clostridium saccharolyticum WM1,0,0,NC_014376,YP_003823238.1,LL_Fam1,LL_Fam1,0.052,21.3,60,165,0,1,1
+Acetohalobium arabaticum DSM 5501,0,0,NC_014378,YP_003826822.1,LL_Fam1,LL_Fam1,4.4,15,9,44,1,0,1
+Acetohalobium arabaticum DSM 5501,0,0,NC_014378,YP_003826822.1,LL_Fam1,LL_Fam1,4.4,15,33,125,0,1,1
+Parvularcula bermudensis HTCC2503,0,0,NC_014414,YP_003854821.1,DUF2163,DUF2163,1.26E-44,160.5,1,163,1,1,1
+Parvularcula bermudensis HTCC2503,0,0,NC_014414,YP_003854821.1,Phage_BR0599,Phage_BR0599,6.40E-22,85.9,192,275,1,0,1
+Parvularcula bermudensis HTCC2503,0,0,NC_014414,YP_003854821.1,TIGR02218,TIGR02218,0,203.9,23,287,0,0,0
+Halomonas elongata DSM 2581,0,0,NC_014532,YP_003897143.1,DUF1833,DUF1833,0,63.5,11,151,0,1,1
+Enterobacteria phage T1,Escherichia coli,neg,NC_005833,YP_003909.1,Phage_tail_L,Phage_tail_L,1.10E-42,154,38,256,1,0,1
+Enterobacteria phage T1,Escherichia coli,neg,NC_005833,YP_003909.1,TIGR01600,TIGR01600,2.90E-28,106.9,20,256,0,1,1
+Enterobacter cloacae SCF1,0,0,NC_014618,YP_003941417.1,Phage_tail_L,Phage_tail_L,0,303.6,24,249,1,0,1
+Enterobacter cloacae SCF1,0,0,NC_014618,YP_003941417.1,TIGR01600,TIGR01600,0,211.6,6,249,0,0,0
+Stigmatella aurantiaca DW4/3-1,0,0,NC_014623,YP_003953572.1,DUF2163,DUF2163,9.3,14.5,138,272,0,1,1
+Ketogulonicigenium vulgare Y25,0,0,NC_014625,YP_003963607.1,DUF2163,DUF2163,0,174.2,1,152,1,1,1
+Ketogulonicigenium vulgare Y25,0,0,NC_014625,YP_003963607.1,Phage_BR0599,Phage_BR0599,3.60E-28,105.9,181,264,1,0,1
+Ketogulonicigenium vulgare Y25,0,0,NC_014625,YP_003963607.1,TIGR02218,TIGR02218,0,266.1,12,279,0,0,0
+Achromobacter xylosoxidans A8,0,0,NC_014640,YP_003980049.1,DUF1833,DUF1833,0.00000029,38.2,9,159,0,0,0
+Caldicellulosiruptor owensensis OL,0,0,NC_014657,YP_004003559.1,LL_Fam1,LL_Fam1,8.8,14,46,149,0,1,1
+Rhodopseudomonas palustris DX-1,0,0,NC_014834,YP_004109901.1,DUF2163,DUF2163,0,215.6,1,163,1,1,1
+Rhodopseudomonas palustris DX-1,0,0,NC_014834,YP_004109901.1,Phage_BR0599,Phage_BR0599,5.40E-28,105.3,194,277,1,0,1
+Rhodopseudomonas palustris DX-1,0,0,NC_014834,YP_004109901.1,TIGR02218,TIGR02218,0,309.9,23,293,0,1,1
+Pantoea sp. At-9b,0,0,NC_014837,YP_004115979.1,Phage_tail_L,Phage_tail_L,0,247.8,29,233,1,0,1
+Pantoea sp. At-9b,0,0,NC_014837,YP_004115979.1,TIGR01600,TIGR01600,0,238.3,11,233,0,0,0
+Staphylococcus pseudintermedius HKU10-03,Canis lupus familiaris,0,NC_014925,YP_004148291.1,LL_Fam1,LL_Fam1,0.38,18.5,23,153,0,1,1
+Thermovibrio ammonificans HB-1,0,0,NC_014926,YP_004150632.1,DUF1833,DUF1833,3.9,15.1,26,147,1,1,1
+Thermovibrio ammonificans HB-1,0,0,NC_014926,YP_004150632.1,DUF2163,DUF2163,0.29,19.4,9,164,1,1,1
+Thermovibrio ammonificans HB-1,0,0,NC_014926,YP_004150632.1,Phage_BR0599,Phage_BR0599,7.4,15.2,164,196,1,1,1
+Thermovibrio ammonificans HB-1,0,0,NC_014926,YP_004150632.1,Phage_tail_L,Phage_tail_L,0.00000000017,48.9,24,103,1,1,1
+Thermovibrio ammonificans HB-1,0,0,NC_014926,YP_004150632.1,Phage_tail_L,Phage_tail_L,0.00000000017,48.9,110,195,1,1,1
+Thermovibrio ammonificans HB-1,0,0,NC_014926,YP_004150632.1,TIGR01600,TIGR01600,0.00000000023,48.3,28,104,1,1,1
+Thermovibrio ammonificans HB-1,0,0,NC_014926,YP_004150632.1,TIGR01600,TIGR01600,0.00000000023,48.3,113,195,1,0,1
+Thermovibrio ammonificans HB-1,0,0,NC_014926,YP_004150632.1,LL_Fam1,LL_Fam1,0.18,19.5,1,132,0,0,0
+Anaerolinea thermophila UNI-1,0,0,NC_014960,YP_004174845.1,Phage_BR0599,Phage_BR0599,6.7,15.3,270,313,0,1,1
+Desulfobulbus propionicus DSM 2032,0,0,NC_014972,YP_004193665.1,DUF2163,DUF2163,0.0003,29.1,18,157,1,1,1
+Desulfobulbus propionicus DSM 2032,0,0,NC_014972,YP_004193665.1,Phage_BR0599,Phage_BR0599,0,54.1,185,258,1,0,1
+Desulfobulbus propionicus DSM 2032,0,0,NC_014972,YP_004193665.1,TIGR02218,TIGR02218,2.30E-19,78.3,19,265,0,1,1
+Desulfobulbus propionicus DSM 2032,0,0,NC_014972,YP_004195855.1,DUF2163,DUF2163,0.0003,29.1,18,157,1,1,1
+Desulfobulbus propionicus DSM 2032,0,0,NC_014972,YP_004195855.1,Phage_BR0599,Phage_BR0599,0,54.1,185,258,1,0,1
+Desulfobulbus propionicus DSM 2032,0,0,NC_014972,YP_004195855.1,TIGR02218,TIGR02218,2.30E-19,78.3,19,265,0,0,0
+Geobacter sp. M18,0,0,NC_014973,YP_004198161.1,DUF1833,DUF1833,6.6,14.4,3,66,0,0,0
+Bacillus subtilis BSn5,0,0,NC_014976,YP_004206734.1,LL_Fam1,LL_Fam1,9.2,13.9,55,198,0,1,1
+Rahnella sp. Y9602,0,0,NC_015061,YP_004212564.1,Phage_tail_L,Phage_tail_L,0,280.1,340,549,1,1,1
+Rahnella sp. Y9602,0,0,NC_015061,YP_004212564.1,TIGR01600,TIGR01600,0,201.8,6,48,1,0,1
+Rahnella sp. Y9602,0,0,NC_015061,YP_004212564.1,TIGR01600,TIGR01600,0,201.8,345,549,0,0,0
+Granulicella tundricola MP5ACTX9,0,0,NC_015064,YP_004217801.1,LL_Fam1,LL_Fam1,3.80E-18,73.9,1,184,0,1,1
+Agrobacterium sp. H13-3,0,0,NC_015183,YP_004278207.1,DUF2163,DUF2163,0,194.3,1,163,1,1,1
+Agrobacterium sp. H13-3,0,0,NC_015183,YP_004278207.1,Phage_BR0599,Phage_BR0599,9.30E-23,88.5,192,275,1,0,1
+Agrobacterium sp. H13-3,0,0,NC_015183,YP_004278207.1,TIGR02218,TIGR02218,0,348.6,23,292,0,0,0
+Agrobacterium sp. H13-3,0,0,NC_015183,YP_004278751.1,LL_Fam1,LL_Fam1,0.00018,29.3,46,211,0,0,0
+Streptococcus gallolyticus subsp. gallolyticus ATCC BAA-2069,0,0,NC_015215,YP_004288427.1,TIGR01600,TIGR01600,3.4,15.1,39,116,0,0,0
+Yersinia enterocolitica subsp. palearctica 105.5R(r),0,0,NC_015224,YP_004296263.1,LL_Fam1,LL_Fam1,3.2,15.4,65,179,0,0,0
+Acinetobacter phage 133,Acinetobacter johnsonii,neg,NC_015250,YP_004300783.1,LL_Fam1,LL_Fam1,4,15.1,17,133,0,0,0
+Polymorphum gilvum SL003B-26A1,0,0,NC_015259,YP_004303428.1,DUF1833,DUF1833,0.8,17.3,69,167,0,1,1
+Polymorphum gilvum SL003B-26A1,0,0,NC_015259,YP_004304648.1,DUF2163,DUF2163,0,180.2,1,163,1,1,1
+Polymorphum gilvum SL003B-26A1,0,0,NC_015259,YP_004304648.1,Phage_BR0599,Phage_BR0599,1.70E-27,103.7,194,277,1,0,1
+Polymorphum gilvum SL003B-26A1,0,0,NC_015259,YP_004304648.1,TIGR02218,TIGR02218,0,287.3,23,295,0,1,1
+Polymorphum gilvum SL003B-26A1,0,0,NC_015259,YP_004305514.1,DUF2163,DUF2163,0,215.5,1,163,1,1,1
+Polymorphum gilvum SL003B-26A1,0,0,NC_015259,YP_004305514.1,Phage_BR0599,Phage_BR0599,9.40E-25,94.9,194,277,1,0,1
+Polymorphum gilvum SL003B-26A1,0,0,NC_015259,YP_004305514.1,TIGR02218,TIGR02218,0,298.2,23,294,0,1,1
+Polymorphum gilvum SL003B-26A1,0,0,NC_015259,YP_004305759.1,DUF2163,DUF2163,0,188.5,1,165,1,1,1
+Polymorphum gilvum SL003B-26A1,0,0,NC_015259,YP_004305759.1,Phage_BR0599,Phage_BR0599,3.10E-24,93.3,436,517,1,1,1
+Polymorphum gilvum SL003B-26A1,0,0,NC_015259,YP_004305759.1,TIGR02218,TIGR02218,0,229.5,23,226,1,0,1
+Polymorphum gilvum SL003B-26A1,0,0,NC_015259,YP_004305759.1,TIGR02218,TIGR02218,0,229.5,369,526,0,0,0
+Enterobacteria phage SPC35,0,neg,NC_015269,YP_004306609.1,LL_Fam1,LL_Fam1,0,198.9,1,203,0,0,0
+Clostridium lentocellum DSM 5427,0,0,NC_015275,YP_004311008.1,LL_Fam1,LL_Fam1,4.8,14.9,39,187,0,1,1
+Pseudomonas brassicacearum subsp. brassicacearum NFM421,0,0,NC_015379,YP_004355176.1,Phage_tail_L,Phage_tail_L,0,225.9,24,246,1,0,1
+Pseudomonas brassicacearum subsp. brassicacearum NFM421,0,0,NC_015379,YP_004355176.1,TIGR01600,TIGR01600,0,187.2,6,246,0,1,1
+Shigella phage Shfl1,Shigella flexneri,neg,NC_015456,YP_004414863.1,Phage_tail_L,Phage_tail_L,4.34E-44,158.6,38,256,1,0,1
+Shigella phage Shfl1,Shigella flexneri,neg,NC_015456,YP_004414863.1,TIGR01600,TIGR01600,4.80E-30,112.7,20,256,0,1,1
+Gallibacterium anatis UMN179,Gallus gallus,0,NC_015460,YP_004421317.1,Phage_BR0599,Phage_BR0599,2.3,16.8,209,237,1,1,1
+Gallibacterium anatis UMN179,Gallus gallus,0,NC_015460,YP_004421317.1,Phage_tail_L,Phage_tail_L,0,264.4,35,237,1,0,1
+Gallibacterium anatis UMN179,Gallus gallus,0,NC_015460,YP_004421317.1,TIGR01600,TIGR01600,0,261.8,12,237,0,1,1
+Roseobacter phage RDJL Phi 1,Roseobacter denitrificans OCh114,neg,NC_015466,YP_004421850.1,DUF2163,DUF2163,0,184,1,164,1,1,1
+Roseobacter phage RDJL Phi 1,Roseobacter denitrificans OCh114,neg,NC_015466,YP_004421850.1,Phage_BR0599,Phage_BR0599,2.40E-23,90.4,195,278,1,0,1
+Roseobacter phage RDJL Phi 1,Roseobacter denitrificans OCh114,neg,NC_015466,YP_004421850.1,TIGR02218,TIGR02218,0,273.6,24,296,0,0,0
+Glaciecola sp. 4H-3-7+YE-5,0,0,NC_015497,YP_004436132.1,DUF1833,DUF1833,4.7,14.8,90,185,0,0,0
+Serratia sp. AS12,rapeseed plant,0,NC_015566,YP_004499524.1,LL_Fam1,LL_Fam1,6,14.5,4,97,0,1,1
+Serratia sp. AS12,rapeseed plant,0,NC_015566,YP_004501825.1,Phage_tail_L,Phage_tail_L,0,274.6,24,247,1,0,1
+Serratia sp. AS12,rapeseed plant,0,NC_015566,YP_004501825.1,TIGR01600,TIGR01600,0,233.9,6,247,0,0,0
+Serratia plymuthica AS9,0,0,NC_015567,YP_004504476.1,LL_Fam1,LL_Fam1,6,14.5,4,97,0,1,1
+Serratia plymuthica AS9,0,0,NC_015567,YP_004506777.1,Phage_tail_L,Phage_tail_L,0,274.6,24,247,1,0,1
+Serratia plymuthica AS9,0,0,NC_015567,YP_004506777.1,TIGR01600,TIGR01600,0,233.9,6,247,0,1,1
+Novosphingobium sp. PP1Y,0,0,NC_015580,YP_004536099.1,DUF2163,DUF2163,4.00E-35,129.5,2,156,1,1,1
+Novosphingobium sp. PP1Y,0,0,NC_015580,YP_004536099.1,Phage_BR0599,Phage_BR0599,2.70E-19,77.4,184,264,1,0,1
+Novosphingobium sp. PP1Y,0,0,NC_015580,YP_004536099.1,TIGR02218,TIGR02218,0,191.8,17,274,0,0,0
+Streptococcus pasteurianus ATCC 43144,0,0,NC_015600,YP_004559183.1,DUF2163,DUF2163,8.2,14.7,124,234,0,0,0
+Streptococcus pasteurianus ATCC 43144,0,0,NC_015600,YP_004559513.1,TIGR01600,TIGR01600,0.63,17.5,39,116,0,0,0
+Streptococcus pasteurianus ATCC 43144,0,0,NC_015600,YP_004559644.1,DUF1833,DUF1833,7.5,14.2,164,230,0,0,0
+Enterobacter aerogenes KCTC 2190,0,0,NC_015663,YP_004594387.1,DUF1833,DUF1833,1.20E-36,133.6,2,148,0,0,0
+Enterobacter aerogenes KCTC 2190,0,0,NC_015663,YP_004594547.1,DUF2163,DUF2163,6,15.1,35,132,0,0,0
+Enterobacter aerogenes KCTC 2190,0,0,NC_015663,YP_004594618.1,DUF1833,DUF1833,0.85,17.2,3,142,0,1,1
+Oligotropha carboxidovorans OM5,0,0,NC_015684,YP_004632430.1,DUF2163,DUF2163,0,202.4,1,163,1,1,1
+Oligotropha carboxidovorans OM5,0,0,NC_015684,YP_004632430.1,Phage_BR0599,Phage_BR0599,7.60E-28,104.8,194,277,1,0,1
+Oligotropha carboxidovorans OM5,0,0,NC_015684,YP_004632430.1,TIGR02218,TIGR02218,0,299.5,23,294,0,1,1
+Oligotropha carboxidovorans OM5,0,0,NC_015684,YP_004634035.1,DUF2163,DUF2163,0,191.2,1,164,1,1,1
+Oligotropha carboxidovorans OM5,0,0,NC_015684,YP_004634035.1,Phage_BR0599,Phage_BR0599,2.10E-27,103.5,191,270,1,0,1
+Oligotropha carboxidovorans OM5,0,0,NC_015684,YP_004634035.1,TIGR02218,TIGR02218,0,261,23,279,0,0,0
+Myxococcus fulvus HW-1,0,0,NC_015711,YP_004667816.1,DUF2163,DUF2163,9.4,14.5,5,60,0,0,0
+Myxococcus fulvus HW-1,0,0,NC_015711,YP_004668731.1,TIGR02218,TIGR02218,9.7,14,282,416,0,1,1
+Hyphomicrobium sp. MC1,0,0,NC_015717,YP_004676164.1,DUF2163,DUF2163,0,222.3,1,163,1,1,1
+Hyphomicrobium sp. MC1,0,0,NC_015717,YP_004676164.1,Phage_BR0599,Phage_BR0599,5.80E-25,95.6,194,277,1,0,1
+Hyphomicrobium sp. MC1,0,0,NC_015717,YP_004676164.1,TIGR02218,TIGR02218,0,307.8,23,285,0,1,1
+Candidatus Midichloria mitochondrii IricVA,Ixodes ricinus,0,NC_015722,YP_004680188.1,DUF2163,DUF2163,0,53.3,1,79,1,0,1
+Candidatus Midichloria mitochondrii IricVA,Ixodes ricinus,0,NC_015722,YP_004680188.1,TIGR02218,TIGR02218,0.00000037,38.3,1,81,0,1,1
+Roseobacter litoralis Och 149,0,0,NC_015730,YP_004690374.1,DUF2163,DUF2163,0,212,1,163,1,1,1
+Roseobacter litoralis Och 149,0,0,NC_015730,YP_004690374.1,Phage_BR0599,Phage_BR0599,1.50E-26,100.7,194,277,1,0,1
+Roseobacter litoralis Och 149,0,0,NC_015730,YP_004690374.1,TIGR02218,TIGR02218,0,308.5,23,294,0,0,0
+Pseudomonas putida S16,0,0,NC_015733,YP_004701929.1,DUF1833,DUF1833,1.40E-45,163.3,2,148,0,0,0
+Salmonella bongori NCTC 12419,0,0,NC_015761,YP_004729159.1,DUF2163,DUF2163,1,17.6,37,111,0,1,1
+Rickettsia heilongjiangensis 054,Dysmicoccus sylvarum,0,NC_015866,YP_004764396.1,Phage_BR0599,Phage_BR0599,0,63.3,1,51,1,0,1
+Rickettsia heilongjiangensis 054,Dysmicoccus sylvarum,0,NC_015866,YP_004764396.1,TIGR02218,TIGR02218,0,53,2,56,0,1,1
+Stenotrophomonas maltophilia JV3,0,0,NC_015947,YP_004790798.1,Phage_tail_L,Phage_tail_L,0,256.2,23,229,1,0,1
+Stenotrophomonas maltophilia JV3,0,0,NC_015947,YP_004790798.1,TIGR01600,TIGR01600,0,290.5,5,229,0,0,0
+Stenotrophomonas maltophilia JV3,0,0,NC_015947,YP_004793440.1,DUF1833,DUF1833,1.60E-30,113.7,3,143,0,0,0
+Enterobacter asburiae LF7a,0,0,NC_015968,YP_004829178.1,DUF1833,DUF1833,0.88,17.2,3,145,0,0,0
+Enterobacter asburiae LF7a,0,0,NC_015968,YP_004829575.1,DUF1833,DUF1833,3.00E-36,132.3,2,148,0,1,1
+Sphingobium sp. SYK-6,0,0,NC_015976,YP_004836444.1,DUF2163,DUF2163,1.30E-35,131.1,1,161,1,1,1
+Sphingobium sp. SYK-6,0,0,NC_015976,YP_004836444.1,Phage_BR0599,Phage_BR0599,1.10E-22,88.3,186,265,1,0,1
+Sphingobium sp. SYK-6,0,0,NC_015976,YP_004836444.1,TIGR02218,TIGR02218,0,197.9,19,273,0,1,1
+Pseudogulbenkiania sp. NH8B,0,0,NC_016002,YP_004846235.1,Phage_tail_L,Phage_tail_L,2.60E-42,152.8,26,230,1,0,1
+Pseudogulbenkiania sp. NH8B,0,0,NC_016002,YP_004846235.1,TIGR01600,TIGR01600,0,167.8,7,230,0,0,0
+Tetragenococcus halophilus NBRC 12172,0,0,NC_016052,YP_004885637.1,DUF1833,DUF1833,5.7,14.6,21,110,0,0,0
+Pelagibacterium halotolerans B2,0,0,NC_016078,YP_004898494.1,DUF1833,DUF1833,0.17,19.5,67,167,0,1,1
+Pelagibacterium halotolerans B2,0,0,NC_016078,YP_004898559.1,DUF2163,DUF2163,0,184.9,1,163,1,1,1
+Pelagibacterium halotolerans B2,0,0,NC_016078,YP_004898559.1,Phage_BR0599,Phage_BR0599,1.00E-23,91.6,194,273,1,0,1
+Pelagibacterium halotolerans B2,0,0,NC_016078,YP_004898559.1,TIGR02218,TIGR02218,0,273,23,290,0,1,1
+Escherichia phage HK639,Escherichia coli,neg,NC_016158,YP_004934050.1,Phage_tail_L,Phage_tail_L,0,202.4,24,254,1,0,1
+Escherichia phage HK639,Escherichia coli,neg,NC_016158,YP_004934050.1,TIGR01600,TIGR01600,2.10E-41,149.9,6,254,0,1,1
+Escherichia phage HK75,Escherichia coli K-12,neg,NC_016160,YP_004934123.1,Phage_tail_L,Phage_tail_L,0,321.1,24,250,1,0,1
+Escherichia phage HK75,Escherichia coli K-12,neg,NC_016160,YP_004934123.1,TIGR01600,TIGR01600,0,205.8,6,250,0,1,1
+Rhodobacter phage RcapMu,Rhodobacter capsulatus SB1003,neg,NC_016165,YP_004934696.1,DUF1833,DUF1833,0.028,22.1,9,57,1,0,1
+Rhodobacter phage RcapMu,Rhodobacter capsulatus SB1003,neg,NC_016165,YP_004934696.1,DUF1833,DUF1833,0.028,22.1,74,165,0,1,1
+Aggregatibacter actinomycetemcomitans ANH9381,Homo sapiens,0,NC_016513,YP_004949159.1,Phage_BR0599,Phage_BR0599,2.30E-21,84,25,102,1,0,1
+Aggregatibacter actinomycetemcomitans ANH9381,Homo sapiens,0,NC_016513,YP_004949159.1,TIGR02218,TIGR02218,8.70E-18,73.2,1,109,0,1,1
+Shigella phage EP23,Shigella sonnei,neg,NC_016566,YP_004957456.1,Phage_tail_L,Phage_tail_L,4.60E-38,139,33,260,1,0,1
+Shigella phage EP23,Shigella sonnei,neg,NC_016566,YP_004957456.1,TIGR01600,TIGR01600,1.20E-26,101.6,48,260,0,0,0
+Klebsiella oxytoca KCTC 1686,0,0,NC_016612,YP_005019072.1,DUF1833,DUF1833,7.40E-34,124.5,2,148,0,1,1
+Klebsiella oxytoca KCTC 1686,0,0,NC_016612,YP_005019516.1,Phage_tail_L,Phage_tail_L,0,274.4,24,249,1,0,1
+Klebsiella oxytoca KCTC 1686,0,0,NC_016612,YP_005019516.1,TIGR01600,TIGR01600,0,190.9,6,249,0,1,1
+Klebsiella oxytoca KCTC 1686,0,0,NC_016612,YP_005019788.1,Phage_tail_L,Phage_tail_L,0,292.9,23,248,1,0,1
+Klebsiella oxytoca KCTC 1686,0,0,NC_016612,YP_005019788.1,TIGR01600,TIGR01600,0,207.7,5,248,0,1,1
+Dechlorosoma suillum PS,0,0,NC_016616,YP_005026467.1,DUF2163,DUF2163,1.50E-26,101.6,1,174,1,1,1
+Dechlorosoma suillum PS,0,0,NC_016616,YP_005026467.1,Phage_BR0599,Phage_BR0599,2.80E-16,67.8,202,271,1,1,1
+Dechlorosoma suillum PS,0,0,NC_016616,YP_005026467.1,Phage_BR0599,Phage_BR0599,2.80E-16,67.8,345,365,1,1,1
+Dechlorosoma suillum PS,0,0,NC_016616,YP_005026467.1,TIGR02218,TIGR02218,5.50E-24,93.5,23,272,1,0,1
+Dechlorosoma suillum PS,0,0,NC_016616,YP_005026467.1,TIGR02218,TIGR02218,5.50E-24,93.5,332,367,0,1,1
+Desulfovibrio africanus str. Walvis Bay,0,0,NC_016629,YP_005053458.1,DUF2163,DUF2163,0.016,23.5,1,127,1,1,1
+Desulfovibrio africanus str. Walvis Bay,0,0,NC_016629,YP_005053458.1,DUF2163,DUF2163,0.016,23.5,135,201,1,0,1
+Desulfovibrio africanus str. Walvis Bay,0,0,NC_016629,YP_005053458.1,Phage_BR0599,Phage_BR0599,1.2,17.7,187,234,0,0,0
+Granulicella mallensis MP5ACTX8,0,0,NC_016631,YP_005057213.1,LL_Fam1,LL_Fam1,4.50E-17,70.4,1,183,0,0,0
+Rickettsia slovaca 13-B,0,0,NC_016639,YP_005065853.1,DUF2163,DUF2163,0.000008,34.2,4,89,0,1,1
+Rickettsia slovaca 13-B,0,0,NC_016639,YP_005065854.1,Phage_BR0599,Phage_BR0599,0,59.3,1,51,1,0,1
+Rickettsia slovaca 13-B,0,0,NC_016639,YP_005065854.1,TIGR02218,TIGR02218,0.00000000011,49.9,2,56,0,1,1
+Pseudovibrio sp. FO-BEG1,coral,0,NC_016642,YP_005081001.1,DUF2163,DUF2163,2.80E-42,152.8,1,161,1,1,1
+Pseudovibrio sp. FO-BEG1,coral,0,NC_016642,YP_005081001.1,Phage_BR0599,Phage_BR0599,1.80E-17,71.6,192,275,1,0,1
+Pseudovibrio sp. FO-BEG1,coral,0,NC_016642,YP_005081001.1,TIGR02218,TIGR02218,0,222.1,21,293,0,0,0
+Streptococcus macedonicus ACA-DC 198,0,0,NC_016749,YP_005095108.1,TIGR01600,TIGR01600,3.4,15.1,39,113,0,0,0
+Pseudomonas phage phi297,Pseudomonas aeruginosa,neg,NC_016762,YP_005098085.1,DUF1833,DUF1833,0,170.6,3,151,0,0,0
+Salmonella phage SE2,Salmonella enterica serovar Enteritidis,neg,NC_016763,YP_005098154.1,DUF1833,DUF1833,9.95E-44,156.5,9,157,0,0,0
+Pseudomonas phage vB_PaeS_PMG1,Pseudomonas aeruginosa,neg,NC_016765,YP_005098224.1,DUF1833,DUF1833,0,181,3,151,0,1,1
+Synechococcus phage S-CBS4,Synechococcus sp. CB0101,neg,NC_016766,YP_005098335.1,Phage_BR0599,Phage_BR0599,1.1,17.9,391,464,1,1,1
+Synechococcus phage S-CBS4,Synechococcus sp. CB0101,neg,NC_016766,YP_005098335.1,Phage_tail_L,Phage_tail_L,0,185.9,26,219,1,1,1
+Synechococcus phage S-CBS4,Synechococcus sp. CB0101,neg,NC_016766,YP_005098335.1,Phage_tail_L,Phage_tail_L,0,185.9,408,464,1,1,1
+Synechococcus phage S-CBS4,Synechococcus sp. CB0101,neg,NC_016766,YP_005098335.1,TIGR01600,TIGR01600,0,218.6,6,209,1,0,1
+Synechococcus phage S-CBS4,Synechococcus sp. CB0101,neg,NC_016766,YP_005098335.1,TIGR01600,TIGR01600,0,218.6,416,464,0,1,1
+Haemophilus influenzae 10810,0,0,NC_016809,YP_005178369.1,Phage_tail_L,Phage_tail_L,0,260.5,38,243,1,0,1
+Haemophilus influenzae 10810,0,0,NC_016809,YP_005178369.1,TIGR01600,TIGR01600,0,245.7,12,243,0,0,0
+Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,0,0,NC_016810,YP_005180232.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,0,0,NC_016810,YP_005180899.1,Phage_tail_L,Phage_tail_L,0,313.3,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,0,0,NC_016810,YP_005180899.1,TIGR01600,TIGR01600,0,284.3,11,230,0,1,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,0,0,NC_016810,YP_005182452.1,Phage_tail_L,Phage_tail_L,0,298.2,30,231,1,0,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,0,0,NC_016810,YP_005182452.1,TIGR01600,TIGR01600,0,318,12,231,0,0,0
+Sinorhizobium fredii HH103,0,0,NC_016812,YP_005188973.1,LL_Fam1,LL_Fam1,0.000027,32,1,191,0,1,1
+Pantoea ananatis LMG 5342,0,0,NC_016816,YP_005196250.1,Phage_tail_L,Phage_tail_L,0,239.6,24,243,1,0,1
+Pantoea ananatis LMG 5342,0,0,NC_016816,YP_005196250.1,TIGR01600,TIGR01600,0,199.2,6,243,0,0,0
+Salmonella enterica subsp. enterica serovar Typhi str. P-stx-12,Homo sapiens,0,NC_016832,YP_005218209.1,DUF2163,DUF2163,1.8,16.8,37,111,0,0,0
+Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S,0,0,NC_016856,YP_005235981.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S,0,0,NC_016856,YP_005236775.1,Phage_tail_L,Phage_tail_L,0,313.3,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S,0,0,NC_016856,YP_005236775.1,TIGR01600,TIGR01600,0,284.3,11,230,0,1,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S,0,0,NC_016856,YP_005237053.2,Phage_tail_L,Phage_tail_L,0,298.3,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S,0,0,NC_016856,YP_005237053.2,TIGR01600,TIGR01600,0,318.1,11,230,0,1,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S,0,0,NC_016856,YP_005238702.1,Phage_tail_L,Phage_tail_L,0,298.3,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S,0,0,NC_016856,YP_005238702.1,TIGR01600,TIGR01600,0,318.1,11,230,0,0,0
+Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74,0,0,NC_016857,YP_005241254.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74,0,0,NC_016857,YP_005241941.1,Phage_tail_L,Phage_tail_L,0,313.3,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74,0,0,NC_016857,YP_005241941.1,TIGR01600,TIGR01600,0,284.3,11,230,0,1,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74,0,0,NC_016857,YP_005243556.1,Phage_tail_L,Phage_tail_L,0,298.2,30,231,1,0,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74,0,0,NC_016857,YP_005243556.1,TIGR01600,TIGR01600,0,318,12,231,0,0,0
+Salmonella enterica subsp. enterica serovar Typhimurium str.,0,0,NC_016860,YP_005246003.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Salmonella enterica subsp. enterica serovar Typhimurium str.,0,0,NC_016860,YP_005246762.1,Phage_tail_L,Phage_tail_L,0,313.3,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Typhimurium str.,0,0,NC_016860,YP_005246762.1,TIGR01600,TIGR01600,0,284.3,11,230,0,1,1
+Salmonella enterica subsp. enterica serovar Typhimurium str.,0,0,NC_016860,YP_005248312.1,Phage_tail_L,Phage_tail_L,0,298.3,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Typhimurium str.,0,0,NC_016860,YP_005248312.1,TIGR01600,TIGR01600,0,318.1,11,230,0,0,0
+Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1,0,0,NC_016863,YP_005250873.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1,0,0,NC_016863,YP_005251555.1,Phage_tail_L,Phage_tail_L,0,313.3,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1,0,0,NC_016863,YP_005251555.1,TIGR01600,TIGR01600,0,284.3,11,230,0,1,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1,0,0,NC_016863,YP_005253138.1,Phage_tail_L,Phage_tail_L,0,298.3,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1,0,0,NC_016863,YP_005253138.1,TIGR01600,TIGR01600,0,318.1,11,230,0,1,1
+Escherichia coli KO11FL,0,0,NC_016902,YP_005277931.1,Phage_tail_L,Phage_tail_L,0,322.4,29,230,1,0,1
+Escherichia coli KO11FL,0,0,NC_016902,YP_005277931.1,TIGR01600,TIGR01600,0,329.7,11,230,0,0,0
+Rickettsia rickettsii str. Colombia,0,0,NC_016908,YP_005286261.1,DUF2163,DUF2163,0.12,20.6,3,50,0,1,1
+Rickettsia rickettsii str. Colombia,0,0,NC_016908,YP_005286262.1,Phage_BR0599,Phage_BR0599,0,63.1,1,51,1,0,1
+Rickettsia rickettsii str. Colombia,0,0,NC_016908,YP_005286262.1,TIGR02218,TIGR02218,0,53.4,2,56,0,0,0
+Rickettsia rickettsii str. Arizona,0,0,NC_016909,YP_005287606.1,DUF2163,DUF2163,0.000014,33.4,4,86,0,1,1
+Rickettsia rickettsii str. Arizona,0,0,NC_016909,YP_005287607.1,Phage_BR0599,Phage_BR0599,0,63.1,1,51,1,0,1
+Rickettsia rickettsii str. Arizona,0,0,NC_016909,YP_005287607.1,TIGR02218,TIGR02218,0,53.4,2,56,0,0,0
+Rickettsia rickettsii str. Hauke,0,0,NC_016911,YP_005288961.1,DUF2163,DUF2163,0.000014,33.4,4,86,0,1,1
+Rickettsia rickettsii str. Hauke,0,0,NC_016911,YP_005288962.1,Phage_BR0599,Phage_BR0599,0,63.1,1,51,1,0,1
+Rickettsia rickettsii str. Hauke,0,0,NC_016911,YP_005288962.1,TIGR02218,TIGR02218,0,53.4,2,56,0,1,1
+Rickettsia rickettsii str. Brazil,0,0,NC_016913,YP_005292601.1,Phage_BR0599,Phage_BR0599,0,63.1,1,51,1,0,1
+Rickettsia rickettsii str. Brazil,0,0,NC_016913,YP_005292601.1,TIGR02218,TIGR02218,0,53.4,2,56,0,0,0
+Rickettsia rickettsii str. Brazil,0,0,NC_016913,YP_005292602.1,DUF2163,DUF2163,0.000093,30.8,4,86,0,1,1
+Rickettsia rickettsii str. Hlp#2,0,0,NC_016915,YP_005295213.1,Phage_BR0599,Phage_BR0599,0,61.7,1,51,1,0,1
+Rickettsia rickettsii str. Hlp#2,0,0,NC_016915,YP_005295213.1,TIGR02218,TIGR02218,0,51.6,2,56,0,0,0
+Rickettsia rickettsii str. Hlp#2,0,0,NC_016915,YP_005295214.1,DUF2163,DUF2163,0.000011,33.7,4,86,0,0,0
+Rickettsia philipii str. 364D,0,0,NC_016930,YP_005300776.1,DUF2163,DUF2163,0.000012,33.7,4,86,0,1,1
+Rickettsia philipii str. 364D,0,0,NC_016930,YP_005300777.1,Phage_BR0599,Phage_BR0599,0,57.7,1,51,1,0,1
+Rickettsia philipii str. 364D,0,0,NC_016930,YP_005300777.1,TIGR02218,TIGR02218,0.00000000036,48.2,2,56,0,1,1
+Rickettsia massiliae str. AZT80,0,0,NC_016931,YP_005302150.1,Phage_BR0599,Phage_BR0599,0.00057,28.3,22,75,1,0,1
+Rickettsia massiliae str. AZT80,0,0,NC_016931,YP_005302150.1,TIGR02218,TIGR02218,2.1,16.2,19,76,0,0,0
+Candidatus Rickettsia amblyommii str. GAT-30V,0,0,NC_017028,YP_005365415.1,DUF2163,DUF2163,0.48,18.7,3,45,0,1,1
+Candidatus Rickettsia amblyommii str. GAT-30V,0,0,NC_017028,YP_005365416.1,Phage_BR0599,Phage_BR0599,0,58.3,1,51,1,0,1
+Candidatus Rickettsia amblyommii str. GAT-30V,0,0,NC_017028,YP_005365416.1,TIGR02218,TIGR02218,0.00000000013,49.6,2,56,0,0,0
+Corallococcus coralloides DSM 2259,0,0,NC_017030,YP_005369006.1,DUF2163,DUF2163,3.3,16,9,59,0,1,1
+Rickettsia rhipicephali str. 3-7-female6-CWPP,0,0,NC_017042,YP_005390521.1,Phage_BR0599,Phage_BR0599,0,61.5,1,51,1,0,1
+Rickettsia rhipicephali str. 3-7-female6-CWPP,0,0,NC_017042,YP_005390521.1,TIGR02218,TIGR02218,0,51.8,2,56,0,0,0
+Rickettsia montanensis str. OSU 85-930,0,0,NC_017043,YP_005391147.1,DUF2163,DUF2163,0.000087,30.9,3,65,0,1,1
+Rickettsia montanensis str. OSU 85-930,0,0,NC_017043,YP_005391148.1,DUF2163,DUF2163,0.00000035,38.6,2,71,1,0,1
+Rickettsia montanensis str. OSU 85-930,0,0,NC_017043,YP_005391148.1,TIGR02218,TIGR02218,0.016,23.2,26,87,0,1,1
+Rickettsia montanensis str. OSU 85-930,0,0,NC_017043,YP_005391149.1,Phage_BR0599,Phage_BR0599,0,57,1,51,1,0,1
+Rickettsia montanensis str. OSU 85-930,0,0,NC_017043,YP_005391149.1,TIGR02218,TIGR02218,0.00000000031,48.4,2,56,0,0,0
+Rickettsia parkeri str. Portsmouth,0,0,NC_017044,YP_005392932.1,DUF2163,DUF2163,0.13,20.5,3,48,0,1,1
+Rickettsia parkeri str. Portsmouth,0,0,NC_017044,YP_005392933.1,Phage_BR0599,Phage_BR0599,0,58.3,1,51,1,0,1
+Rickettsia parkeri str. Portsmouth,0,0,NC_017044,YP_005392933.1,TIGR02218,TIGR02218,0.000000001,46.7,2,56,0,0,0
+Salmonella enterica subsp. enterica serovar Typhimurium str. 798,porcine,0,NC_017046,YP_005395809.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. 798,porcine,0,NC_017046,YP_005396466.1,Phage_tail_L,Phage_tail_L,0,313.3,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. 798,porcine,0,NC_017046,YP_005396466.1,TIGR01600,TIGR01600,0,284.3,11,230,0,1,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. 798,porcine,0,NC_017046,YP_005397967.1,Phage_tail_L,Phage_tail_L,0,298.2,30,231,1,0,1
+Salmonella enterica subsp. enterica serovar Typhimurium str. 798,porcine,0,NC_017046,YP_005397967.1,TIGR01600,TIGR01600,0,318,12,231,0,1,1
+Rahnella aquatilis HX2,0,0,NC_017047,YP_005401577.1,Phage_tail_L,Phage_tail_L,0,225.4,24,243,1,0,1
+Rahnella aquatilis HX2,0,0,NC_017047,YP_005401577.1,TIGR01600,TIGR01600,0,182.8,6,243,0,0,0
+Rahnella aquatilis HX2,0,0,NC_017047,YP_005402599.1,LL_Fam1,LL_Fam1,0.00063,27.5,19,208,0,1,1
+Rickettsia australis str. Cutlack,0,0,NC_017058,YP_005415027.1,Phage_BR0599,Phage_BR0599,0,59.8,1,51,1,0,1
+Rickettsia australis str. Cutlack,0,0,NC_017058,YP_005415027.1,TIGR02218,TIGR02218,0.0000000004,48,2,56,0,1,1
+Rickettsia australis str. Cutlack,0,0,NC_017058,YP_005415028.1,DUF2163,DUF2163,0,58.3,2,151,1,0,1
+Rickettsia australis str. Cutlack,0,0,NC_017058,YP_005415028.1,TIGR02218,TIGR02218,0.0000069,34.2,19,205,0,0,0
+Rickettsia slovaca str. D-CWPP,0,0,NC_017065,YP_005426437.1,DUF2163,DUF2163,0.000008,34.2,4,89,0,1,1
+Rickettsia slovaca str. D-CWPP,0,0,NC_017065,YP_005426438.1,Phage_BR0599,Phage_BR0599,0,59.3,1,51,1,0,1
+Rickettsia slovaca str. D-CWPP,0,0,NC_017065,YP_005426438.1,TIGR02218,TIGR02218,0.00000000011,49.9,2,56,0,0,0
+Bradyrhizobium sp. S23321,0,0,NC_017082,YP_005450122.1,LL_Fam1,LL_Fam1,0.067,20.9,9,194,0,0,0
+Shigella sonnei 53G,0,0,NC_016822,YP_005456086.1,LL_Fam1,LL_Fam1,0.027,22.2,25,207,0,1,1
+Shigella sonnei 53G,0,0,NC_016822,YP_005456780.1,Phage_tail_L,Phage_tail_L,0,321.4,29,230,1,0,1
+Shigella sonnei 53G,0,0,NC_016822,YP_005456780.1,TIGR01600,TIGR01600,0,370.5,11,230,0,1,1
+Shigella sonnei 53G,0,0,NC_016822,YP_005457339.1,Phage_tail_L,Phage_tail_L,0,322.3,29,230,1,0,1
+Shigella sonnei 53G,0,0,NC_016822,YP_005457339.1,TIGR01600,TIGR01600,0,329.7,11,230,0,0,0
+Fervidobacterium pennivorans DSM 9078,0,0,NC_017095,YP_005472068.1,DUF2163,DUF2163,9.7,14.4,13,115,0,1,1
+Spirochaeta africana DSM 8902,0,0,NC_017098,YP_005474690.1,DUF2163,DUF2163,3.5,15.9,203,274,1,0,1
+Spirochaeta africana DSM 8902,0,0,NC_017098,YP_005474690.1,DUF2163,DUF2163,3.5,15.9,368,435,0,1,1
+Yersinia pestis D106004,0,0,NC_017154,YP_005505081.1,Phage_tail_L,Phage_tail_L,0,288.3,24,248,1,0,1
+Yersinia pestis D106004,0,0,NC_017154,YP_005505081.1,TIGR01600,TIGR01600,0,219.1,6,248,0,1,1
+Yersinia pestis D182038,0,0,NC_017160,YP_005508756.1,Phage_tail_L,Phage_tail_L,0,288.3,24,248,1,0,1
+Yersinia pestis D182038,0,0,NC_017160,YP_005508756.1,TIGR01600,TIGR01600,0,219.1,6,248,0,0,0
+Acinetobacter baumannii 1656-2,0,0,NC_017162,YP_005513656.1,DUF1833,DUF1833,0.0000066,33.8,10,155,0,0,0
+Acinetobacter baumannii 1656-2,0,0,NC_017162,YP_005514135.1,DUF1833,DUF1833,0.00014,29.5,10,156,0,0,0
+Acinetobacter baumannii 1656-2,0,0,NC_017162,YP_005515186.1,DUF1833,DUF1833,0.00014,29.5,10,156,0,1,1
+Yersinia pestis A1122,0,0,NC_017168,YP_005522749.1,Phage_tail_L,Phage_tail_L,0,288.3,24,248,1,0,1
+Yersinia pestis A1122,0,0,NC_017168,YP_005522749.1,TIGR01600,TIGR01600,0,219.1,6,248,0,0,0
+Acinetobacter baumannii MDR-ZJ06,0,0,NC_017171,YP_005525167.1,DUF1833,DUF1833,0.0000066,33.8,10,155,0,0,0
+Acinetobacter baumannii MDR-ZJ06,0,0,NC_017171,YP_005526288.1,DUF1833,DUF1833,0.0000072,33.7,10,156,0,0,0
+Arcobacter sp. L,0,0,NC_017192,YP_005553742.1,LL_Fam1,LL_Fam1,8.4,14.1,44,153,0,0,0
+Bacillus subtilis subsp. subtilis str. RO-NN-1,0,0,NC_017195,YP_005555779.1,LL_Fam1,LL_Fam1,5.2,14.7,20,152,0,0,0
+Bacillus subtilis subsp. natto BEST195,0,0,NC_017196,YP_005559944.1,LL_Fam1,LL_Fam1,6.8,14.4,23,152,0,0,0
+Bordetella pertussis CS,0,0,NC_017223,YP_005591290.1,DUF1833,DUF1833,0,173.9,6,167,0,1,1
+Brucella suis 1330,0,0,NC_017251,YP_005615438.1,DUF2163,DUF2163,0,173.9,1,163,1,1,1
+Brucella suis 1330,0,0,NC_017251,YP_005615438.1,Phage_BR0599,Phage_BR0599,1.50E-27,103.9,193,272,1,0,1
+Brucella suis 1330,0,0,NC_017251,YP_005615438.1,TIGR02218,TIGR02218,0,384.1,23,289,0,1,1
+Yersinia pestis biovar Medievalis str. Harbin 35,Homo sapiens,0,NC_017265,YP_005624058.1,Phage_tail_L,Phage_tail_L,0,288.3,24,248,1,0,1
+Yersinia pestis biovar Medievalis str. Harbin 35,Homo sapiens,0,NC_017265,YP_005624058.1,TIGR01600,TIGR01600,0,219.1,6,248,0,0,0
+Desulfovibrio vulgaris RCH1,0,0,NC_017310,YP_005702791.1,DUF1833,DUF1833,0,53.1,8,160,0,1,1
+Sinorhizobium meliloti BL225C,0,0,NC_017322,YP_005713477.1,DUF2163,DUF2163,4.6,15.5,1,153,1,1,1
+Sinorhizobium meliloti BL225C,0,0,NC_017322,YP_005713477.1,DUF2163,DUF2163,4.6,15.5,145,196,1,0,1
+Sinorhizobium meliloti BL225C,0,0,NC_017322,YP_005713477.1,LL_Fam1,LL_Fam1,8.5,14.1,1,80,0,1,1
+Sinorhizobium meliloti BL225C,0,0,NC_017322,YP_005713829.1,DUF2163,DUF2163,1.4,17.1,1,146,1,1,1
+Sinorhizobium meliloti BL225C,0,0,NC_017322,YP_005713829.1,DUF2163,DUF2163,1.4,17.1,145,196,1,0,1
+Sinorhizobium meliloti BL225C,0,0,NC_017322,YP_005713829.1,LL_Fam1,LL_Fam1,1.8,16.3,1,68,0,1,1
+Sinorhizobium meliloti SM11,0,0,NC_017325,YP_005719423.1,Phage_tail_L,Phage_tail_L,0,200.5,25,229,1,0,1
+Sinorhizobium meliloti SM11,0,0,NC_017325,YP_005719423.1,TIGR01600,TIGR01600,0,206.1,7,228,0,0,0
+Sinorhizobium meliloti SM11,0,0,NC_017325,YP_005719635.1,LL_Fam1,LL_Fam1,6.2,14.5,1,191,0,1,1
+Sinorhizobium meliloti SM11,0,0,NC_017325,YP_005720008.1,DUF2163,DUF2163,3.2,16,1,146,1,1,1
+Sinorhizobium meliloti SM11,0,0,NC_017325,YP_005720008.1,DUF2163,DUF2163,3.2,16,145,196,1,0,1
+Sinorhizobium meliloti SM11,0,0,NC_017325,YP_005720008.1,LL_Fam1,LL_Fam1,1.3,16.7,1,55,0,0,0
+Sinorhizobium meliloti SM11,0,0,NC_017325,YP_005720367.1,LL_Fam1,LL_Fam1,0.16,19.7,1,55,0,0,0
+Sinorhizobium meliloti SM11,0,0,NC_017325,YP_005720901.1,LL_Fam1,LL_Fam1,0.78,17.4,1,114,0,1,1
+Shigella flexneri 2002017,0,0,NC_017328,YP_005726367.1,Phage_tail_L,Phage_tail_L,0,317,29,230,1,0,1
+Shigella flexneri 2002017,0,0,NC_017328,YP_005726367.1,TIGR01600,TIGR01600,0,328.9,11,230,0,1,1
+Shigella flexneri 2002017,0,0,NC_017328,YP_005727566.1,Phage_tail_L,Phage_tail_L,0,317,29,230,1,0,1
+Shigella flexneri 2002017,0,0,NC_017328,YP_005727566.1,TIGR01600,TIGR01600,0,328.9,11,230,0,1,1
+Ketogulonicigenium vulgare WSH-001,0,0,NC_017384,YP_005794497.1,DUF2163,DUF2163,0,174.2,1,152,1,1,1
+Ketogulonicigenium vulgare WSH-001,0,0,NC_017384,YP_005794497.1,Phage_BR0599,Phage_BR0599,3.60E-28,105.9,181,264,1,0,1
+Ketogulonicigenium vulgare WSH-001,0,0,NC_017384,YP_005794497.1,TIGR02218,TIGR02218,0,266.1,12,279,0,0,0
+Acinetobacter baumannii TCDC-AB0715,0,0,NC_017387,YP_005798085.1,DUF1833,DUF1833,0.32,18.6,3,89,0,1,1
+Acinetobacter baumannii TCDC-AB0715,0,0,NC_017387,YP_005799634.1,Phage_tail_L,Phage_tail_L,0,233.4,24,232,1,0,1
+Acinetobacter baumannii TCDC-AB0715,0,0,NC_017387,YP_005799634.1,TIGR01600,TIGR01600,0,230.8,6,232,0,0,0
+Ignavibacterium album JCM 16511,0,0,NC_017464,YP_005845107.1,DUF2163,DUF2163,8,14.7,15,122,0,1,1
+Ignavibacterium album JCM 16511,0,0,NC_017464,YP_005847840.1,DUF1833,DUF1833,1.6,16.4,1,32,1,0,1
+Ignavibacterium album JCM 16511,0,0,NC_017464,YP_005847840.1,DUF1833,DUF1833,1.6,16.4,268,307,0,0,0
+Lactobacillus johnsonii DPC 6026,0,0,NC_017477,YP_005862031.1,TIGR02218,TIGR02218,7,14.5,24,124,0,1,1
+Lactobacillus salivarius CECT 5713,0,0,NC_017481,YP_005863825.1,DUF1833,DUF1833,2.1,16,2,47,1,0,1
+Lactobacillus salivarius CECT 5713,0,0,NC_017481,YP_005863825.1,DUF1833,DUF1833,2.1,16,456,515,0,1,1
+Neisseria gonorrhoeae TCDC-NG08107,Homo sapiens,0,NC_017511,YP_005889948.1,DUF2163,DUF2163,1.80E-34,127.4,1,174,1,1,1
+Neisseria gonorrhoeae TCDC-NG08107,Homo sapiens,0,NC_017511,YP_005889948.1,Phage_BR0599,Phage_BR0599,4.70E-28,105.5,202,281,1,1,1
+Neisseria gonorrhoeae TCDC-NG08107,Homo sapiens,0,NC_017511,YP_005889948.1,TIGR02218,TIGR02218,7.00E-36,132.5,24,284,1,0,1
+Neisseria gonorrhoeae TCDC-NG08107,Homo sapiens,0,NC_017511,YP_005889948.1,LL_Fam1,LL_Fam1,0.87,17.3,1,187,0,1,1
+Neisseria meningitidis WUE 2594,0,0,NC_017512,YP_005892621.1,DUF2163,DUF2163,4.70E-35,129.3,1,174,1,1,1
+Neisseria meningitidis WUE 2594,0,0,NC_017512,YP_005892621.1,Phage_BR0599,Phage_BR0599,4.30E-27,102.4,202,281,1,1,1
+Neisseria meningitidis WUE 2594,0,0,NC_017512,YP_005892621.1,TIGR02218,TIGR02218,8.20E-36,132.3,24,284,1,0,1
+Neisseria meningitidis WUE 2594,0,0,NC_017512,YP_005892621.1,LL_Fam1,LL_Fam1,0.073,20.8,1,189,0,1,1
+Neisseria meningitidis G2136,0,0,NC_017513,YP_005893755.1,Phage_BR0599,Phage_BR0599,2.8,16.5,205,238,1,1,1
+Neisseria meningitidis G2136,0,0,NC_017513,YP_005893755.1,Phage_tail_L,Phage_tail_L,0,307.2,34,238,1,0,1
+Neisseria meningitidis G2136,0,0,NC_017513,YP_005893755.1,TIGR01600,TIGR01600,0,273.3,15,238,0,1,1
+Pseudomonas putida BIRD-1,0,0,NC_017530,YP_005929774.1,DUF2163,DUF2163,0.00000000054,47.8,19,159,1,1,1
+Pseudomonas putida BIRD-1,0,0,NC_017530,YP_005929774.1,Phage_BR0599,Phage_BR0599,0.000000025,42.3,188,261,1,0,1
+Pseudomonas putida BIRD-1,0,0,NC_017530,YP_005929774.1,TIGR02218,TIGR02218,1.00E-16,69.7,19,266,0,0,0
+Pseudomonas putida BIRD-1,0,0,NC_017530,YP_005930580.1,DUF1833,DUF1833,9.00E-43,153.5,2,150,0,1,1
+Pantoea ananatis AJ13355,0,0,NC_017531,YP_005933643.1,Phage_tail_L,Phage_tail_L,0,238.8,24,243,1,0,1
+Pantoea ananatis AJ13355,0,0,NC_017531,YP_005933643.1,TIGR01600,TIGR01600,0,198.7,6,243,0,1,1
+Oligotropha carboxidovorans OM4,0,0,NC_017538,YP_005950494.1,DUF2163,DUF2163,0,202.4,1,163,1,1,1
+Oligotropha carboxidovorans OM4,0,0,NC_017538,YP_005950494.1,Phage_BR0599,Phage_BR0599,7.60E-28,104.8,194,277,1,0,1
+Oligotropha carboxidovorans OM4,0,0,NC_017538,YP_005950494.1,TIGR02218,TIGR02218,0,299.5,23,294,0,1,1
+Oligotropha carboxidovorans OM4,0,0,NC_017538,YP_005952047.1,DUF2163,DUF2163,0,191.2,1,164,1,1,1
+Oligotropha carboxidovorans OM4,0,0,NC_017538,YP_005952047.1,Phage_BR0599,Phage_BR0599,2.10E-27,103.5,191,270,1,0,1
+Oligotropha carboxidovorans OM4,0,0,NC_017538,YP_005952047.1,TIGR02218,TIGR02218,0,261,23,279,0,0,0
+Klebsiella pneumoniae KCTC 2242,0,0,NC_017540,YP_005953520.1,DUF1833,DUF1833,0.018,22.7,3,144,0,1,1
+Pseudomonas aeruginosa M18,0,0,NC_017548,YP_005973215.1,Phage_tail_L,Phage_tail_L,0,302.4,24,229,1,0,1
+Pseudomonas aeruginosa M18,0,0,NC_017548,YP_005973215.1,TIGR01600,TIGR01600,0,252.9,6,229,0,1,1
+Pseudomonas aeruginosa NCGM2.S1,0,0,NC_017549,YP_005979844.1,Phage_tail_L,Phage_tail_L,0,239.1,24,245,1,0,1
+Pseudomonas aeruginosa NCGM2.S1,0,0,NC_017549,YP_005979844.1,TIGR01600,TIGR01600,0,215.5,6,245,0,0,0
+Pseudomonas aeruginosa NCGM2.S1,0,0,NC_017549,YP_005981163.1,DUF1833,DUF1833,0,169.1,3,151,0,1,1
+Pseudomonas aeruginosa NCGM2.S1,0,0,NC_017549,YP_005983136.1,DUF2163,DUF2163,1.6,17,2,101,1,1,1
+Pseudomonas aeruginosa NCGM2.S1,0,0,NC_017549,YP_005983136.1,Phage_BR0599,Phage_BR0599,9.20E-19,75.7,131,209,1,0,1
+Pseudomonas aeruginosa NCGM2.S1,0,0,NC_017549,YP_005983136.1,TIGR02218,TIGR02218,1.60E-29,111.7,1,214,0,1,1
+Pseudomonas aeruginosa NCGM2.S1,0,0,NC_017549,YP_005983616.1,DUF2163,DUF2163,0.000000064,41,2,144,1,1,1
+Pseudomonas aeruginosa NCGM2.S1,0,0,NC_017549,YP_005983616.1,Phage_BR0599,Phage_BR0599,4.70E-17,70.3,172,250,1,0,1
+Pseudomonas aeruginosa NCGM2.S1,0,0,NC_017549,YP_005983616.1,TIGR02218,TIGR02218,0,306.2,3,257,0,0,0
+Yersinia enterocolitica subsp. palearctica Y11,0,0,NC_017564,YP_006006397.1,LL_Fam1,LL_Fam1,3.2,15.4,65,179,0,0,0
+Shewanella putrefaciens 200,0,0,NC_017566,YP_006011537.1,LL_Fam1,LL_Fam1,2.60E-29,110.4,1,188,0,0,0
+Shewanella putrefaciens 200,0,0,NC_017566,YP_006011777.1,LL_Fam1,LL_Fam1,2.60E-29,110.4,1,188,0,0,0
+Serratia sp. AS13,rapeseed plant,0,NC_017573,YP_006023939.1,LL_Fam1,LL_Fam1,6,14.5,4,97,0,1,1
+Serratia sp. AS13,rapeseed plant,0,NC_017573,YP_006026240.1,Phage_tail_L,Phage_tail_L,0,274.6,24,247,1,0,1
+Serratia sp. AS13,rapeseed plant,0,NC_017573,YP_006026240.1,TIGR01600,TIGR01600,0,233.9,6,247,0,0,0
+Streptococcus gallolyticus subsp. gallolyticus ATCC 43143,0,0,NC_017576,YP_006034300.1,TIGR01600,TIGR01600,3.4,15.1,39,116,0,0,0
+Salmonella enterica subsp. enterica serovar Heidelberg str. B182,bovine,0,NC_017623,YP_006086586.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Salmonella enterica subsp. enterica serovar Heidelberg str. B182,bovine,0,NC_017623,YP_006087316.1,Phage_tail_L,Phage_tail_L,0,311.8,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Heidelberg str. B182,bovine,0,NC_017623,YP_006087316.1,TIGR01600,TIGR01600,0,283,11,230,0,1,1
+Escherichia coli 042,0,0,NC_017626,YP_006095684.1,Phage_tail_L,Phage_tail_L,0,323.1,29,230,1,0,1
+Escherichia coli 042,0,0,NC_017626,YP_006095684.1,TIGR01600,TIGR01600,0,330.2,11,230,0,1,1
+Escherichia coli 042,0,0,NC_017626,YP_006095823.1,Phage_tail_L,Phage_tail_L,0,319.5,29,230,1,0,1
+Escherichia coli 042,0,0,NC_017626,YP_006095823.1,TIGR01600,TIGR01600,0,327.5,11,230,0,1,1
+Escherichia coli 042,0,0,NC_017626,YP_006095994.1,Phage_tail_L,Phage_tail_L,0,322.8,29,230,1,0,1
+Escherichia coli 042,0,0,NC_017626,YP_006095994.1,TIGR01600,TIGR01600,0,329.9,11,230,0,1,1
+Escherichia coli 042,0,0,NC_017626,YP_006096444.1,Phage_tail_L,Phage_tail_L,0,320.8,29,230,1,0,1
+Escherichia coli 042,0,0,NC_017626,YP_006096444.1,TIGR01600,TIGR01600,0,332.1,11,230,0,1,1
+Escherichia coli IHE3034,0,0,NC_017628,YP_006099799.1,Phage_tail_L,Phage_tail_L,0,321.2,29,230,1,0,1
+Escherichia coli IHE3034,0,0,NC_017628,YP_006099799.1,TIGR01600,TIGR01600,0,329.5,11,230,0,1,1
+Escherichia coli IHE3034,0,0,NC_017628,YP_006100498.1,Phage_tail_L,Phage_tail_L,0,321.1,29,230,1,0,1
+Escherichia coli IHE3034,0,0,NC_017628,YP_006100498.1,TIGR01600,TIGR01600,0,328,11,230,0,1,1
+Escherichia coli IHE3034,0,0,NC_017628,YP_006100652.1,Phage_tail_L,Phage_tail_L,0,321.2,29,230,1,0,1
+Escherichia coli IHE3034,0,0,NC_017628,YP_006100652.1,TIGR01600,TIGR01600,0,329.5,11,230,0,1,1
+Escherichia coli IHE3034,0,0,NC_017628,YP_006101278.1,Phage_tail_L,Phage_tail_L,0,317.1,29,230,1,0,1
+Escherichia coli IHE3034,0,0,NC_017628,YP_006101278.1,TIGR01600,TIGR01600,0,327.9,11,230,0,1,1
+Escherichia coli IHE3034,0,0,NC_017628,YP_006103970.1,Phage_tail_L,Phage_tail_L,0,319.5,29,230,1,0,1
+Escherichia coli IHE3034,0,0,NC_017628,YP_006103970.1,TIGR01600,TIGR01600,0,328.8,11,230,0,1,1
+Escherichia coli ABU 83972,Homo sapiens,0,NC_017631,YP_006105288.1,Phage_tail_L,Phage_tail_L,0,316.4,29,230,1,0,1
+Escherichia coli ABU 83972,Homo sapiens,0,NC_017631,YP_006105288.1,TIGR01600,TIGR01600,0,362.1,11,230,0,1,1
+Escherichia coli ABU 83972,Homo sapiens,0,NC_017631,YP_006105498.1,Phage_tail_L,Phage_tail_L,0,321.1,29,230,1,0,1
+Escherichia coli ABU 83972,Homo sapiens,0,NC_017631,YP_006105498.1,TIGR01600,TIGR01600,0,328,11,230,0,1,1
+Escherichia coli UM146,0,0,NC_017632,YP_006110995.1,Phage_tail_L,Phage_tail_L,0,312.1,17,219,1,0,1
+Escherichia coli UM146,0,0,NC_017632,YP_006110995.1,TIGR01600,TIGR01600,0,292.8,15,219,0,1,1
+Escherichia coli UM146,0,0,NC_017632,YP_006111152.1,Phage_tail_L,Phage_tail_L,0,320,29,230,1,0,1
+Escherichia coli UM146,0,0,NC_017632,YP_006111152.1,TIGR01600,TIGR01600,0,327.8,11,230,0,1,1
+Escherichia coli ETEC H10407,0,0,NC_017633,YP_006114422.1,Phage_tail_L,Phage_tail_L,0,317.4,29,230,1,0,1
+Escherichia coli ETEC H10407,0,0,NC_017633,YP_006114422.1,TIGR01600,TIGR01600,0,327.6,11,230,0,1,1
+Escherichia coli ETEC H10407,0,0,NC_017633,YP_006114818.1,Phage_tail_L,Phage_tail_L,0,322.5,29,230,1,0,1
+Escherichia coli ETEC H10407,0,0,NC_017633,YP_006114818.1,TIGR01600,TIGR01600,0,327.7,11,230,0,1,1
+Escherichia coli ETEC H10407,0,0,NC_017633,YP_006118254.1,Phage_tail_L,Phage_tail_L,0,322.4,29,230,1,0,1
+Escherichia coli ETEC H10407,0,0,NC_017633,YP_006118254.1,TIGR01600,TIGR01600,0,329.7,11,230,0,1,1
+Escherichia coli O83:H1 str. NRG 857C,0,0,NC_017634,YP_006119531.1,Phage_tail_L,Phage_tail_L,0,323.8,29,230,1,0,1
+Escherichia coli O83:H1 str. NRG 857C,0,0,NC_017634,YP_006119531.1,TIGR01600,TIGR01600,0,329.8,11,230,0,1,1
+Escherichia coli O83:H1 str. NRG 857C,0,0,NC_017634,YP_006119897.1,Phage_tail_L,Phage_tail_L,0,322,29,230,1,0,1
+Escherichia coli O83:H1 str. NRG 857C,0,0,NC_017634,YP_006119897.1,TIGR01600,TIGR01600,0,331.3,11,230,0,1,1
+Escherichia coli W,0,0,NC_017635,YP_006124401.1,Phage_tail_L,Phage_tail_L,0,322.4,29,230,1,0,1
+Escherichia coli W,0,0,NC_017635,YP_006124401.1,TIGR01600,TIGR01600,0,329.7,11,230,0,1,1
+Escherichia coli UMNK88,porcine,0,NC_017641,YP_006133213.1,Phage_tail_L,Phage_tail_L,0,320.8,29,230,1,0,1
+Escherichia coli UMNK88,porcine,0,NC_017641,YP_006133213.1,TIGR01600,TIGR01600,0,332.1,11,230,0,1,1
+Escherichia coli UMNK88,porcine,0,NC_017641,YP_006133739.1,Phage_tail_L,Phage_tail_L,0,324,29,230,1,0,1
+Escherichia coli UMNK88,porcine,0,NC_017641,YP_006133739.1,TIGR01600,TIGR01600,0,331,11,230,0,1,1
+Escherichia coli UMNK88,porcine,0,NC_017641,YP_006134995.1,Phage_tail_L,Phage_tail_L,0,317.9,24,250,1,0,1
+Escherichia coli UMNK88,porcine,0,NC_017641,YP_006134995.1,TIGR01600,TIGR01600,0,203.6,6,250,0,1,1
+Escherichia coli NA114,0,0,NC_017644,YP_006138338.1,Phage_tail_L,Phage_tail_L,0,323.8,29,230,1,0,1
+Escherichia coli NA114,0,0,NC_017644,YP_006138338.1,TIGR01600,TIGR01600,0,329.8,11,230,0,1,1
+Escherichia coli NA114,0,0,NC_017644,YP_006138365.1,Phage_tail_L,Phage_tail_L,0,322.8,29,230,1,0,1
+Escherichia coli NA114,0,0,NC_017644,YP_006138365.1,TIGR01600,TIGR01600,0,371.3,11,230,0,1,1
+Escherichia coli NA114,0,0,NC_017644,YP_006138384.1,Phage_tail_L,Phage_tail_L,0,263.9,29,192,1,0,1
+Escherichia coli NA114,0,0,NC_017644,YP_006138384.1,TIGR01600,TIGR01600,0,276.9,11,192,0,1,1
+Escherichia coli O7:K1 str. CE10,Homo sapiens,0,NC_017646,YP_006142672.1,Phage_tail_L,Phage_tail_L,0,324,29,230,1,0,1
+Escherichia coli O7:K1 str. CE10,Homo sapiens,0,NC_017646,YP_006142672.1,TIGR01600,TIGR01600,0,331.9,11,230,0,1,1
+Escherichia coli O7:K1 str. CE10,Homo sapiens,0,NC_017646,YP_006143170.1,Phage_tail_L,Phage_tail_L,0,320.5,29,230,1,0,1
+Escherichia coli O7:K1 str. CE10,Homo sapiens,0,NC_017646,YP_006143170.1,TIGR01600,TIGR01600,0,331.8,11,230,0,1,1
+Escherichia coli O7:K1 str. CE10,Homo sapiens,0,NC_017646,YP_006143578.1,Phage_tail_L,Phage_tail_L,0,314.3,29,230,1,0,1
+Escherichia coli O7:K1 str. CE10,Homo sapiens,0,NC_017646,YP_006143578.1,TIGR01600,TIGR01600,0,360.2,11,230,0,1,1
+Escherichia coli O7:K1 str. CE10,Homo sapiens,0,NC_017646,YP_006143872.1,Phage_tail_L,Phage_tail_L,0,324,29,230,1,0,1
+Escherichia coli O7:K1 str. CE10,Homo sapiens,0,NC_017646,YP_006143872.1,TIGR01600,TIGR01600,0,331.9,11,230,0,1,1
+Escherichia coli O7:K1 str. CE10,Homo sapiens,0,NC_017646,YP_006147105.1,Phage_tail_L,Phage_tail_L,0,324.1,29,230,1,0,1
+Escherichia coli O7:K1 str. CE10,Homo sapiens,0,NC_017646,YP_006147105.1,TIGR01600,TIGR01600,0,332.8,11,230,0,1,1
+Escherichia coli str.  clone D i2,0,0,NC_017651,YP_006148540.1,Phage_tail_L,Phage_tail_L,0,321.4,29,230,1,0,1
+Escherichia coli str.  clone D i2,0,0,NC_017651,YP_006148540.1,TIGR01600,TIGR01600,0,377.2,11,230,0,1,1
+Escherichia coli str.  clone D i2,0,0,NC_017651,YP_006148622.1,Phage_tail_L,Phage_tail_L,0,321.1,29,230,1,0,1
+Escherichia coli str.  clone D i2,0,0,NC_017651,YP_006148622.1,TIGR01600,TIGR01600,0,328,11,230,0,1,1
+Escherichia coli str.  clone D i14,0,0,NC_017652,YP_006153459.1,Phage_tail_L,Phage_tail_L,0,321.4,29,230,1,0,1
+Escherichia coli str.  clone D i14,0,0,NC_017652,YP_006153459.1,TIGR01600,TIGR01600,0,377.2,11,230,0,1,1
+Escherichia coli str.  clone D i14,0,0,NC_017652,YP_006153541.1,Phage_tail_L,Phage_tail_L,0,321.1,29,230,1,0,1
+Escherichia coli str.  clone D i14,0,0,NC_017652,YP_006153541.1,TIGR01600,TIGR01600,0,328,11,230,0,1,1
+Escherichia coli O55:H7 str. RM12579,Homo sapiens,0,NC_017656,YP_006157504.1,Phage_tail_L,Phage_tail_L,0,318.7,29,230,1,0,1
+Escherichia coli O55:H7 str. RM12579,Homo sapiens,0,NC_017656,YP_006157504.1,TIGR01600,TIGR01600,0,328.2,11,230,0,1,1
+Escherichia coli O55:H7 str. RM12579,Homo sapiens,0,NC_017656,YP_006157862.1,Phage_tail_L,Phage_tail_L,0,322.6,29,230,1,0,1
+Escherichia coli O55:H7 str. RM12579,Homo sapiens,0,NC_017656,YP_006157862.1,TIGR01600,TIGR01600,0,330,11,230,0,1,1
+Escherichia coli O55:H7 str. RM12579,Homo sapiens,0,NC_017656,YP_006158123.1,Phage_tail_L,Phage_tail_L,0,320.9,29,230,1,0,1
+Escherichia coli O55:H7 str. RM12579,Homo sapiens,0,NC_017656,YP_006158123.1,TIGR01600,TIGR01600,0,326.4,11,230,0,1,1
+Escherichia coli O55:H7 str. RM12579,Homo sapiens,0,NC_017656,YP_006158687.1,Phage_tail_L,Phage_tail_L,0,323.2,29,230,1,0,1
+Escherichia coli O55:H7 str. RM12579,Homo sapiens,0,NC_017656,YP_006158687.1,TIGR01600,TIGR01600,0,378.3,11,230,0,1,1
+Escherichia coli O55:H7 str. RM12579,Homo sapiens,0,NC_017656,YP_006158853.1,Phage_tail_L,Phage_tail_L,0,321.5,29,230,1,0,1
+Escherichia coli O55:H7 str. RM12579,Homo sapiens,0,NC_017656,YP_006158853.1,TIGR01600,TIGR01600,0,374.7,11,230,0,1,1
+Escherichia coli O55:H7 str. RM12579,Homo sapiens,0,NC_017656,YP_006159028.1,Phage_tail_L,Phage_tail_L,0,322.6,29,230,1,0,1
+Escherichia coli O55:H7 str. RM12579,Homo sapiens,0,NC_017656,YP_006159028.1,TIGR01600,TIGR01600,0,330,11,230,0,1,1
+Escherichia coli O55:H7 str. RM12579,Homo sapiens,0,NC_017656,YP_006159480.1,Phage_tail_L,Phage_tail_L,0,322.8,29,230,1,0,1
+Escherichia coli O55:H7 str. RM12579,Homo sapiens,0,NC_017656,YP_006159480.1,TIGR01600,TIGR01600,0,379.1,11,230,0,1,1
+Escherichia coli O55:H7 str. RM12579,Homo sapiens,0,NC_017656,YP_006159707.1,Phage_tail_L,Phage_tail_L,0,322.8,29,230,1,0,1
+Escherichia coli O55:H7 str. RM12579,Homo sapiens,0,NC_017656,YP_006159707.1,TIGR01600,TIGR01600,0,379.1,11,230,0,1,1
+Escherichia coli KO11FL,0,0,NC_017660,YP_006165348.1,Phage_tail_L,Phage_tail_L,0,322.4,29,230,1,0,1
+Escherichia coli KO11FL,0,0,NC_017660,YP_006165348.1,TIGR01600,TIGR01600,0,329.7,11,230,0,1,1
+Escherichia coli P12b,0,0,NC_017663,YP_006168558.1,Phage_tail_L,Phage_tail_L,0,324.4,8,209,1,0,1
+Escherichia coli P12b,0,0,NC_017663,YP_006168558.1,TIGR01600,TIGR01600,0,319.3,1,209,0,1,1
+Escherichia coli W,0,0,NC_017664,YP_006173104.1,Phage_tail_L,Phage_tail_L,0,322.4,29,230,1,0,1
+Escherichia coli W,0,0,NC_017664,YP_006173104.1,TIGR01600,TIGR01600,0,329.7,11,230,0,1,1
+Stenotrophomonas maltophilia D457,0,0,NC_017671,YP_006183033.1,Phage_tail_L,Phage_tail_L,0,255.8,23,229,1,0,1
+Stenotrophomonas maltophilia D457,0,0,NC_017671,YP_006183033.1,TIGR01600,TIGR01600,0,290.6,5,229,0,0,0
+Stenotrophomonas maltophilia D457,0,0,NC_017671,YP_006185708.1,DUF1833,DUF1833,1.10E-30,114.2,3,143,0,0,0
+Providencia stuartii MRSN 2154,Homo sapiens,0,NC_017731,YP_006215466.1,LL_Fam1,LL_Fam1,0,169.8,1,193,0,1,1
+Providencia stuartii MRSN 2154,Homo sapiens,0,NC_017731,YP_006217913.1,Phage_tail_L,Phage_tail_L,0,249.2,24,246,1,0,1
+Providencia stuartii MRSN 2154,Homo sapiens,0,NC_017731,YP_006217913.1,TIGR01600,TIGR01600,0,201.5,6,246,0,1,1
+Pasteurella multocida subsp. multocida str. 3480,pig,0,NC_017764,YP_006239020.1,Phage_tail_L,Phage_tail_L,0,220,33,233,1,0,1
+Pasteurella multocida subsp. multocida str. 3480,pig,0,NC_017764,YP_006239020.1,TIGR01600,TIGR01600,0,217.9,9,233,0,1,1
+Pasteurella multocida subsp. multocida str. 3480,pig,0,NC_017764,YP_006240165.1,DUF2163,DUF2163,0.00000092,37.3,6,154,1,1,1
+Pasteurella multocida subsp. multocida str. 3480,pig,0,NC_017764,YP_006240165.1,Phage_BR0599,Phage_BR0599,2.30E-20,80.9,183,261,1,0,1
+Pasteurella multocida subsp. multocida str. 3480,pig,0,NC_017764,YP_006240165.1,TIGR02218,TIGR02218,1.00E-30,115.6,19,268,0,0,0
+Streptomyces hygroscopicus subsp. jinggangensis 5008,0,0,NC_017765,YP_006241224.1,Phage_BR0599,Phage_BR0599,2.2,16.8,106,174,0,1,1
+Acinetobacter baumannii MDR-TJ,0,0,NC_017847,YP_006288915.1,Phage_tail_L,Phage_tail_L,0,233.4,24,232,1,0,1
+Acinetobacter baumannii MDR-TJ,0,0,NC_017847,YP_006288915.1,TIGR01600,TIGR01600,0,230.8,6,232,0,0,0
+Acinetobacter baumannii MDR-TJ,0,0,NC_017847,YP_006290543.1,DUF1833,DUF1833,0.000000024,41.7,6,156,0,0,0
+Acinetobacter baumannii MDR-TJ,0,0,NC_017847,YP_006290597.1,DUF1833,DUF1833,0.0000066,33.8,10,155,0,1,1
+Methylophaga sp. JAM7,0,0,NC_017856,YP_006292703.1,DUF2163,DUF2163,0.78,18,5,162,1,1,1
+Methylophaga sp. JAM7,0,0,NC_017856,YP_006292703.1,Phage_BR0599,Phage_BR0599,0.0000000039,44.9,192,265,1,0,1
+Methylophaga sp. JAM7,0,0,NC_017856,YP_006292703.1,TIGR02218,TIGR02218,0,60.2,26,270,0,1,1
+Pseudomonas phage vB_Pae-Kakheti25,Pseudomonas aeruginosa PA25,neg,NC_017864,YP_006299889.1,DUF2163,DUF2163,0.0002,29.6,34,160,1,1,1
+Pseudomonas phage vB_Pae-Kakheti25,Pseudomonas aeruginosa PA25,neg,NC_017864,YP_006299889.1,Phage_BR0599,Phage_BR0599,0,53.4,188,265,1,0,1
+Pseudomonas phage vB_Pae-Kakheti25,Pseudomonas aeruginosa PA25,neg,NC_017864,YP_006299889.1,TIGR02218,TIGR02218,1.10E-16,69.5,24,272,0,1,1
+Escherichia coli Xuzhou21,0,0,NC_017906,YP_006311675.1,Phage_tail_L,Phage_tail_L,0,322.8,29,230,1,0,1
+Escherichia coli Xuzhou21,0,0,NC_017906,YP_006311675.1,TIGR01600,TIGR01600,0,328.1,11,230,0,1,1
+Escherichia coli Xuzhou21,0,0,NC_017906,YP_006311937.1,Phage_tail_L,Phage_tail_L,0,316.3,29,230,1,0,1
+Escherichia coli Xuzhou21,0,0,NC_017906,YP_006311937.1,TIGR01600,TIGR01600,0,365.2,11,230,0,1,1
+Escherichia coli Xuzhou21,0,0,NC_017906,YP_006312358.1,Phage_tail_L,Phage_tail_L,0,319.4,29,230,1,0,1
+Escherichia coli Xuzhou21,0,0,NC_017906,YP_006312358.1,TIGR01600,TIGR01600,0,375.5,11,230,0,1,1
+Escherichia coli Xuzhou21,0,0,NC_017906,YP_006312443.1,Phage_tail_L,Phage_tail_L,0,324,29,230,1,0,1
+Escherichia coli Xuzhou21,0,0,NC_017906,YP_006312443.1,TIGR01600,TIGR01600,0,331,11,230,0,1,1
+Escherichia coli Xuzhou21,0,0,NC_017906,YP_006312600.1,Phage_tail_L,Phage_tail_L,2.50E-39,143.1,29,133,1,0,1
+Escherichia coli Xuzhou21,0,0,NC_017906,YP_006312600.1,TIGR01600,TIGR01600,0,180.2,11,130,0,1,1
+Escherichia coli Xuzhou21,0,0,NC_017906,YP_006312871.1,Phage_tail_L,Phage_tail_L,0,322.6,29,230,1,0,1
+Escherichia coli Xuzhou21,0,0,NC_017906,YP_006312871.1,TIGR01600,TIGR01600,0,383,11,230,0,1,1
+Escherichia coli Xuzhou21,0,0,NC_017906,YP_006312940.1,Phage_tail_L,Phage_tail_L,0,317.2,29,230,1,0,1
+Escherichia coli Xuzhou21,0,0,NC_017906,YP_006312940.1,TIGR01600,TIGR01600,0,370.8,11,230,0,1,1
+Escherichia coli Xuzhou21,0,0,NC_017906,YP_006313385.1,Phage_tail_L,Phage_tail_L,0,322.9,29,230,1,0,1
+Escherichia coli Xuzhou21,0,0,NC_017906,YP_006313385.1,TIGR01600,TIGR01600,0,378.8,11,230,0,1,1
+Escherichia coli Xuzhou21,0,0,NC_017906,YP_006313583.1,Phage_tail_L,Phage_tail_L,0,322.9,29,230,1,0,1
+Escherichia coli Xuzhou21,0,0,NC_017906,YP_006313583.1,TIGR01600,TIGR01600,0,378.8,11,230,0,1,1
+Escherichia blattae DSM 4481,cockroach,0,NC_017910,YP_006319649.1,Phage_tail_L,Phage_tail_L,0,286.8,23,248,1,0,1
+Escherichia blattae DSM 4481,cockroach,0,NC_017910,YP_006319649.1,TIGR01600,TIGR01600,0,204.1,5,248,0,1,1
+Pseudomonas fluorescens A506,pear,0,NC_017911,YP_006323552.1,Phage_tail_L,Phage_tail_L,0,260.7,24,247,1,0,1
+Pseudomonas fluorescens A506,pear,0,NC_017911,YP_006323552.1,TIGR01600,TIGR01600,0,226.3,6,247,0,1,1
+Cronobacter sakazakii ES15,0,0,NC_017933,YP_006341986.1,Phage_tail_L,Phage_tail_L,0,289.8,31,256,1,0,1
+Cronobacter sakazakii ES15,0,0,NC_017933,YP_006341986.1,TIGR01600,TIGR01600,0,213,13,256,0,1,1
+Cronobacter sakazakii ES15,0,0,NC_017933,YP_006342372.1,Phage_tail_L,Phage_tail_L,0,241.5,24,248,1,0,1
+Cronobacter sakazakii ES15,0,0,NC_017933,YP_006342372.1,TIGR01600,TIGR01600,0,199.9,6,248,0,1,1
+Cronobacter sakazakii ES15,0,0,NC_017933,YP_006342772.1,DUF1833,DUF1833,0.012,23.3,3,145,1,0,1
+Cronobacter sakazakii ES15,0,0,NC_017933,YP_006342772.1,DUF2163,DUF2163,3.2,16,38,148,0,1,1
+Tistrella mobilis KA081020-065,0,0,NC_017956,YP_006371738.1,DUF2163,DUF2163,5.61E-45,161.5,1,164,1,1,1
+Tistrella mobilis KA081020-065,0,0,NC_017956,YP_006371738.1,Phage_BR0599,Phage_BR0599,1.20E-19,78.5,193,272,1,0,1
+Tistrella mobilis KA081020-065,0,0,NC_017956,YP_006371738.1,TIGR02218,TIGR02218,0,202.5,23,276,0,0,0
+Escherichia phage bV_EcoS_AKFV33,Escherichia coli,neg,NC_017969,YP_006382439.1,LL_Fam1,LL_Fam1,0,203.2,1,203,0,1,1
+Pseudomonas putida ND6,0,0,NC_017986,YP_006388827.1,Phage_tail_L,Phage_tail_L,0,240.1,24,246,1,0,1
+Pseudomonas putida ND6,0,0,NC_017986,YP_006388827.1,TIGR01600,TIGR01600,0,209.6,6,246,0,0,0
+Thermoanaerobacterium saccharolyticum JW/SL-YS485,0,0,NC_017992,YP_006390941.1,TIGR02218,TIGR02218,6.6,14.5,38,127,0,0,0
+Sulfurospirillum barnesii SES-3,0,0,NC_018002,YP_006404650.1,DUF2163,DUF2163,3,16.1,89,199,0,1,1
+Aequorivita sublithincola DSM 14238,0,0,NC_018013,YP_006418349.1,LL_Fam1,LL_Fam1,2.5,15.8,48,140,1,0,1
+Aequorivita sublithincola DSM 14238,0,0,NC_018013,YP_006418349.1,LL_Fam1,LL_Fam1,2.5,15.8,164,247,0,1,1
+Turneriella parva DSM 21527,0,0,NC_018020,YP_006438788.1,DUF1833,DUF1833,1.5,16.4,5,52,1,0,1
+Turneriella parva DSM 21527,0,0,NC_018020,YP_006438788.1,DUF1833,DUF1833,1.5,16.4,128,162,0,0,0
+Solibacillus silvestris StLB046,0,0,NC_018065,YP_006462630.1,DUF2163,DUF2163,1.4,17.1,22,157,0,1,1
+Enterobacter cloacae subsp. dissolvens SDM,0,0,NC_018079,YP_006477609.1,Phage_tail_L,Phage_tail_L,0.0026,25.4,24,82,1,0,1
+Enterobacter cloacae subsp. dissolvens SDM,0,0,NC_018079,YP_006477609.1,TIGR01600,TIGR01600,0.00034,28.2,6,83,0,0,0
+Enterobacter cloacae subsp. dissolvens SDM,0,0,NC_018079,YP_006477610.1,Phage_tail_L,Phage_tail_L,0.63,17.7,1,34,0,1,1
+Pseudomonas aeruginosa DK2,0,0,NC_018080,YP_006480623.1,Phage_tail_L,Phage_tail_L,0,302.4,24,229,1,0,1
+Pseudomonas aeruginosa DK2,0,0,NC_018080,YP_006480623.1,TIGR01600,TIGR01600,0,252.9,6,229,0,1,1
+Colwellia phage 9A,0,neg,NC_018088,YP_006489242.1,Phage_tail_L,Phage_tail_L,0.095,20.3,27,140,1,0,1
+Colwellia phage 9A,0,neg,NC_018088,YP_006489242.1,TIGR01600,TIGR01600,0.038,21.5,6,132,0,0,0
+Klebsiella oxytoca E718,Homo sapiens,0,NC_018106,YP_006498129.1,DUF1833,DUF1833,2.40E-40,145.6,2,148,0,1,1
+Pseudomonas putida DOT-T1E,0,0,NC_018220,YP_006532094.1,Phage_tail_L,Phage_tail_L,0,247.3,24,246,1,0,1
+Pseudomonas putida DOT-T1E,0,0,NC_018220,YP_006532094.1,TIGR01600,TIGR01600,0,212.3,6,246,0,1,1
+Pseudomonas phage MP42,Pseudomonas aeruginosa PA14,neg,NC_018274,YP_006560544.1,DUF2163,DUF2163,0.000000058,41.2,2,144,1,1,1
+Pseudomonas phage MP42,Pseudomonas aeruginosa PA14,neg,NC_018274,YP_006560544.1,Phage_BR0599,Phage_BR0599,4.70E-17,70.3,172,250,1,0,1
+Pseudomonas phage MP42,Pseudomonas aeruginosa PA14,neg,NC_018274,YP_006560544.1,TIGR02218,TIGR02218,0,305.4,3,257,0,1,1
+Burkholderia phage KL1,Burkholderia cenocepacia C6433,neg,NC_018278,YP_006560776.1,DUF2163,DUF2163,0.000000038,41.8,19,162,1,1,1
+Burkholderia phage KL1,Burkholderia cenocepacia C6433,neg,NC_018278,YP_006560776.1,Phage_BR0599,Phage_BR0599,0,52.2,190,266,1,0,1
+Burkholderia phage KL1,Burkholderia cenocepacia C6433,neg,NC_018278,YP_006560776.1,TIGR02218,TIGR02218,0,54.5,88,269,0,1,1
+Salmonella phage vB_SosS_Oslo,0,neg,NC_018279,YP_006560831.1,Phage_tail_L,Phage_tail_L,0,247.7,29,233,1,0,1
+Salmonella phage vB_SosS_Oslo,0,neg,NC_018279,YP_006560831.1,TIGR01600,TIGR01600,0,227.7,11,233,0,1,1
+Pseudomonas phage MP1412,Pseudomonas aeruginosa PAO1,neg,NC_018282,YP_006561080.1,DUF2163,DUF2163,0,58.5,15,156,1,1,1
+Pseudomonas phage MP1412,Pseudomonas aeruginosa PAO1,neg,NC_018282,YP_006561080.1,Phage_BR0599,Phage_BR0599,2.30E-16,68,184,261,1,0,1
+Pseudomonas phage MP1412,Pseudomonas aeruginosa PAO1,neg,NC_018282,YP_006561080.1,TIGR02218,TIGR02218,7.60E-24,93,18,267,0,1,1
+Burkholderia phage AH2,Burkholderia cenocepacia C6433,neg,NC_018283,YP_006561134.1,DUF2163,DUF2163,0.0067,24.7,17,155,1,1,1
+Burkholderia phage AH2,Burkholderia cenocepacia C6433,neg,NC_018283,YP_006561134.1,Phage_BR0599,Phage_BR0599,0.0000000002,49.1,183,258,1,0,1
+Burkholderia phage AH2,Burkholderia cenocepacia C6433,neg,NC_018283,YP_006561134.1,TIGR02218,TIGR02218,0.00000000013,49.6,18,261,0,1,1
+Phaeobacter gallaeciensis 2.10,0,0,NC_018286,YP_006562985.1,DUF2163,DUF2163,0,208.3,1,170,1,1,1
+Phaeobacter gallaeciensis 2.10,0,0,NC_018286,YP_006562985.1,Phage_BR0599,Phage_BR0599,3.90E-25,96.2,201,298,1,0,1
+Phaeobacter gallaeciensis 2.10,0,0,NC_018286,YP_006562985.1,TIGR02218,TIGR02218,0,299.5,23,315,0,1,1
+Phaeobacter gallaeciensis DSM 17395 = CIP 105210,0,0,NC_018290,YP_006573192.1,DUF2163,DUF2163,0,210.8,1,170,1,1,1
+Phaeobacter gallaeciensis DSM 17395 = CIP 105210,0,0,NC_018290,YP_006573192.1,Phage_BR0599,Phage_BR0599,2.50E-25,96.8,201,298,1,0,1
+Phaeobacter gallaeciensis DSM 17395 = CIP 105210,0,0,NC_018290,YP_006573192.1,TIGR02218,TIGR02218,0,303.1,23,315,0,0,0
+Enterobacter cloacae subsp. cloacae ENHKU01,0,0,NC_018405,YP_006578851.1,DUF1833,DUF1833,0.1,20.2,3,145,0,1,1
+Cronobacter phage phiES15,UV-induced Cronobacter sakazakii ES15,neg,NC_018454,YP_006590050.1,Phage_tail_L,Phage_tail_L,0,289.8,31,256,1,0,1
+Cronobacter phage phiES15,UV-induced Cronobacter sakazakii ES15,neg,NC_018454,YP_006590050.1,TIGR01600,TIGR01600,0,213,13,256,0,1,1
+Methylocystis sp. SC2,0,0,NC_018485,YP_006591596.1,DUF2163,DUF2163,0,188.8,1,163,1,1,1
+Methylocystis sp. SC2,0,0,NC_018485,YP_006591596.1,Phage_BR0599,Phage_BR0599,4.30E-25,96,193,276,1,0,1
+Methylocystis sp. SC2,0,0,NC_018485,YP_006591596.1,TIGR02218,TIGR02218,0,268.2,23,294,0,0,0
+Methylocystis sp. SC2,0,0,NC_018485,YP_006591759.1,DUF1833,DUF1833,0.0087,23.7,7,153,0,1,1
+Klebsiella phage phiKO2,Klebsiella oxytoca,neg,NC_005857,YP_006597.1,Phage_tail_L,Phage_tail_L,0,281,25,249,1,0,1
+Klebsiella phage phiKO2,Klebsiella oxytoca,neg,NC_005857,YP_006597.1,TIGR01600,TIGR01600,0,199.5,6,249,0,0,0
+Mycoplasma genitalium M2321,0,0,NC_018495,YP_006600004.1,Phage_BR0599,Phage_BR0599,2.1,16.9,4,34,0,0,0
+Mycoplasma genitalium M6282,0,0,NC_018496,YP_006600488.1,Phage_BR0599,Phage_BR0599,2.1,16.9,4,34,0,0,0
+Mycoplasma genitalium M6320,0,0,NC_018497,YP_006600997.1,Phage_BR0599,Phage_BR0599,2.1,16.9,4,34,0,0,0
+Mycoplasma genitalium M2288,0,0,NC_018498,YP_006601503.1,Phage_BR0599,Phage_BR0599,2.1,16.9,4,34,0,1,1
+Bacillus thuringiensis HD-771,0,0,NC_018500,YP_006607021.1,LL_Fam1,LL_Fam1,4.2,15.1,72,165,1,0,1
+Bacillus thuringiensis HD-771,0,0,NC_018500,YP_006607021.1,LL_Fam1,LL_Fam1,4.2,15.1,166,314,0,1,1
+Klebsiella pneumoniae subsp. pneumoniae 1084,0,0,NC_018522,YP_006636848.1,Phage_tail_L,Phage_tail_L,0,275.3,24,249,1,0,1
+Klebsiella pneumoniae subsp. pneumoniae 1084,0,0,NC_018522,YP_006636848.1,TIGR01600,TIGR01600,0,191,6,249,0,1,1
+Pectobacterium carotovorum subsp. carotovorum PCC21,0,0,NC_018525,YP_006646864.1,Phage_tail_L,Phage_tail_L,7,14.2,41,126,1,0,1
+Pectobacterium carotovorum subsp. carotovorum PCC21,0,0,NC_018525,YP_006646864.1,Phage_tail_L,Phage_tail_L,7,14.2,441,523,0,1,1
+Bacillus licheniformis DSM 13 = ATCC 14580,0,0,NC_006322,YP_006715101.1,Phage_BR0599,Phage_BR0599,6.3,15.4,3,61,1,0,1
+Bacillus licheniformis DSM 13 = ATCC 14580,0,0,NC_006322,YP_006715101.1,Phage_BR0599,Phage_BR0599,6.3,15.4,79,139,0,0,0
+Desulfobacula toluolica Tol2,0,0,NC_018645,YP_006762179.1,LL_Fam1,LL_Fam1,0.84,17.3,190,298,0,1,1
+Escherichia coli O104:H4 str. 2009EL-2050,Homo sapiens,0,NC_018650,YP_006769751.1,Phage_tail_L,Phage_tail_L,0,323,29,230,1,0,1
+Escherichia coli O104:H4 str. 2009EL-2050,Homo sapiens,0,NC_018650,YP_006769751.1,TIGR01600,TIGR01600,0,328.4,11,230,0,1,1
+Escherichia coli O104:H4 str. 2009EL-2050,Homo sapiens,0,NC_018650,YP_006770456.1,Phage_tail_L,Phage_tail_L,0,321.2,29,230,1,0,1
+Escherichia coli O104:H4 str. 2009EL-2050,Homo sapiens,0,NC_018650,YP_006770456.1,TIGR01600,TIGR01600,0,329.5,11,230,0,1,1
+Escherichia coli O104:H4 str. 2009EL-2050,Homo sapiens,0,NC_018650,YP_006771132.1,Phage_tail_L,Phage_tail_L,0,322.2,29,230,1,0,1
+Escherichia coli O104:H4 str. 2009EL-2050,Homo sapiens,0,NC_018650,YP_006771132.1,TIGR01600,TIGR01600,0,328.9,11,230,0,1,1
+Escherichia coli O104:H4 str. 2011C-3493,Homo sapiens,0,NC_018658,YP_006778805.1,Phage_tail_L,Phage_tail_L,0,321.2,29,230,1,0,1
+Escherichia coli O104:H4 str. 2011C-3493,Homo sapiens,0,NC_018658,YP_006778805.1,TIGR01600,TIGR01600,0,329.5,11,230,0,1,1
+Escherichia coli O104:H4 str. 2011C-3493,Homo sapiens,0,NC_018658,YP_006779507.1,Phage_tail_L,Phage_tail_L,0,321.2,29,230,1,0,1
+Escherichia coli O104:H4 str. 2011C-3493,Homo sapiens,0,NC_018658,YP_006779507.1,TIGR01600,TIGR01600,0,329.5,11,230,0,1,1
+Escherichia coli O104:H4 str. 2011C-3493,Homo sapiens,0,NC_018658,YP_006780182.1,Phage_tail_L,Phage_tail_L,0,322.2,29,230,1,0,1
+Escherichia coli O104:H4 str. 2011C-3493,Homo sapiens,0,NC_018658,YP_006780182.1,TIGR01600,TIGR01600,0,328.9,11,230,0,1,1
+Escherichia coli O104:H4 str. 2009EL-2071,Homo sapiens,0,NC_018661,YP_006783876.1,Phage_tail_L,Phage_tail_L,0,323,29,230,1,0,1
+Escherichia coli O104:H4 str. 2009EL-2071,Homo sapiens,0,NC_018661,YP_006783876.1,TIGR01600,TIGR01600,0,328.4,11,230,0,1,1
+Escherichia coli O104:H4 str. 2009EL-2071,Homo sapiens,0,NC_018661,YP_006784582.1,Phage_tail_L,Phage_tail_L,0,321.2,29,230,1,0,1
+Escherichia coli O104:H4 str. 2009EL-2071,Homo sapiens,0,NC_018661,YP_006784582.1,TIGR01600,TIGR01600,0,329.5,11,230,0,1,1
+Escherichia coli O104:H4 str. 2009EL-2071,Homo sapiens,0,NC_018661,YP_006784749.1,Phage_tail_L,Phage_tail_L,0,321.4,29,230,1,0,1
+Escherichia coli O104:H4 str. 2009EL-2071,Homo sapiens,0,NC_018661,YP_006784749.1,TIGR01600,TIGR01600,0,370.5,11,230,0,1,1
+Escherichia coli O104:H4 str. 2009EL-2071,Homo sapiens,0,NC_018661,YP_006785325.1,Phage_tail_L,Phage_tail_L,0,320.9,29,230,1,0,1
+Escherichia coli O104:H4 str. 2009EL-2071,Homo sapiens,0,NC_018661,YP_006785325.1,TIGR01600,TIGR01600,0,326,11,230,0,0,0
+Alteromonas macleodii str.  English Channel 673,0,0,NC_018678,YP_006798833.1,LL_Fam1,LL_Fam1,8.80E-18,72.7,1,196,0,1,1
+Actinobacillus suis H91-0380,pig,0,NC_018690,YP_006816934.1,Phage_tail_L,Phage_tail_L,0,250.2,36,236,1,0,1
+Actinobacillus suis H91-0380,pig,0,NC_018690,YP_006816934.1,TIGR01600,TIGR01600,0,244,12,236,0,1,1
+Actinobacillus suis H91-0380,pig,0,NC_018690,YP_006817454.1,DUF2163,DUF2163,8.4,14.6,149,211,1,0,1
+Actinobacillus suis H91-0380,pig,0,NC_018690,YP_006817454.1,DUF2163,DUF2163,8.4,14.6,197,272,0,0,0
+Alteromonas macleodii str.  Black Sea 11,0,0,NC_018692,YP_006825488.1,LL_Fam1,LL_Fam1,7.30E-20,79.5,5,187,0,0,0
+Sinorhizobium meliloti Rm41,0,0,NC_018700,YP_006840665.1,LL_Fam1,LL_Fam1,4.2,15.1,1,120,0,0,0
+Acinetobacter baumannii TYTH-1,0,0,NC_018706,YP_006847716.1,DUF1833,DUF1833,0.0000066,33.8,10,155,0,0,0
+Acinetobacter baumannii TYTH-1,0,0,NC_018706,YP_006847771.1,DUF1833,DUF1833,0.000000024,41.7,6,156,0,0,0
+Bordetella parapertussis Bpp5,0,0,NC_018828,YP_006896047.1,DUF1833,DUF1833,0,175,6,167,0,0,0
+Pectobacterium phage My1,0,neg,NC_018837,YP_006906383.1,LL_Fam1,LL_Fam1,3.90E-37,135.9,1,182,0,1,1
+Salmonella phage SSU5,Salmonella enterica subsp. enterica serova,neg,NC_018843,YP_006906649.1,Phage_tail_L,Phage_tail_L,0,305.7,24,231,1,0,1
+Salmonella phage SSU5,Salmonella enterica subsp. enterica serova,neg,NC_018843,YP_006906649.1,TIGR01600,TIGR01600,0,407.5,6,231,0,1,1
+Dehalobacter sp. DCA,0,0,NC_018866,YP_006909917.1,LL_Fam1,LL_Fam1,5.9,14.6,12,64,1,0,1
+Dehalobacter sp. DCA,0,0,NC_018866,YP_006909917.1,LL_Fam1,LL_Fam1,5.9,14.6,42,125,0,1,1
+Dehalobacter sp. CF,0,0,NC_018867,YP_006912952.1,LL_Fam1,LL_Fam1,5.9,14.6,12,64,1,0,1
+Dehalobacter sp. CF,0,0,NC_018867,YP_006912952.1,LL_Fam1,LL_Fam1,5.9,14.6,42,125,0,0,0
+Enterobacteria phage T5,Escherichia coli,neg,NC_005859,YP_006966.1,LL_Fam1,LL_Fam1,0,236.4,1,203,0,0,0
+Bordetella bronchiseptica 253,0,0,NC_019382,YP_006966128.1,DUF1833,DUF1833,0,186.6,26,187,0,1,1
+Enterobacteria phage vB_EcoS_ACG-M12,0,neg,NC_019404,YP_006987851.1,Phage_tail_L,Phage_tail_L,0,169,27,245,1,0,1
+Enterobacteria phage vB_EcoS_ACG-M12,0,neg,NC_019404,YP_006987851.1,TIGR01600,TIGR01600,2.10E-34,126.9,9,245,0,1,1
+Caulobacter phage phiCbK,Caulobacter crescentus,neg,NC_019405,YP_006987993.1,DUF2163,DUF2163,1.10E-41,150.9,1,165,1,1,1
+Caulobacter phage phiCbK,Caulobacter crescentus,neg,NC_019405,YP_006987993.1,Phage_BR0599,Phage_BR0599,2.00E-22,87.5,450,529,1,1,1
+Caulobacter phage phiCbK,Caulobacter crescentus,neg,NC_019405,YP_006987993.1,TIGR02218,TIGR02218,0,195.1,23,186,1,1,1
+Caulobacter phage phiCbK,Caulobacter crescentus,neg,NC_019405,YP_006987993.1,TIGR02218,TIGR02218,0,195.1,198,365,1,0,1
+Caulobacter phage phiCbK,Caulobacter crescentus,neg,NC_019405,YP_006987993.1,TIGR02218,TIGR02218,0,195.1,407,541,0,0,0
+Caulobacter phage CcrColossus,Caulobacter crescentus,neg,NC_019406,YP_006988309.1,Phage_BR0599,Phage_BR0599,2.5,16.6,99,130,0,1,1
+Caulobacter phage CcrColossus,Caulobacter crescentus,neg,NC_019406,YP_006988354.1,DUF2163,DUF2163,1.40E-43,156.9,1,165,1,1,1
+Caulobacter phage CcrColossus,Caulobacter crescentus,neg,NC_019406,YP_006988354.1,Phage_BR0599,Phage_BR0599,1.20E-23,91.4,452,531,1,1,1
+Caulobacter phage CcrColossus,Caulobacter crescentus,neg,NC_019406,YP_006988354.1,TIGR02218,TIGR02218,0,190.8,23,188,1,0,1
+Caulobacter phage CcrColossus,Caulobacter crescentus,neg,NC_019406,YP_006988354.1,TIGR02218,TIGR02218,0,190.8,417,541,0,1,1
+Caulobacter phage CcrColossus,Caulobacter crescentus,neg,NC_019406,YP_006988651.1,Phage_BR0599,Phage_BR0599,0.00016,30.2,91,126,1,1,1
+Caulobacter phage CcrColossus,Caulobacter crescentus,neg,NC_019406,YP_006988651.1,TIGR02218,TIGR02218,0.00082,27.4,55,96,1,0,1
+Caulobacter phage CcrColossus,Caulobacter crescentus,neg,NC_019406,YP_006988651.1,TIGR02218,TIGR02218,0.00082,27.4,95,128,0,1,1
+Caulobacter phage CcrMagneto,Caulobacter crescentus,neg,NC_019407,YP_006988776.1,DUF2163,DUF2163,6.40E-39,141.8,1,157,1,1,1
+Caulobacter phage CcrMagneto,Caulobacter crescentus,neg,NC_019407,YP_006988776.1,Phage_BR0599,Phage_BR0599,2.00E-22,87.5,442,521,1,1,1
+Caulobacter phage CcrMagneto,Caulobacter crescentus,neg,NC_019407,YP_006988776.1,TIGR02218,TIGR02218,0,195.5,15,180,1,1,1
+Caulobacter phage CcrMagneto,Caulobacter crescentus,neg,NC_019407,YP_006988776.1,TIGR02218,TIGR02218,0,195.5,189,357,1,0,1
+Caulobacter phage CcrMagneto,Caulobacter crescentus,neg,NC_019407,YP_006988776.1,TIGR02218,TIGR02218,0,195.5,401,533,0,1,1
+Caulobacter phage CcrRogue,Caulobacter crescentus,neg,NC_019408,YP_006989125.1,DUF2163,DUF2163,1.90E-39,143.6,1,165,1,1,1
+Caulobacter phage CcrRogue,Caulobacter crescentus,neg,NC_019408,YP_006989125.1,Phage_BR0599,Phage_BR0599,3.20E-22,86.8,450,529,1,1,1
+Caulobacter phage CcrRogue,Caulobacter crescentus,neg,NC_019408,YP_006989125.1,TIGR02218,TIGR02218,0,183.5,23,227,1,0,1
+Caulobacter phage CcrRogue,Caulobacter crescentus,neg,NC_019408,YP_006989125.1,TIGR02218,TIGR02218,0,183.5,376,541,0,1,1
+Caulobacter phage CcrKarma,Caulobacter crescentus,neg,NC_019410,YP_006989478.1,DUF2163,DUF2163,1.00E-41,150.9,1,165,1,1,1
+Caulobacter phage CcrKarma,Caulobacter crescentus,neg,NC_019410,YP_006989478.1,Phage_BR0599,Phage_BR0599,2.00E-22,87.5,450,529,1,1,1
+Caulobacter phage CcrKarma,Caulobacter crescentus,neg,NC_019410,YP_006989478.1,TIGR02218,TIGR02218,0,195.4,23,214,1,0,1
+Caulobacter phage CcrKarma,Caulobacter crescentus,neg,NC_019410,YP_006989478.1,TIGR02218,TIGR02218,0,195.4,408,541,0,1,1
+Caulobacter phage CcrSwift,Caulobacter crescentus,neg,NC_019411,YP_006989826.1,DUF2163,DUF2163,6.40E-39,141.8,1,157,1,1,1
+Caulobacter phage CcrSwift,Caulobacter crescentus,neg,NC_019411,YP_006989826.1,Phage_BR0599,Phage_BR0599,2.00E-22,87.5,442,521,1,1,1
+Caulobacter phage CcrSwift,Caulobacter crescentus,neg,NC_019411,YP_006989826.1,TIGR02218,TIGR02218,0,195.5,15,206,1,1,1
+Caulobacter phage CcrSwift,Caulobacter crescentus,neg,NC_019411,YP_006989826.1,TIGR02218,TIGR02218,0,195.5,210,358,1,0,1
+Caulobacter phage CcrSwift,Caulobacter crescentus,neg,NC_019411,YP_006989826.1,TIGR02218,TIGR02218,0,195.5,400,533,0,1,1
+Salmonella phage SPN19,Salmonella sp.,neg,NC_019417,YP_006990294.1,DUF2163,DUF2163,0.0000048,34.9,17,158,1,1,1
+Salmonella phage SPN19,Salmonella sp.,neg,NC_019417,YP_006990294.1,Phage_BR0599,Phage_BR0599,0,52.9,186,264,1,0,1
+Salmonella phage SPN19,Salmonella sp.,neg,NC_019417,YP_006990294.1,TIGR02218,TIGR02218,1.60E-21,85.4,21,269,0,1,1
+Enterobacteria phage JL1,Escherichia coli O157:H7,neg,NC_019419,YP_006990428.1,Phage_tail_L,Phage_tail_L,8.40E-38,138.1,33,260,1,0,1
+Enterobacteria phage JL1,Escherichia coli O157:H7,neg,NC_019419,YP_006990428.1,TIGR01600,TIGR01600,4.70E-26,99.7,48,260,0,1,1
+Cronobacter phage ESP2949-1,Cronobacter sakazakii ATCC29544,neg,NC_019509,YP_007005381.1,Phage_tail_L,Phage_tail_L,1.09E-43,157.3,39,256,1,0,1
+Cronobacter phage ESP2949-1,Cronobacter sakazakii ATCC29544,neg,NC_019509,YP_007005381.1,TIGR01600,TIGR01600,1.10E-30,114.8,21,256,0,0,0
+Enterobacteria phage vB_EcoM-FV3,Escherichia coli,neg,NC_019517,YP_007006210.1,LL_Fam1,LL_Fam1,0,266.1,1,183,0,1,1
+Enterobacter phage Enc34,Enterobacter cancerogenus,neg,NC_019524,YP_007007026.1,DUF2163,DUF2163,0.00000012,40.2,17,157,1,1,1
+Enterobacter phage Enc34,Enterobacter cancerogenus,neg,NC_019524,YP_007007026.1,Phage_BR0599,Phage_BR0599,0,58.3,185,263,1,0,1
+Enterobacter phage Enc34,Enterobacter cancerogenus,neg,NC_019524,YP_007007026.1,TIGR02218,TIGR02218,2.60E-22,88,20,268,0,1,1
+Vibrio phage pVp-1,Vibrio parahaemolyticus ATCC 33844,neg,NC_019529,YP_007007978.1,LL_Fam1,LL_Fam1,0,226.1,1,198,1,0,1
+Vibrio phage pVp-1,Vibrio parahaemolyticus ATCC 33844,neg,NC_019529,YP_007007978.1,LL_Fam1,LL_Fam1,0,226.1,520,628,0,0,0
+Salmonella phage vB_SenS-Ent1,Salmonella enterica subsp. enterica serova,neg,NC_019539,YP_007010482.1,DUF1833,DUF1833,2.38E-44,158.6,9,157,0,0,0
+Acinetobacter phage Bphi-B1251,Acinetobacter baumannii YMC/09/02/B1251,neg,NC_019541,YP_007010628.1,DUF1833,DUF1833,0.00014,29.5,10,156,0,1,1
+Salmonella phage SPN3UB,Salmonella typhimurium,neg,NC_019545,YP_007011004.1,Phage_tail_L,Phage_tail_L,0,251.1,29,233,1,0,1
+Salmonella phage SPN3UB,Salmonella typhimurium,neg,NC_019545,YP_007011004.1,TIGR01600,TIGR01600,0,231.1,11,233,0,1,1
+Enterobacteria phage mEp237,0,neg,NC_019704,YP_007111390.1,Phage_tail_L,Phage_tail_L,0,318.1,24,249,1,0,1
+Enterobacteria phage mEp237,0,neg,NC_019704,YP_007111390.1,TIGR01600,TIGR01600,0,211.4,6,249,0,1,1
+Enterobacteria phage mEpX2,0,neg,NC_019705,YP_007111453.1,Phage_tail_L,Phage_tail_L,0,309.9,24,249,1,0,1
+Enterobacteria phage mEpX2,0,neg,NC_019705,YP_007111453.1,TIGR01600,TIGR01600,0,221,6,249,0,1,1
+Enterobacteria phage mEp043 c-1,0,neg,NC_019706,YP_007111518.1,Phage_tail_L,Phage_tail_L,0,233.9,24,243,1,0,1
+Enterobacteria phage mEp043 c-1,0,neg,NC_019706,YP_007111518.1,TIGR01600,TIGR01600,0,188,6,243,0,1,1
+Enterobacteria phage mEp235,0,neg,NC_019708,YP_007111593.1,Phage_tail_L,Phage_tail_L,0,309.9,24,249,1,0,1
+Enterobacteria phage mEp235,0,neg,NC_019708,YP_007111593.1,TIGR01600,TIGR01600,0,221,6,249,0,1,1
+Enterobacteria phage mEpX1,0,neg,NC_019709,YP_007111653.1,Phage_tail_L,Phage_tail_L,0,316.3,24,250,1,0,1
+Enterobacteria phage mEpX1,0,neg,NC_019709,YP_007111653.1,TIGR01600,TIGR01600,0,201.5,6,250,0,1,1
+Enterobacteria phage HK140,0,neg,NC_019710,YP_007111720.1,Phage_tail_L,Phage_tail_L,0,309.9,24,249,1,0,1
+Enterobacteria phage HK140,0,neg,NC_019710,YP_007111720.1,TIGR01600,TIGR01600,0,217.8,6,249,0,1,1
+Enterobacteria phage HK629,0,neg,NC_019711,YP_007111792.1,Phage_tail_L,Phage_tail_L,0,324.5,29,230,1,0,1
+Enterobacteria phage HK629,0,neg,NC_019711,YP_007111792.1,TIGR01600,TIGR01600,0,329.6,11,230,0,1,1
+Vibrio phage vB_VpaS_MAR10,0,neg,NC_019713,YP_007111893.1,Phage_BR0599,Phage_BR0599,0,55.5,188,263,1,1,1
+Vibrio phage vB_VpaS_MAR10,0,neg,NC_019713,YP_007111893.1,TIGR02218,TIGR02218,0,63.8,3,44,1,0,1
+Vibrio phage vB_VpaS_MAR10,0,neg,NC_019713,YP_007111893.1,TIGR02218,TIGR02218,0,63.8,57,266,0,1,1
+Enterobacteria phage HK446,0,neg,NC_019714,YP_007111969.1,Phage_tail_L,Phage_tail_L,0,319.6,24,250,1,0,1
+Enterobacteria phage HK446,0,neg,NC_019714,YP_007111969.1,TIGR01600,TIGR01600,0,205.2,6,250,0,1,1
+Enterobacterial phage mEp234,0,neg,NC_019715,YP_007112029.1,Phage_tail_L,Phage_tail_L,0,313.5,24,250,1,0,1
+Enterobacterial phage mEp234,0,neg,NC_019715,YP_007112029.1,TIGR01600,TIGR01600,0,199.4,6,250,0,1,1
+Enterobacteria phage mEp460,0,neg,NC_019716,YP_007112089.1,Phage_tail_L,Phage_tail_L,0,322,29,230,1,0,1
+Enterobacteria phage mEp460,0,neg,NC_019716,YP_007112089.1,TIGR01600,TIGR01600,0,330.3,11,230,0,1,1
+Enterobacteria phage HK225,0,neg,NC_019717,YP_007112150.1,Phage_tail_L,Phage_tail_L,0,316.8,24,249,1,0,1
+Enterobacteria phage HK225,0,neg,NC_019717,YP_007112150.1,TIGR01600,TIGR01600,0,210.5,6,249,0,1,1
+Enterobacteria phage vB_EcoS_Rogue1,0,neg,NC_019718,YP_007112237.1,Phage_tail_L,Phage_tail_L,0,165.6,30,248,1,0,1
+Enterobacteria phage vB_EcoS_Rogue1,0,neg,NC_019718,YP_007112237.1,TIGR01600,TIGR01600,2.60E-32,120.1,12,248,0,1,1
+Enterobacteria phage HK633,0,neg,NC_019719,YP_007112291.1,Phage_tail_L,Phage_tail_L,0,321.1,24,250,1,0,1
+Enterobacteria phage HK633,0,neg,NC_019719,YP_007112291.1,TIGR01600,TIGR01600,0,205.7,6,250,0,1,1
+Enterobacterial phage mEp213,0,neg,NC_019720,YP_007112358.1,Phage_tail_L,Phage_tail_L,0,233.9,24,243,1,0,1
+Enterobacterial phage mEp213,0,neg,NC_019720,YP_007112358.1,TIGR01600,TIGR01600,0,188,6,243,0,1,1
+Enterobacterial phage mEp390,0,neg,NC_019721,YP_007112432.1,Phage_tail_L,Phage_tail_L,0,317.1,24,250,1,0,1
+Enterobacterial phage mEp390,0,neg,NC_019721,YP_007112432.1,TIGR01600,TIGR01600,0,204.3,6,250,0,1,1
+Enterobacteria phage HK630,0,neg,NC_019723,YP_007112556.1,Phage_tail_L,Phage_tail_L,0,324.5,29,230,1,0,1
+Enterobacteria phage HK630,0,neg,NC_019723,YP_007112556.1,TIGR01600,TIGR01600,0,329.6,11,230,0,1,1
+Enterobacteria phage HK578,0,neg,NC_019724,YP_007112626.1,Phage_tail_L,Phage_tail_L,8.40E-38,138.1,33,260,1,0,1
+Enterobacteria phage HK578,0,neg,NC_019724,YP_007112626.1,TIGR01600,TIGR01600,4.70E-26,99.7,48,260,0,1,1
+Escherichia phage ADB-2,0,neg,NC_019725,YP_007112718.1,Phage_tail_L,Phage_tail_L,5.10E-42,151.9,2,197,1,0,1
+Escherichia phage ADB-2,0,neg,NC_019725,YP_007112718.1,TIGR01600,TIGR01600,3.60E-27,103.3,10,197,0,1,1
+Klebsiella phage KP36,Klebsiella pneumoniae,neg,NC_019781,YP_007173565.1,Phage_tail_L,Phage_tail_L,1.70E-38,140.4,30,247,1,0,1
+Klebsiella phage KP36,Klebsiella pneumoniae,neg,NC_019781,YP_007173565.1,TIGR01600,TIGR01600,9.00E-27,102,12,247,0,0,0
+Bacillus subtilis subsp. subtilis str. BSP1,0,0,NC_019896,YP_007210564.1,LL_Fam1,LL_Fam1,6,14.6,23,152,0,0,0
+Pseudomonas putida HB3267,Homo sapiens,0,NC_019905,YP_007228934.1,DUF1833,DUF1833,1.40E-45,162,2,148,0,1,1
+Pseudomonas putida HB3267,Homo sapiens,0,NC_019905,YP_007230828.1,DUF2163,DUF2163,1.9,16.7,7,137,1,0,1
+Pseudomonas putida HB3267,Homo sapiens,0,NC_019905,YP_007230828.1,LL_Fam1,LL_Fam1,5.90E-28,105.9,5,200,0,0,0
+Yersinia phage phiR201,Yersinia enterocolitica,neg,NC_019919,YP_007237107.1,LL_Fam1,LL_Fam1,0,194.2,1,200,0,1,1
+Cronobacter phage ENT47670,Cronobacter sakazakii,neg,NC_019927,YP_007237619.1,DUF1833,DUF1833,0.039,21.6,26,168,1,0,1
+Cronobacter phage ENT47670,Cronobacter sakazakii,neg,NC_019927,YP_007237619.1,DUF2163,DUF2163,2.7,16.2,61,171,0,0,0
+Xanthomonas phage CP1,Xanthomonas citri,neg,NC_019933,YP_007238090.1,DUF1833,DUF1833,2.00E-32,119.9,2,143,0,1,1
+Cronobacter phage ENT39118,Cronobacter sakazakii,neg,NC_019934,YP_007238123.1,Phage_tail_L,Phage_tail_L,0,245.7,24,248,1,0,1
+Cronobacter phage ENT39118,Cronobacter sakazakii,neg,NC_019934,YP_007238123.1,TIGR01600,TIGR01600,0,204.2,6,248,0,1,1
+Enterobacteriaceae bacterium strain FGI 57,0,0,NC_020063,YP_007340618.1,Phage_tail_L,Phage_tail_L,0,284.7,23,249,1,0,1
+Enterobacteriaceae bacterium strain FGI 57,0,0,NC_020063,YP_007340618.1,TIGR01600,TIGR01600,0,182.2,5,249,0,0,0
+Lawsonia intracellularis N343,0,0,NC_020127,YP_007365232.1,Phage_BR0599,Phage_BR0599,2,16.9,97,149,0,0,0
+Enterobacter aerogenes EA1509E,0,0,NC_020181,YP_007387108.1,DUF2163,DUF2163,6,15.1,35,132,0,1,1
+Enterobacter aerogenes EA1509E,0,0,NC_020181,YP_007388366.1,Phage_tail_L,Phage_tail_L,0,281.8,24,249,1,0,1
+Enterobacter aerogenes EA1509E,0,0,NC_020181,YP_007388366.1,TIGR01600,TIGR01600,0,202.4,6,249,0,0,0
+Enterobacter aerogenes EA1509E,0,0,NC_020181,YP_007391385.1,DUF1833,DUF1833,9.40E-37,133.9,2,148,0,1,1
+Pseudomonas phage JBD30,0,neg,NC_020198,YP_007392357.1,DUF2163,DUF2163,0.00000013,40,13,159,1,1,1
+Pseudomonas phage JBD30,0,neg,NC_020198,YP_007392357.1,Phage_BR0599,Phage_BR0599,4.00E-18,73.7,187,265,1,0,1
+Pseudomonas phage JBD30,0,neg,NC_020198,YP_007392357.1,TIGR02218,TIGR02218,0,318.1,18,272,0,1,1
+Pseudomonas phage JBD88a,0,neg,NC_020200,YP_007392456.1,DUF2163,DUF2163,0.000000098,40.4,13,159,1,1,1
+Pseudomonas phage JBD88a,0,neg,NC_020200,YP_007392456.1,Phage_BR0599,Phage_BR0599,4.10E-19,76.9,187,265,1,0,1
+Pseudomonas phage JBD88a,0,neg,NC_020200,YP_007392456.1,TIGR02218,TIGR02218,0,315,18,272,0,1,1
+Pseudomonas phage JBD5,0,neg,NC_020202,YP_007392757.1,DUF2163,DUF2163,0.00000086,37.4,13,159,1,1,1
+Pseudomonas phage JBD5,0,neg,NC_020202,YP_007392757.1,Phage_BR0599,Phage_BR0599,4.40E-17,70.4,187,265,1,0,1
+Pseudomonas phage JBD5,0,neg,NC_020202,YP_007392757.1,TIGR02218,TIGR02218,0,318.5,18,272,0,1,1
+Pseudomonas phage JBD24,0,neg,NC_020203,YP_007392815.1,DUF2163,DUF2163,0.00000013,40.1,13,159,1,1,1
+Pseudomonas phage JBD24,0,neg,NC_020203,YP_007392815.1,Phage_BR0599,Phage_BR0599,4.20E-17,70.4,187,265,1,0,1
+Pseudomonas phage JBD24,0,neg,NC_020203,YP_007392815.1,TIGR02218,TIGR02218,0,324.4,18,272,0,0,0
+Cronobacter sakazakii SP291,0,0,NC_020260,YP_007439198.1,TIGR02218,TIGR02218,1.7,16.5,342,414,0,1,1
+Cronobacter sakazakii SP291,0,0,NC_020260,YP_007440119.1,Phage_tail_L,Phage_tail_L,0,245.7,24,248,1,0,1
+Cronobacter sakazakii SP291,0,0,NC_020260,YP_007440119.1,TIGR01600,TIGR01600,0,204.2,6,248,0,0,0
+Salmonella enterica subsp. enterica serovar Javiana str.,0,0,NC_020307,YP_007471677.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Morganella morganii subsp. morganii KT,Homo sapiens,0,NC_020418,YP_007505288.1,Phage_tail_L,Phage_tail_L,0,267.4,23,250,1,0,1
+Morganella morganii subsp. morganii KT,Homo sapiens,0,NC_020418,YP_007505288.1,TIGR01600,TIGR01600,0,205.3,5,250,0,1,1
+Morganella morganii subsp. morganii KT,Homo sapiens,0,NC_020418,YP_007506070.1,Phage_tail_L,Phage_tail_L,0,267.4,23,250,1,0,1
+Morganella morganii subsp. morganii KT,Homo sapiens,0,NC_020418,YP_007506070.1,TIGR01600,TIGR01600,0,205.3,5,250,0,0,0
+Agromonas oligotrophica S58,0,0,NC_020453,YP_007511033.1,DUF1833,DUF1833,1.20E-16,68.7,1,101,0,1,1
+Rhodanobacter sp. 2APBS1,0,0,NC_020541,YP_007591172.1,Phage_BR0599,Phage_BR0599,0,61,179,255,1,0,1
+Rhodanobacter sp. 2APBS1,0,0,NC_020541,YP_007591172.1,TIGR02218,TIGR02218,3.30E-17,71.3,10,260,0,0,0
+Acinetobacter baumannii D1279779,Homo sapiens,0,NC_020547,YP_007595595.1,DUF1833,DUF1833,0.00000001,42.9,11,156,0,0,0
+Acinetobacter baumannii D1279779,Homo sapiens,0,NC_020547,YP_007595724.1,DUF1833,DUF1833,0.00000001,42.9,11,156,0,1,1
+Sphingomonas sp. MM-1,0,0,NC_020561,YP_007615490.1,Phage_tail_L,Phage_tail_L,0.051,21.2,92,156,1,1,1
+Sphingomonas sp. MM-1,0,0,NC_020561,YP_007615490.1,Phage_tail_L,Phage_tail_L,0.051,21.2,154,212,1,1,1
+Sphingomonas sp. MM-1,0,0,NC_020561,YP_007615490.1,TIGR01600,TIGR01600,0.073,20.5,77,158,1,0,1
+Sphingomonas sp. MM-1,0,0,NC_020561,YP_007615490.1,TIGR01600,TIGR01600,0.073,20.5,151,211,0,1,1
+Sphingomonas sp. MM-1,0,0,NC_020561,YP_007617739.1,DUF2163,DUF2163,0,167.2,1,157,1,1,1
+Sphingomonas sp. MM-1,0,0,NC_020561,YP_007617739.1,Phage_BR0599,Phage_BR0599,1.80E-21,84.4,187,265,1,0,1
+Sphingomonas sp. MM-1,0,0,NC_020561,YP_007617739.1,TIGR02218,TIGR02218,0,221.2,16,273,0,0,0
+Edwardsiella tarda C07-087,0,0,NC_020796,YP_007629388.1,LL_Fam1,LL_Fam1,0.69,17.6,54,143,0,1,1
+Edwardsiella tarda C07-087,0,0,NC_020796,YP_007629822.1,Phage_tail_L,Phage_tail_L,0,263.5,29,230,1,0,1
+Edwardsiella tarda C07-087,0,0,NC_020796,YP_007629822.1,TIGR01600,TIGR01600,0,269.1,12,230,0,0,0
+Micavibrio aeruginosavorus EPB,0,0,NC_020812,YP_007643554.1,DUF1833,DUF1833,0,179.6,9,170,0,1,1
+Mannheimia haemolytica USDA-ARS-USMARC-183,Bos taurus,0,NC_020833,YP_007665829.1,Phage_tail_L,Phage_tail_L,0,258.8,28,229,1,0,1
+Mannheimia haemolytica USDA-ARS-USMARC-183,Bos taurus,0,NC_020833,YP_007665829.1,TIGR01600,TIGR01600,0,257.8,4,229,0,1,1
+Mannheimia haemolytica USDA-ARS-USMARC-183,Bos taurus,0,NC_020833,YP_007666216.1,Phage_tail_L,Phage_tail_L,0,258.5,36,237,1,0,1
+Mannheimia haemolytica USDA-ARS-USMARC-183,Bos taurus,0,NC_020833,YP_007666216.1,TIGR01600,TIGR01600,0,256.9,12,237,0,1,1
+Mannheimia haemolytica USDA-ARS-USMARC-183,Bos taurus,0,NC_020833,YP_007666217.1,Phage_tail_L,Phage_tail_L,2.40E-21,84.3,38,124,1,0,1
+Mannheimia haemolytica USDA-ARS-USMARC-183,Bos taurus,0,NC_020833,YP_007666217.1,TIGR01600,TIGR01600,1.50E-22,88.2,12,124,0,1,1
+Mannheimia haemolytica USDA-ARS-SAM-185,Bos taurus,0,NC_020834,YP_007669229.1,Phage_tail_L,Phage_tail_L,0,251.4,36,236,1,0,1
+Mannheimia haemolytica USDA-ARS-SAM-185,Bos taurus,0,NC_020834,YP_007669229.1,TIGR01600,TIGR01600,0,244.7,12,236,0,1,1
+Mannheimia haemolytica USDA-ARS-SAM-185,Bos taurus,0,NC_020834,YP_007669237.1,Phage_tail_L,Phage_tail_L,0,261.2,35,241,1,0,1
+Mannheimia haemolytica USDA-ARS-SAM-185,Bos taurus,0,NC_020834,YP_007669237.1,TIGR01600,TIGR01600,0,247.6,12,241,0,0,0
+Desulfovibrio vulgaris str. Hildenborough,0,0,NC_002937,YP_011368.1,DUF1833,DUF1833,0.000000006,43.7,1,132,0,1,1
+Acinetobacter sp. ADP1,0,0,NC_005966,YP_046777.1,DUF2163,DUF2163,1.50E-39,143.9,1,176,1,1,1
+Acinetobacter sp. ADP1,0,0,NC_005966,YP_046777.1,Phage_BR0599,Phage_BR0599,6.00E-23,89.2,203,282,1,0,1
+Acinetobacter sp. ADP1,0,0,NC_005966,YP_046777.1,TIGR02218,TIGR02218,4.80E-25,97,23,285,0,0,0
+Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC,0,0,NC_006511,YP_151640.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Anaplasma marginale str. St. Maries,0,0,NC_004842,YP_153717.1,DUF2163,DUF2163,3.50E-37,136.2,1,161,1,1,1
+Anaplasma marginale str. St. Maries,0,0,NC_004842,YP_153717.1,Phage_BR0599,Phage_BR0599,1.70E-24,94.1,189,268,1,0,1
+Anaplasma marginale str. St. Maries,0,0,NC_004842,YP_153717.1,TIGR02218,TIGR02218,0,187.9,25,275,0,1,1
+Pseudomonas phage B3,Pseudomonas aeruginosa PAO1 (ATCC 15692),neg,NC_006548,YP_164090.1,DUF2163,DUF2163,0.000019,33,15,156,1,1,1
+Pseudomonas phage B3,Pseudomonas aeruginosa PAO1 (ATCC 15692),neg,NC_006548,YP_164090.1,Phage_BR0599,Phage_BR0599,4.80E-18,73.4,186,264,1,0,1
+Pseudomonas phage B3,Pseudomonas aeruginosa PAO1 (ATCC 15692),neg,NC_006548,YP_164090.1,TIGR02218,TIGR02218,9.30E-35,128.8,18,269,0,1,1
+Ruegeria pomeroyi DSS-3,0,0,NC_003911,YP_167478.1,DUF2163,DUF2163,0,229,1,163,1,1,1
+Ruegeria pomeroyi DSS-3,0,0,NC_003911,YP_167478.1,Phage_BR0599,Phage_BR0599,3.40E-27,102.8,194,277,1,0,1
+Ruegeria pomeroyi DSS-3,0,0,NC_003911,YP_167478.1,TIGR02218,TIGR02218,0,391.9,23,294,0,1,1
+Ruegeria pomeroyi DSS-3,0,0,NC_003911,YP_167938.1,Phage_BR0599,Phage_BR0599,1.60E-16,68.5,1,51,1,0,1
+Ruegeria pomeroyi DSS-3,0,0,NC_003911,YP_167938.1,TIGR02218,TIGR02218,5.40E-20,80.4,1,68,0,1,1
+Ehrlichia ruminantium str. Welgevonden,0,0,NC_005295,YP_180131.1,DUF2163,DUF2163,0,169.9,1,163,1,1,1
+Ehrlichia ruminantium str. Welgevonden,0,0,NC_005295,YP_180131.1,Phage_BR0599,Phage_BR0599,1.10E-25,98,191,270,1,0,1
+Ehrlichia ruminantium str. Welgevonden,0,0,NC_005295,YP_180131.1,TIGR02218,TIGR02218,0,207.8,23,274,0,0,0
+Lactobacillus acidophilus NCFM,0,0,NC_006814,YP_194108.1,TIGR02218,TIGR02218,1.4,16.8,29,123,0,1,1
+Ehrlichia ruminantium str. Gardel,0,0,NC_006831,YP_196190.1,DUF2163,DUF2163,0,164.6,1,163,1,1,1
+Ehrlichia ruminantium str. Gardel,0,0,NC_006831,YP_196190.1,Phage_BR0599,Phage_BR0599,1.00E-25,98,191,270,1,0,1
+Ehrlichia ruminantium str. Gardel,0,0,NC_006831,YP_196190.1,TIGR02218,TIGR02218,0,204.1,23,274,0,1,1
+Ehrlichia ruminantium str. Welgevonden,0,0,NC_006832,YP_197144.1,DUF2163,DUF2163,0,169.9,1,163,1,1,1
+Ehrlichia ruminantium str. Welgevonden,0,0,NC_006832,YP_197144.1,Phage_BR0599,Phage_BR0599,1.10E-25,98,191,270,1,0,1
+Ehrlichia ruminantium str. Welgevonden,0,0,NC_006832,YP_197144.1,TIGR02218,TIGR02218,0,207.8,23,274,0,1,1
+Neisseria gonorrhoeae FA 1090,0,0,NC_002946,YP_207657.1,DUF2163,DUF2163,1.80E-34,127.4,1,174,1,1,1
+Neisseria gonorrhoeae FA 1090,0,0,NC_002946,YP_207657.1,Phage_BR0599,Phage_BR0599,4.80E-28,105.5,202,281,1,1,1
+Neisseria gonorrhoeae FA 1090,0,0,NC_002946,YP_207657.1,TIGR02218,TIGR02218,5.10E-36,132.9,24,284,1,0,1
+Neisseria gonorrhoeae FA 1090,0,0,NC_002946,YP_207657.1,LL_Fam1,LL_Fam1,0.34,18.6,2,187,0,0,0
+Salmonella enterica subsp. enterica serovar Choleraesuis str.,0,0,NC_006905,YP_215295.1,DUF2163,DUF2163,1.8,16.8,37,111,0,1,1
+Salmonella enterica subsp. enterica serovar Choleraesuis str.,0,0,NC_006905,YP_215985.1,Phage_tail_L,Phage_tail_L,0,313,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Choleraesuis str.,0,0,NC_006905,YP_215985.1,TIGR01600,TIGR01600,0,284.7,11,230,0,1,1
+Salmonella enterica subsp. enterica serovar Choleraesuis str.,0,0,NC_006905,YP_216218.1,Phage_tail_L,Phage_tail_L,0,296.3,29,230,1,0,1
+Salmonella enterica subsp. enterica serovar Choleraesuis str.,0,0,NC_006905,YP_216218.1,TIGR01600,TIGR01600,0,314.9,11,230,0,1,1
+Phage phiJL001,alpha proteobacterium JL001,neg,NC_006938,YP_224008.1,DUF2163,DUF2163,0,184.9,1,166,1,1,1
+Phage phiJL001,alpha proteobacterium JL001,neg,NC_006938,YP_224008.1,Phage_BR0599,Phage_BR0599,5.30E-24,92.5,499,580,1,1,1
+Phage phiJL001,alpha proteobacterium JL001,neg,NC_006938,YP_224008.1,TIGR02218,TIGR02218,0,197.6,23,245,1,0,1
+Phage phiJL001,alpha proteobacterium JL001,neg,NC_006938,YP_224008.1,TIGR02218,TIGR02218,0,197.6,462,589,0,0,0
+Salmonella phage SS3e,Salmonella enterica subsp. enterica serova,neg,NC_006940,YP_224076.1,DUF1833,DUF1833,4.34E-44,157.7,9,157,0,1,1
+Enterobacteria phage ES18,Salmonella typhimurium,neg,NC_006949,YP_224164.1,Phage_tail_L,Phage_tail_L,0,250.2,29,233,1,0,1
+Enterobacteria phage ES18,Salmonella typhimurium,neg,NC_006949,YP_224164.1,TIGR01600,TIGR01600,0,230.8,11,233,0,1,1
+Pseudomonas syringae pv. syringae B728a,0,0,NC_007005,YP_235855.1,Phage_tail_L,Phage_tail_L,0,239.3,24,246,1,0,1
+Pseudomonas syringae pv. syringae B728a,0,0,NC_007005,YP_235855.1,TIGR01600,TIGR01600,0,203.8,6,246,0,1,1
+Rickettsia felis URRWXCal2,0,0,NC_007109,YP_246329.1,Phage_BR0599,Phage_BR0599,1.60E-17,71.8,24,92,1,0,1
+Rickettsia felis URRWXCal2,0,0,NC_007109,YP_246329.1,TIGR02218,TIGR02218,0,59,24,92,0,0,0
+Rickettsia felis URRWXCal2,0,0,NC_007109,YP_246772.1,DUF2163,DUF2163,0.0000079,34.2,42,131,0,1,1
+Rickettsia felis URRWXCal2,0,0,NC_007109,YP_246773.1,Phage_BR0599,Phage_BR0599,1.50E-16,68.6,15,91,1,0,1
+Rickettsia felis URRWXCal2,0,0,NC_007109,YP_246773.1,TIGR02218,TIGR02218,0,55.2,3,96,0,1,1
+Pseudomonas protegens Pf-5,0,0,NC_004129,YP_260851.1,Phage_tail_L,Phage_tail_L,0,230,24,225,1,0,1
+Pseudomonas protegens Pf-5,0,0,NC_004129,YP_260851.1,TIGR01600,TIGR01600,0,287.6,6,225,0,1,1
+Psychrobacter arcticus 273-4,0,0,NC_007204,YP_263743.1,Phage_tail_L,Phage_tail_L,0,214.8,59,270,1,1,1
+Psychrobacter arcticus 273-4,0,0,NC_007204,YP_263743.1,TIGR01600,TIGR01600,0,193.1,5,55,1,0,1
+Psychrobacter arcticus 273-4,0,0,NC_007204,YP_263743.1,TIGR01600,TIGR01600,0,193.1,52,270,0,1,1
+Enterobacteria phage JK06,Escherichia coli O157:H7,neg,NC_007291,YP_277447.1,Phage_tail_L,Phage_tail_L,7.01E-45,161.3,30,248,1,0,1
+Enterobacteria phage JK06,Escherichia coli O157:H7,neg,NC_007291,YP_277447.1,TIGR01600,TIGR01600,2.40E-31,117,12,248,0,1,1
+Ehrlichia canis str. Jake,0,0,NC_007354,YP_302899.1,DUF2163,DUF2163,4.90E-43,155.2,1,162,1,1,1
+Ehrlichia canis str. Jake,0,0,NC_007354,YP_302899.1,Phage_BR0599,Phage_BR0599,8.90E-26,98.2,190,269,1,0,1
+Ehrlichia canis str. Jake,0,0,NC_007354,YP_302899.1,TIGR02218,TIGR02218,0,193.5,23,268,0,1,1
+Shigella sonnei Ss046,0,0,NC_007384,YP_310687.1,Phage_tail_L,Phage_tail_L,0,318.6,29,230,1,0,1
+Shigella sonnei Ss046,0,0,NC_007384,YP_310687.1,TIGR01600,TIGR01600,0,328.5,11,230,0,1,1
+Shigella sonnei Ss046,0,0,NC_007384,YP_311291.1,Phage_tail_L,Phage_tail_L,0,322.3,29,230,1,0,1
+Shigella sonnei Ss046,0,0,NC_007384,YP_311291.1,TIGR01600,TIGR01600,0,329.7,11,230,0,1,1
+Nitrobacter winogradskyi Nb-255,0,0,NC_007406,YP_317412.1,DUF2163,DUF2163,0,211.4,1,163,1,1,1
+Nitrobacter winogradskyi Nb-255,0,0,NC_007406,YP_317412.1,Phage_BR0599,Phage_BR0599,9.90E-25,94.9,194,277,1,0,1
+Nitrobacter winogradskyi Nb-255,0,0,NC_007406,YP_317412.1,TIGR02218,TIGR02218,0,283.1,23,294,0,1,1
+Nitrobacter winogradskyi Nb-255,0,0,NC_007406,YP_317793.1,DUF2163,DUF2163,0,203.9,1,163,1,1,1
+Nitrobacter winogradskyi Nb-255,0,0,NC_007406,YP_317793.1,Phage_BR0599,Phage_BR0599,3.10E-30,112.5,194,277,1,0,1
+Nitrobacter winogradskyi Nb-255,0,0,NC_007406,YP_317793.1,TIGR02218,TIGR02218,0,315.8,23,294,0,1,1
+Nitrosococcus oceani ATCC 19707,0,0,NC_007484,YP_342451.1,TIGR02218,TIGR02218,0.082,20.8,187,237,1,1,1
+Nitrosococcus oceani ATCC 19707,0,0,NC_007484,YP_342451.1,TIGR02218,TIGR02218,0.082,20.8,226,291,1,1,1
+Nitrosococcus oceani ATCC 19707,0,0,NC_007484,YP_342451.1,TIGR02218,TIGR02218,0.082,20.8,287,336,1,1,1
+Nitrosococcus oceani ATCC 19707,0,0,NC_007484,YP_342451.1,TIGR02218,TIGR02218,0.082,20.8,326,373,1,0,1
+Nitrosococcus oceani ATCC 19707,0,0,NC_007484,YP_342451.1,TIGR02218,TIGR02218,0.082,20.8,358,426,0,1,1
+Burkholderia phage Bcep176,Burkholderia cepacia,neg,NC_007497,YP_355400.1,Phage_tail_L,Phage_tail_L,0,265,24,227,1,0,1
+Burkholderia phage Bcep176,Burkholderia cepacia,neg,NC_007497,YP_355400.1,TIGR01600,TIGR01600,0,294.3,6,227,0,1,1
+Enterobacteria phage RTP,Escherichia coli,neg,NC_007603,YP_398983.1,Phage_tail_L,Phage_tail_L,0,167.2,27,245,1,0,1
+Enterobacteria phage RTP,Escherichia coli,neg,NC_007603,YP_398983.1,TIGR01600,TIGR01600,5.40E-34,125.6,9,245,0,1,1
+Shigella boydii Sb227,0,0,NC_007613,YP_407664.1,Phage_tail_L,Phage_tail_L,0,317.1,29,230,1,0,1
+Shigella boydii Sb227,0,0,NC_007613,YP_407664.1,TIGR01600,TIGR01600,0,363.4,11,230,0,1,1
+Shigella boydii Sb227,0,0,NC_007613,YP_408065.1,Phage_tail_L,Phage_tail_L,0,260.3,11,191,1,0,1
+Shigella boydii Sb227,0,0,NC_007613,YP_408065.1,TIGR01600,TIGR01600,0,250.4,4,191,0,0,0
+Magnetospirillum magneticum AMB-1,0,0,NC_007626,YP_419756.1,DUF1833,DUF1833,0,200.1,9,164,0,1,1
+Magnetospirillum magneticum AMB-1,0,0,NC_007626,YP_419838.1,DUF2163,DUF2163,2.50E-41,149.7,1,186,1,1,1
+Magnetospirillum magneticum AMB-1,0,0,NC_007626,YP_419838.1,Phage_BR0599,Phage_BR0599,1.00E-18,75.6,213,293,1,0,1
+Magnetospirillum magneticum AMB-1,0,0,NC_007626,YP_419838.1,TIGR02218,TIGR02218,5.30E-20,80.4,23,295,0,0,0
+Magnetospirillum magneticum AMB-1,0,0,NC_007626,YP_420553.1,DUF1833,DUF1833,0,200.1,9,164,0,1,1
+Magnetospirillum magneticum AMB-1,0,0,NC_007626,YP_421142.1,DUF2163,DUF2163,0,61.4,1,187,1,1,1
+Magnetospirillum magneticum AMB-1,0,0,NC_007626,YP_421142.1,Phage_BR0599,Phage_BR0599,6.00E-17,69.9,214,299,1,0,1
+Magnetospirillum magneticum AMB-1,0,0,NC_007626,YP_421142.1,TIGR02218,TIGR02218,0,65.1,126,301,0,1,1
+Hahella chejuensis KCTC 2396,0,0,NC_007645,YP_436735.1,DUF2163,DUF2163,0.00000029,38.9,8,156,1,1,1
+Hahella chejuensis KCTC 2396,0,0,NC_007645,YP_436735.1,Phage_BR0599,Phage_BR0599,3.90E-19,76.9,184,261,1,0,1
+Hahella chejuensis KCTC 2396,0,0,NC_007645,YP_436735.1,TIGR02218,TIGR02218,6.70E-24,93.2,18,264,0,0,0
+Xanthomonas phage OP1,Xanthomonas oryzae,neg,NC_007709,YP_453577.1,DUF1833,DUF1833,9.89E-43,153.3,2,143,0,1,1
+Sodalis glossinidius str.  morsitans,Glossina morsitans morsitans,0,NC_007712,YP_453786.1,Phage_tail_L,Phage_tail_L,0,224.8,24,243,1,0,1
+Sodalis glossinidius str.  morsitans,Glossina morsitans morsitans,0,NC_007712,YP_453786.1,TIGR01600,TIGR01600,0,183.4,6,243,0,1,1
+Sodalis glossinidius str.  morsitans,Glossina morsitans morsitans,0,NC_007712,YP_455870.1,Phage_tail_L,Phage_tail_L,0,224.8,24,243,1,0,1
+Sodalis glossinidius str.  morsitans,Glossina morsitans morsitans,0,NC_007712,YP_455870.1,TIGR01600,TIGR01600,0,183.4,6,243,0,1,1
+Erythrobacter litoralis HTCC2594,0,0,NC_007722,YP_459683.1,DUF2163,DUF2163,8.70E-36,131.6,3,156,1,1,1
+Erythrobacter litoralis HTCC2594,0,0,NC_007722,YP_459683.1,Phage_BR0599,Phage_BR0599,1.80E-21,84.4,183,262,1,0,1
+Erythrobacter litoralis HTCC2594,0,0,NC_007722,YP_459683.1,TIGR02218,TIGR02218,0,180.5,17,271,0,0,0
+Frankia sp. CcI3,0,0,NC_007777,YP_481626.1,DUF1833,DUF1833,9.9,13.8,60,140,0,1,1
+Rhodopseudomonas palustris HaA2,0,0,NC_007778,YP_487067.1,DUF2163,DUF2163,0,208.6,1,163,1,1,1
+Rhodopseudomonas palustris HaA2,0,0,NC_007778,YP_487067.1,Phage_BR0599,Phage_BR0599,1.90E-28,106.8,194,277,1,0,1
+Rhodopseudomonas palustris HaA2,0,0,NC_007778,YP_487067.1,TIGR02218,TIGR02218,0,300.2,23,294,0,1,1
+Novosphingobium aromaticivorans DSM 12444,0,0,NC_007794,YP_498399.1,DUF2163,DUF2163,2.00E-35,130.5,2,156,1,1,1
+Novosphingobium aromaticivorans DSM 12444,0,0,NC_007794,YP_498399.1,Phage_BR0599,Phage_BR0599,5.70E-19,76.4,184,263,1,0,1
+Novosphingobium aromaticivorans DSM 12444,0,0,NC_007794,YP_498399.1,TIGR02218,TIGR02218,0,182,17,273,0,1,1
+Anaplasma phagocytophilum HZ,0,0,NC_007797,YP_505270.1,DUF2163,DUF2163,9.40E-42,151,1,163,1,1,1
+Anaplasma phagocytophilum HZ,0,0,NC_007797,YP_505270.1,Phage_BR0599,Phage_BR0599,6.00E-25,95.6,192,271,1,0,1
+Anaplasma phagocytophilum HZ,0,0,NC_007797,YP_505270.1,TIGR02218,TIGR02218,1.40E-44,161,23,276,0,1,1
+Ehrlichia chaffeensis str. Arkansas,0,0,NC_007799,YP_507631.1,DUF2163,DUF2163,0,166.6,1,163,1,1,1
+Ehrlichia chaffeensis str. Arkansas,0,0,NC_007799,YP_507631.1,Phage_BR0599,Phage_BR0599,1.10E-25,97.9,191,270,1,0,1
+Ehrlichia chaffeensis str. Arkansas,0,0,NC_007799,YP_507631.1,TIGR02218,TIGR02218,0,197,23,271,0,1,1
+Jannaschia sp. CCS1,0,0,NC_007802,YP_509586.1,DUF2163,DUF2163,0,215.6,1,161,1,1,1
+Jannaschia sp. CCS1,0,0,NC_007802,YP_509586.1,Phage_BR0599,Phage_BR0599,1.60E-26,100.6,191,274,1,0,1
+Jannaschia sp. CCS1,0,0,NC_007802,YP_509586.1,TIGR02218,TIGR02218,0,303.7,21,291,0,1,1
+Rhodopseudomonas palustris BisB18,0,0,NC_007925,YP_531700.1,DUF2163,DUF2163,0,208.4,1,163,1,1,1
+Rhodopseudomonas palustris BisB18,0,0,NC_007925,YP_531700.1,Phage_BR0599,Phage_BR0599,4.70E-26,99.1,192,275,1,0,1
+Rhodopseudomonas palustris BisB18,0,0,NC_007925,YP_531700.1,TIGR02218,TIGR02218,0,304.3,23,291,0,1,1
+Lactobacillus salivarius UCC118,0,0,NC_007929,YP_535812.1,DUF1833,DUF1833,4.7,14.8,2,47,1,0,1
+Lactobacillus salivarius UCC118,0,0,NC_007929,YP_535812.1,DUF1833,DUF1833,4.7,14.8,456,515,0,1,1
+Rickettsia bellii RML369-C,0,0,NC_007940,YP_537473.1,DUF2163,DUF2163,1.70E-22,88.5,1,151,1,1,1
+Rickettsia bellii RML369-C,0,0,NC_007940,YP_537473.1,Phage_BR0599,Phage_BR0599,0,60.9,178,254,1,0,1
+Rickettsia bellii RML369-C,0,0,NC_007940,YP_537473.1,TIGR02218,TIGR02218,5.40E-27,103.4,19,260,0,1,1
+Escherichia coli UTI89,0,0,NC_007946,YP_540341.1,Phage_tail_L,Phage_tail_L,0,321.1,29,230,1,0,1
+Escherichia coli UTI89,0,0,NC_007946,YP_540341.1,TIGR01600,TIGR01600,0,328,11,230,0,1,1
+Escherichia coli UTI89,0,0,NC_007946,YP_540522.1,Phage_tail_L,Phage_tail_L,0,321.2,29,230,1,0,1
+Escherichia coli UTI89,0,0,NC_007946,YP_540522.1,TIGR01600,TIGR01600,0,329.5,11,230,0,1,1
+Escherichia coli UTI89,0,0,NC_007946,YP_544061.1,Phage_tail_L,Phage_tail_L,0,321.9,29,230,1,0,1
+Escherichia coli UTI89,0,0,NC_007946,YP_544061.1,TIGR01600,TIGR01600,0,331,11,230,0,1,1
+Methylobacillus flagellatus KT,0,0,NC_007947,YP_546406.1,Phage_BR0599,Phage_BR0599,4.8,15.8,197,237,1,0,1
+Methylobacillus flagellatus KT,0,0,NC_007947,YP_546406.1,Phage_BR0599,Phage_BR0599,4.8,15.8,250,297,0,0,0
+Methylobacillus flagellatus KT,0,0,NC_007947,YP_546791.1,DUF1833,DUF1833,2.40E-27,103.4,9,170,0,1,1
+Rhodopseudomonas palustris BisB5,0,0,NC_007958,YP_569127.1,DUF2163,DUF2163,0,207,1,163,1,1,1
+Rhodopseudomonas palustris BisB5,0,0,NC_007958,YP_569127.1,Phage_BR0599,Phage_BR0599,2.70E-28,106.3,194,277,1,0,1
+Rhodopseudomonas palustris BisB5,0,0,NC_007958,YP_569127.1,TIGR02218,TIGR02218,0,309.1,23,295,0,0,0
+Chromohalobacter salexigens DSM 3043,0,0,NC_007963,YP_574007.1,LL_Fam1,LL_Fam1,8.5,14.1,249,326,0,1,1
+Nitrobacter hamburgensis X14,0,0,NC_007964,YP_576706.1,DUF2163,DUF2163,0,207,1,163,1,1,1
+Nitrobacter hamburgensis X14,0,0,NC_007964,YP_576706.1,Phage_BR0599,Phage_BR0599,8.40E-30,111.1,194,277,1,0,1
+Nitrobacter hamburgensis X14,0,0,NC_007964,YP_576706.1,TIGR02218,TIGR02218,0,306.5,23,294,0,0,0
+Nitrobacter hamburgensis X14,0,0,NC_007964,YP_577639.1,DUF2163,DUF2163,1.6,17,25,133,0,0,0
+Cupriavidus metallidurans CH34,0,0,NC_007973,YP_584937.1,TIGR02218,TIGR02218,4.1,15.2,94,154,0,0,0
+Candidatus Koribacter versatilis Ellin345,0,0,NC_008009,YP_592233.1,LL_Fam1,LL_Fam1,0,55.5,2,197,0,0,0
+Lawsonia intracellularis PHE/MN1-00,Sus scrofa,0,NC_008011,YP_594525.1,Phage_BR0599,Phage_BR0599,2,16.9,97,149,0,1,1
+Pseudomonas entomophila L48,0,0,NC_008027,YP_609650.1,Phage_tail_L,Phage_tail_L,0,252.6,24,246,1,0,1
+Pseudomonas entomophila L48,0,0,NC_008027,YP_609650.1,TIGR01600,TIGR01600,0,211.5,6,246,0,0,0
+Ruegeria sp. TM1040,0,0,NC_008044,YP_612842.1,LL_Fam1,LL_Fam1,8,14.1,187,262,0,1,1
+Ruegeria sp. TM1040,0,0,NC_008044,YP_613065.1,DUF2163,DUF2163,0,224.1,1,161,1,1,1
+Ruegeria sp. TM1040,0,0,NC_008044,YP_613065.1,Phage_BR0599,Phage_BR0599,1.20E-26,101,192,274,1,0,1
+Ruegeria sp. TM1040,0,0,NC_008044,YP_613065.1,TIGR02218,TIGR02218,0,329.4,21,291,0,1,1
+Sphingopyxis alaskensis RB2256,0,0,NC_008048,YP_617035.1,DUF2163,DUF2163,0,170.1,5,166,1,1,1
+Sphingopyxis alaskensis RB2256,0,0,NC_008048,YP_617035.1,Phage_BR0599,Phage_BR0599,2.00E-21,84.3,190,269,1,0,1
+Sphingopyxis alaskensis RB2256,0,0,NC_008048,YP_617035.1,TIGR02218,TIGR02218,0,205.3,25,277,0,0,0
+Myxococcus xanthus DK 1622,0,0,NC_008095,YP_631485.1,DUF2163,DUF2163,9.6,14.4,5,59,0,0,0
+Myxococcus xanthus DK 1622,0,0,NC_008095,YP_632316.1,TIGR02218,TIGR02218,9.7,14,282,416,0,1,1
+Yersinia pestis Nepal516,0,0,NC_008149,YP_647523.1,Phage_tail_L,Phage_tail_L,0,288.3,24,248,1,0,1
+Yersinia pestis Nepal516,0,0,NC_008149,YP_647523.1,TIGR01600,TIGR01600,0,219.1,6,248,0,1,1
+Yersinia pestis Antiqua,0,0,NC_008150,YP_651395.1,Phage_tail_L,Phage_tail_L,0,288.3,24,248,1,0,1
+Yersinia pestis Antiqua,0,0,NC_008150,YP_651395.1,TIGR01600,TIGR01600,0,219.1,6,248,0,0,0
+Mycobacterium phage Cooper,Mycobacterium,myc,NC_008195,YP_654967.1,DUF2163,DUF2163,2.8,16.2,6,154,0,0,0
+Pseudoalteromonas atlantica T6c,0,0,NC_008228,YP_659908.1,DUF1833,DUF1833,6.7,14.3,90,185,0,1,1
+Escherichia coli 536,0,0,NC_008253,YP_669094.1,Phage_tail_L,Phage_tail_L,0,324.3,29,230,1,0,1
+Escherichia coli 536,0,0,NC_008253,YP_669094.1,TIGR01600,TIGR01600,0,331.3,11,230,0,0,0
+Chelativorans sp. BNC1,0,0,NC_008254,YP_673794.1,LL_Fam1,LL_Fam1,0.0011,26.7,3,183,0,1,1
+Roseobacter denitrificans OCh 114,0,0,NC_008209,YP_683220.1,DUF2163,DUF2163,0,223.3,1,163,1,1,1
+Roseobacter denitrificans OCh 114,0,0,NC_008209,YP_683220.1,Phage_BR0599,Phage_BR0599,1.50E-27,103.9,194,277,1,0,1
+Roseobacter denitrificans OCh 114,0,0,NC_008209,YP_683220.1,TIGR02218,TIGR02218,0,314.2,23,294,0,1,1
+Shigella flexneri 5 str. 8401,0,0,NC_008258,YP_689339.1,Phage_tail_L,Phage_tail_L,0,315.7,110,311,1,0,1
+Shigella flexneri 5 str. 8401,0,0,NC_008258,YP_689339.1,TIGR01600,TIGR01600,0,327.5,92,311,0,1,1
+Shigella flexneri 5 str. 8401,0,0,NC_008258,YP_690121.1,Phage_tail_L,Phage_tail_L,0,315.7,110,311,1,0,1
+Shigella flexneri 5 str. 8401,0,0,NC_008258,YP_690121.1,TIGR01600,TIGR01600,0,327.5,92,311,0,1,1
+Trichodesmium erythraeum IMS101,0,0,NC_008312,YP_723589.1,LL_Fam1,LL_Fam1,0.0025,25.6,202,265,1,1,1
+Trichodesmium erythraeum IMS101,0,0,NC_008312,YP_723589.1,LL_Fam1,LL_Fam1,0.0025,25.6,261,329,1,1,1
+Trichodesmium erythraeum IMS101,0,0,NC_008312,YP_723589.1,LL_Fam1,LL_Fam1,0.0025,25.6,325,439,1,0,1
+Trichodesmium erythraeum IMS101,0,0,NC_008312,YP_723589.1,LL_Fam1,LL_Fam1,0.0025,25.6,383,479,0,0,0
+Ralstonia eutropha H16,0,0,NC_008313,YP_727423.1,TIGR02218,TIGR02218,2.4,16,36,156,0,1,1
+Nitrosomonas eutropha C91,0,0,NC_008344,YP_747669.1,DUF2163,DUF2163,0.000000003,45.3,1,127,1,1,1
+Nitrosomonas eutropha C91,0,0,NC_008344,YP_747669.1,Phage_BR0599,Phage_BR0599,1.60E-17,71.8,155,228,1,0,1
+Nitrosomonas eutropha C91,0,0,NC_008344,YP_747669.1,TIGR02218,TIGR02218,2.00E-21,85.1,1,233,0,1,1
+Maricaulis maris MCS10,0,0,NC_008347,YP_756162.1,DUF2163,DUF2163,0,184.7,1,164,1,1,1
+Maricaulis maris MCS10,0,0,NC_008347,YP_756162.1,Phage_BR0599,Phage_BR0599,0.0000000024,45.6,164,201,1,1,1
+Maricaulis maris MCS10,0,0,NC_008347,YP_756162.1,TIGR02218,TIGR02218,0,186.8,23,171,1,0,1
+Maricaulis maris MCS10,0,0,NC_008347,YP_756162.1,TIGR02218,TIGR02218,0,186.8,165,218,0,1,1
+Rhodopseudomonas palustris BisA53,0,0,NC_008435,YP_780846.1,DUF2163,DUF2163,0,194.6,1,163,1,1,1
+Rhodopseudomonas palustris BisA53,0,0,NC_008435,YP_780846.1,Phage_BR0599,Phage_BR0599,3.20E-30,112.4,194,277,1,0,1
+Rhodopseudomonas palustris BisA53,0,0,NC_008435,YP_780846.1,TIGR02218,TIGR02218,0,304.6,23,293,0,1,1
+Pseudomonas aeruginosa UCBPP-PA14,0,0,NC_008463,YP_788812.1,Phage_tail_L,Phage_tail_L,0,303.9,24,229,1,0,1
+Pseudomonas aeruginosa UCBPP-PA14,0,0,NC_008463,YP_788812.1,TIGR01600,TIGR01600,0,253.7,6,229,0,0,0
+Candidatus Solibacter usitatus Ellin6076,0,0,NC_008536,YP_828413.1,DUF2163,DUF2163,0.51,18.6,18,108,0,1,1
+Syntrophobacter fumaroxidans MPOB,0,0,NC_008554,YP_846011.1,DUF1833,DUF1833,0.000023,32.1,8,150,1,1,1
+Syntrophobacter fumaroxidans MPOB,0,0,NC_008554,YP_846011.1,Phage_tail_L,Phage_tail_L,1.80E-18,74.9,29,198,1,0,1
+Syntrophobacter fumaroxidans MPOB,0,0,NC_008554,YP_846011.1,TIGR01600,TIGR01600,3.00E-16,67.6,12,197,0,1,1
+Escherichia coli APEC O1,0,0,NC_008563,YP_852278.1,Phage_tail_L,Phage_tail_L,0,321.1,29,230,1,0,1
+Escherichia coli APEC O1,0,0,NC_008563,YP_852278.1,TIGR01600,TIGR01600,0,328,11,230,0,1,1
+Escherichia coli APEC O1,0,0,NC_008563,YP_852422.1,Phage_tail_L,Phage_tail_L,0,320.8,29,230,1,0,1
+Escherichia coli APEC O1,0,0,NC_008563,YP_852422.1,TIGR01600,TIGR01600,0,329.4,11,230,0,1,1
+Escherichia coli APEC O1,0,0,NC_008563,YP_852547.1,Phage_tail_L,Phage_tail_L,0,319.5,29,230,1,0,1
+Escherichia coli APEC O1,0,0,NC_008563,YP_852547.1,TIGR01600,TIGR01600,0,327.5,11,230,0,1,1
+Escherichia coli APEC O1,0,0,NC_008563,YP_860045.1,Phage_tail_L,Phage_tail_L,0,319,29,230,1,0,1
+Escherichia coli APEC O1,0,0,NC_008563,YP_860045.1,TIGR01600,TIGR01600,0,327.6,11,230,0,1,1
+Chlorobium phaeobacteroides DSM 266,0,0,NC_008639,YP_911315.1,LL_Fam1,LL_Fam1,0.011,23.4,1291,1359,1,1,1
+Chlorobium phaeobacteroides DSM 266,0,0,NC_008639,YP_911315.1,LL_Fam1,LL_Fam1,0.011,23.4,1374,1438,1,1,1
+Chlorobium phaeobacteroides DSM 266,0,0,NC_008639,YP_911315.1,LL_Fam1,LL_Fam1,0.011,23.4,1431,1485,1,1,1
+Chlorobium phaeobacteroides DSM 266,0,0,NC_008639,YP_911315.1,LL_Fam1,LL_Fam1,0.011,23.4,1499,1568,1,1,1
+Chlorobium phaeobacteroides DSM 266,0,0,NC_008639,YP_911315.1,LL_Fam1,LL_Fam1,0.011,23.4,1556,1606,1,1,1
+Chlorobium phaeobacteroides DSM 266,0,0,NC_008639,YP_911315.1,LL_Fam1,LL_Fam1,0.011,23.4,1598,1655,1,0,1
+Chlorobium phaeobacteroides DSM 266,0,0,NC_008639,YP_911315.1,LL_Fam1,LL_Fam1,0.011,23.4,1750,1830,0,1,1
+Nocardioides sp. JS614,0,0,NC_008699,YP_925422.1,DUF1833,DUF1833,2.3,15.9,74,106,1,0,1
+Nocardioides sp. JS614,0,0,NC_008699,YP_925422.1,DUF1833,DUF1833,2.3,15.9,83,170,0,1,1
+Pseudomonas phage DMS3,Pseudomonas aeruginosa,neg,NC_008717,YP_950469.1,DUF2163,DUF2163,0.0000012,36.9,13,159,1,1,1
+Pseudomonas phage DMS3,Pseudomonas aeruginosa,neg,NC_008717,YP_950469.1,Phage_BR0599,Phage_BR0599,3.80E-17,70.6,187,265,1,0,1
+Pseudomonas phage DMS3,Pseudomonas aeruginosa,neg,NC_008717,YP_950469.1,TIGR02218,TIGR02218,0,300.5,18,272,0,1,1
+Shewanella sp. W3-18-1,0,0,NC_008750,YP_963841.1,Phage_tail_L,Phage_tail_L,0,256.6,23,240,1,0,1
+Shewanella sp. W3-18-1,0,0,NC_008750,YP_963841.1,TIGR01600,TIGR01600,0,207.9,5,240,0,1,1
+Desulfovibrio vulgaris DP4,0,0,NC_008751,YP_966527.1,DUF2163,DUF2163,2.70E-24,94.3,1,156,1,1,1
+Desulfovibrio vulgaris DP4,0,0,NC_008751,YP_966527.1,Phage_BR0599,Phage_BR0599,1.40E-16,68.7,183,257,1,1,1
+Desulfovibrio vulgaris DP4,0,0,NC_008751,YP_966527.1,Phage_tail_L,Phage_tail_L,1.3,16.7,15,77,1,1,1
+Desulfovibrio vulgaris DP4,0,0,NC_008751,YP_966527.1,Phage_tail_L,Phage_tail_L,1.3,16.7,212,254,1,1,1
+Desulfovibrio vulgaris DP4,0,0,NC_008751,YP_966527.1,TIGR01600,TIGR01600,2.6,15.4,15,77,1,1,1
+Desulfovibrio vulgaris DP4,0,0,NC_008751,YP_966527.1,TIGR01600,TIGR01600,2.6,15.4,200,254,1,0,1
+Desulfovibrio vulgaris DP4,0,0,NC_008751,YP_966527.1,TIGR02218,TIGR02218,1.90E-22,88.4,19,262,0,1,1
+Neisseria meningitidis FAM18,0,0,NC_008767,YP_974945.1,Phage_BR0599,Phage_BR0599,2.8,16.5,205,238,1,1,1
+Neisseria meningitidis FAM18,0,0,NC_008767,YP_974945.1,Phage_tail_L,Phage_tail_L,0,307.2,34,238,1,0,1
+Neisseria meningitidis FAM18,0,0,NC_008767,YP_974945.1,TIGR01600,TIGR01600,0,273.3,15,238,0,0,0
